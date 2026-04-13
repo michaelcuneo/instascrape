@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Natalie Kikken"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Natalie Kikken",
+      "timestamp_ms": 1711001435379,
+      "content": "I rang and booked \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1711001441
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1711000992264,
+      "content": "Can do!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalie Kikken",
+      "timestamp_ms": 1710996351714,
+      "content": "Cool! Do you have a table available for tonight for 4 people at 6pm? \u00f0\u009f\u0099\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalie Kikken",
+      "timestamp_ms": 1710992068542,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1710991823626,
+      "content": "We sure do! Even have a little menu for them.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalie Kikken",
+          "timestamp": 1710992068
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalie Kikken",
+      "timestamp_ms": 1710986637916,
+      "content": "Hi! Do you offer kids meals as part of your menu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Natalie Kikken",
+  "is_still_participant": true,
+  "thread_path": "inbox/nataliekikken_1276377117098934",
+  "magic_words": [
+    
+  ]
+}

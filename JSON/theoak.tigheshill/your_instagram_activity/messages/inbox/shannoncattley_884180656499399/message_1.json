@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Shannon Cattley"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shannon Cattley",
+      "timestamp_ms": 1702240089391,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shannon Cattley",
+  "is_still_participant": true,
+  "thread_path": "inbox/shannoncattley_884180656499399",
+  "magic_words": [
+    
+  ]
+}

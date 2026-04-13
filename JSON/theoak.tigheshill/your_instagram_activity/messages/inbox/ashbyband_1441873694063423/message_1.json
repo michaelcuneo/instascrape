@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "ashby.band"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1772107018835,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3841034472602578595"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ashby.band",
+      "timestamp_ms": 1772073411535,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "ashby.band",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashbyband_1441873694063423",
+  "magic_words": [
+    
+  ]
+}

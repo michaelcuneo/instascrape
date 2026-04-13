@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Sirocco"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sirocco",
+      "timestamp_ms": 1772162877578,
+      "content": "Cheers!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1772162821498,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3841502564302526669"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sirocco",
+      "timestamp_ms": 1772157050511,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sirocco",
+  "is_still_participant": true,
+  "thread_path": "inbox/sirocco_1442706160646843",
+  "magic_words": [
+    
+  ]
+}

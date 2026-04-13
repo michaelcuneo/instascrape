@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Valentin"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Valentin",
+      "timestamp_ms": 1766195270371,
+      "content": "Hey there, I'm one of these annoyingly backpackers, but I definitely wanna go for the local punk scene in newy when I come over! I found your place with some research. Back home we hosted the band fungas for a show (won't make it to their concert tonight :(...) and yeah I'm just looking for locations that do live music, for punk, garage, fuzz, stoner, metal, Hardcore. In best case local shows.\nI would be happy if you could recommend some place to be \u00f0\u009f\u00ab\u00b6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Valentin",
+  "is_still_participant": true,
+  "thread_path": "inbox/valentin_1388077099443083",
+  "magic_words": [
+    
+  ]
+}

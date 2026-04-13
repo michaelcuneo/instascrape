@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Si Roxwell"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Si Roxwell",
+      "timestamp_ms": 1772881789192,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Si Roxwell",
+  "is_still_participant": true,
+  "thread_path": "inbox/siroxwell_1449219103328882",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "RIXON"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1727933914415,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3470483643595017163"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RIXON",
+      "timestamp_ms": 1727932736692,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RIXON",
+      "timestamp_ms": 1721027984704,
+      "content": "Thanks for that \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RIXON",
+      "timestamp_ms": 1720839627128,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1720834185861,
+      "content": "Hey guys, email our band booker\u00e2\u0080\u00a6\n\nOakbandbooking@gmail.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "RIXON",
+          "timestamp": 1720839627
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RIXON",
+      "timestamp_ms": 1720743015975,
+      "content": "G\u00e2\u0080\u0099day, just reaching out to see if you guys have spots to put on a show for next year cheers,",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "RIXON",
+  "is_still_participant": true,
+  "thread_path": "inbox/rixon_1006209247629872",
+  "magic_words": [
+    
+  ]
+}

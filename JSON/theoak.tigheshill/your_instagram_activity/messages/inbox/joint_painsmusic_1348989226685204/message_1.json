@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "joint_pains.music"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "joint_pains.music",
+      "timestamp_ms": 1764568255294,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764567796124,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "joint_pains.music"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764565567702,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1761817546945,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "joint_pains.music",
+  "is_still_participant": true,
+  "thread_path": "inbox/joint_painsmusic_1348989226685204",
+  "magic_words": [
+    
+  ]
+}

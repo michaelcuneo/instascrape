@@ -1,0 +1,113 @@
+{
+  "participants": [
+    {
+      "name": "Rosalie Connor"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1768276884939,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rosalie Connor",
+      "timestamp_ms": 1768276884511,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rosalie Connor",
+      "timestamp_ms": 1768276884123,
+      "content": "0432245460 \n\nThanks :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1768276476930,
+      "content": "Can throw you in can we get a contact number please",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1768276420679,
+      "content": "You took a screenshot.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rosalie Connor",
+      "timestamp_ms": 1768269194347,
+      "content": "Hey team is it possible to book a tale for trivia this Thursday for 4 people?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rosalie Connor",
+      "timestamp_ms": 1748387219364,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1748387156284,
+      "content": "Yes indeed",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Rosalie Connor"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rosalie Connor",
+      "timestamp_ms": 1748387127314,
+      "content": "Team can we have dogs inside?!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rosalie Connor",
+      "timestamp_ms": 1737449720312,
+      "content": "And this is why we love the oak! Thank you",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1737449383295,
+      "content": "We can definitely have it on in the back bar for you and your schnitty",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rosalie Connor",
+      "timestamp_ms": 1737449333326,
+      "content": "Hey team will you guys be playing the tennis tomorrow night? as an avid snitty special fan but also an avid De Minaur fan, I\u00e2\u0080\u0099d hate to have to pick one of the other.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rosalie Connor",
+  "is_still_participant": true,
+  "thread_path": "inbox/rosalieconnor_954498986134232",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Rob"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rob",
+      "timestamp_ms": 1774776335356,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rob",
+      "timestamp_ms": 1760262274250,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rob",
+  "is_still_participant": true,
+  "thread_path": "inbox/rob_1333675768216550",
+  "magic_words": [
+    
+  ]
+}

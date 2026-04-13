@@ -1,0 +1,126 @@
+{
+  "participants": [
+    {
+      "name": "_subrigo"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "_subrigo",
+      "timestamp_ms": 1707778829750,
+      "content": "i sent an email the other day too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_subrigo",
+      "timestamp_ms": 1707778816915,
+      "content": "hey guys!, i played at your venue on saturday night and haven\u00e2\u0080\u0099t received my payment yet. just wondering what info you guys need for it? thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_subrigo",
+      "timestamp_ms": 1707524195179,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_subrigo",
+      "timestamp_ms": 1707380065654,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1707380088
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_subrigo",
+      "timestamp_ms": 1706938723912,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1706938717635,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "_subrigo",
+          "timestamp": 1706938723
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3294363167764632444"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_subrigo",
+      "timestamp_ms": 1706935722368,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_subrigo",
+      "timestamp_ms": 1701564691850,
+      "content": "thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_subrigo",
+      "timestamp_ms": 1701564685370,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1701564116514,
+      "content": "Email \n\nOakbandbooking@gmail.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "_subrigo",
+          "timestamp": 1701564685
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_subrigo",
+      "timestamp_ms": 1701341683168,
+      "content": "https://open.spotify.com/artist/06xRKODqgfaAGvKsaV214u?si=qjewSMfwS1afJLAoZqhLAg",
+      "share": {
+        "link": "https://open.spotify.com/artist/06xRKODqgfaAGvKsaV214u?si=qjewSMfwS1afJLAoZqhLAg",
+        "share_text": "https://open.spotify.com/artist/06xRKODqgfaAGvKsaV214u?si=qjewSMfwS1afJLAoZqhLAg"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_subrigo",
+      "timestamp_ms": 1701341682645,
+      "content": "hey there!, i was just wondering if it would be possible to perform at your venue?, im a solo artist that plays alternative rock and indie rock my spotify link is",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "_subrigo",
+  "is_still_participant": true,
+  "thread_path": "inbox/_subrigo_1211628810239703",
+  "magic_words": [
+    
+  ]
+}

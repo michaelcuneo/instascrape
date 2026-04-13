@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Ren"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1728476022987,
+      "content": "Gday Ren, Trivia kicks off at 7pm, if you would like to book a table there is a link in out bio! If not try get in early to snag any walk in tables!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ren",
+      "timestamp_ms": 1728445044326,
+      "content": "Heya, just wondering what time trivia starts on Thursday?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ren",
+  "is_still_participant": true,
+  "thread_path": "inbox/ren_1368241167913663",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Nick Capper"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nick Capper",
+      "timestamp_ms": 1728011566788,
+      "content": "Thanks m8",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1728011949
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nick Capper",
+      "timestamp_ms": 1728011492597,
+      "content": "Hahahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1728007874958,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/nickcapper_1060916055492524/videos/1655057718395580.mp4",
+          "creation_timestamp": 1728007867
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nick Capper",
+  "is_still_participant": true,
+  "thread_path": "inbox/nickcapper_1060916055492524",
+  "magic_words": [
+    
+  ]
+}

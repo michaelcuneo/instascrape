@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752553604958,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/instagramuser_1261428952107899/photos/24281192171475548.jpg",
+          "creation_timestamp": 1752553603
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752548689123,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/instagramuser_1261428952107899/photos/1407124060574075.jpg",
+          "creation_timestamp": 1752548687
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752548647816,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/instagramuser_1261428952107899/photos/1241922084613065.jpg",
+          "creation_timestamp": 1752548644
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_1261428952107899",
+  "magic_words": [
+    
+  ]
+}

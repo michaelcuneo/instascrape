@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Bleu Collective"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762423434916,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bleu Collective",
+  "is_still_participant": true,
+  "thread_path": "inbox/bleucollective_1354947596089367",
+  "magic_words": [
+    
+  ]
+}

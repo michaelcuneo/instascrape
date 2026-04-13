@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Samantha"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Samantha",
+      "timestamp_ms": 1734779582066,
+      "content": "Hey team, what was the name of the band that played at 7pm tonight?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samantha",
+      "timestamp_ms": 1707354268394,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Samantha",
+  "is_still_participant": true,
+  "thread_path": "inbox/samantha_917661276484670",
+  "magic_words": [
+    
+  ]
+}

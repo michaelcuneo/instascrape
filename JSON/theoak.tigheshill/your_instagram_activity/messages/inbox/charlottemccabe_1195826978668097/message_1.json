@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Charlotte McCabe"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charlotte McCabe",
+      "timestamp_ms": 1744777871563,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1744777829362,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Charlotte McCabe",
+  "is_still_participant": true,
+  "thread_path": "inbox/charlottemccabe_1195826978668097",
+  "magic_words": [
+    
+  ]
+}

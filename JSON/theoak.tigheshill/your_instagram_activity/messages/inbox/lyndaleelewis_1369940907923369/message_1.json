@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Lynda Lee Lewis"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lynda Lee Lewis",
+      "timestamp_ms": 1764046359247,
+      "content": "\u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764046096483,
+      "content": "Tastings roll throughout the afternoon. Come and see us at the bar when you arrive and we\u00e2\u0080\u0099ll give you a punch card to use across the day.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lynda Lee Lewis",
+      "timestamp_ms": 1764045908613,
+      "content": "Hey we booked tickets for the wine tasting this Sunday \u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb do we need to be there at a particular time to participate in the tasting?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lynda Lee Lewis",
+  "is_still_participant": true,
+  "thread_path": "inbox/lyndaleelewis_1369940907923369",
+  "magic_words": [
+    
+  ]
+}

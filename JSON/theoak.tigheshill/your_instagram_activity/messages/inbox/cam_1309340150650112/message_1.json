@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Cam"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cam",
+      "timestamp_ms": 1757826469842,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3720541770623314567"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cam",
+  "is_still_participant": true,
+  "thread_path": "inbox/cam_1309340150650112",
+  "magic_words": [
+    
+  ]
+}

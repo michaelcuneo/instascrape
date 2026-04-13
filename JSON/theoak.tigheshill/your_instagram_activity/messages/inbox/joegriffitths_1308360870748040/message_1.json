@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "joegriffitths"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "joegriffitths",
+      "timestamp_ms": 1757724414778,
+      "content": "Fuck off \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1757724339107,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DOcx7iwEpgR/",
+        "share_text": "Justice Crew are bringing the energy live on stage for one massive night you won\u00e2\u0080\u0099t want to miss! \u00f0\u009f\u008e\u00a4\u00e2\u009c\u00a8\nThis show has been nothing short of amazing \u00e2\u0080\u0093 tickets flew out the door and we are officially SOLD OUT online. \u00f0\u009f\u0099\u008c\n\nBut don\u00e2\u0080\u0099t stress if you missed out \u00e2\u0080\u0093 we\u00e2\u0080\u0099ve kept just 50 tickets available on the door. First in, best dressed. \u00f0\u009f\u0094\u00a5 Once they\u00e2\u0080\u0099re gone, they\u00e2\u0080\u0099re gone.\n\nGet ready for a night packed with unforgettable performances, huge vibes and the kind of atmosphere only Justice Crew can bring. See you on the dancefloor!",
+        "original_content_owner": "islingtonbarrackshotel"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "joegriffitths",
+  "is_still_participant": true,
+  "thread_path": "inbox/joegriffitths_1308360870748040",
+  "magic_words": [
+    
+  ]
+}

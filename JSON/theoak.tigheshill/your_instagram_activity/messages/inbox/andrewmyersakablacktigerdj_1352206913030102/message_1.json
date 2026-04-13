@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Andrew Myers AKA Black Tiger DJ"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1775191367213,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DWp-WcGgTHR/?id=3866895975960359377_29666268335",
+        "share_text": "@spinosarecords Good Friday Garden Party is going off! Still plenty of time to get in enjoy some vintage and vinyl \u00f0\u009f\u0099\u008f",
+        "original_content_owner": "theoak.tigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrew Myers AKA Black Tiger DJ",
+      "timestamp_ms": 1771569527707,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1771568206283,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3836514573205193977"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrew Myers AKA Black Tiger DJ",
+      "timestamp_ms": 1771231459657,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1771216222554,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Andrew Myers AKA Black Tiger DJ"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1766201329474,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrew Myers AKA Black Tiger DJ",
+      "timestamp_ms": 1762144841169,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762144761334,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andrew Myers AKA Black Tiger DJ",
+  "is_still_participant": true,
+  "thread_path": "inbox/andrewmyersakablacktigerdj_1352206913030102",
+  "magic_words": [
+    
+  ]
+}

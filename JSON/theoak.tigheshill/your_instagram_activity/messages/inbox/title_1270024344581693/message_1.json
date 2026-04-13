@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "title."
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "title.",
+      "timestamp_ms": 1753512937476,
+      "content": "title. sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DMj8u5Gx4R3/?carousel_share_child_media_id=3685056025322816631_54245469242",
+        "share_text": "things get out of focus fast when you're chasing cheap delusions.\n\nwe\u00e2\u0080\u0099re crashing @theoak.tigheshill friday the 8th with @cheapdelusions and @outoffocusband__ .\n\n\u00f0\u009f\u0093\u008d @theoak.tigheshill\n\u00f0\u009f\u0093\u0085 08/08/25\n\u00e2\u008f\u00b0 8:30pm\n\u00f0\u009f\u008e\u00b8 @cheapdelusions, @outoffocusband__\n\u00f0\u009f\u008e\u009f free\n\n\u00f0\u009f\u0093\u00b8 - @flashedbybee",
+        "original_content_owner": "atitleisnothing"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "title.",
+  "is_still_participant": true,
+  "thread_path": "inbox/title_1270024344581693",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "hard.currency_"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "hard.currency_",
+      "timestamp_ms": 1764111123479,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764110722072,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3773956418786545420"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764110597743,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DRfx72ME_Fz/?id=3773954629672628595_29666268335",
+        "share_text": "Huge night of hardcore at The Oak earlier this month! @feelthepain.hc @skornhc \n\n\u00f0\u009f\u0093\u00b9 @hard.currency_",
+        "original_content_owner": "theoak.tigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "hard.currency_",
+  "is_still_participant": true,
+  "thread_path": "inbox/hardcurrency__1370535037863956",
+  "magic_words": [
+    
+  ]
+}

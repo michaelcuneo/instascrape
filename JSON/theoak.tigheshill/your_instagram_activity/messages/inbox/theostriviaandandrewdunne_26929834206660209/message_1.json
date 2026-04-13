@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "theostrivia"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    },
+    {
+      "name": "Andrew Dunne"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "theostrivia",
+      "timestamp_ms": 1727875908319,
+      "content": "theostrivia reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1727873419282,
+      "content": "Sorry i think i accidentally declined this the other day, dunmo how to get it back, bookings are at 40pax already too",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "theostrivia",
+          "timestamp": 1727875908
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1727865410884,
+      "share": {
+        "link": "https://media4.giphy.com/media/v1.Y2lkPTQyMzA0NmQwM2xpcnNhcWpyNjhtNjB4ODZ4cmY2cmQ2OXlheno1Zzlnem9rajlxZyZlcD12MV9naWZzX2dpZklkJmN0PWc/f6VfCFyOL5KmiICskp/200.gif",
+        "original_content_owner": "friends"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "theostrivia",
+      "timestamp_ms": 1727865269347,
+      "content": "theostrivia sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "theostrivia and Andrew Dunne",
+  "is_still_participant": true,
+  "thread_path": "inbox/theostriviaandandrewdunne_26929834206660209",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/AbbMv8aACT9_iGiE/"
+  }
+}

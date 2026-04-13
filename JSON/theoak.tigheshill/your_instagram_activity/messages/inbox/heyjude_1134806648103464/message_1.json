@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "HeyJude"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "HeyJude",
+      "timestamp_ms": 1737535599212,
+      "content": "HeyJude sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DFFmZl0Ibmf/?id=3550412765608917407_54052706",
+        "share_text": "In a flurry of first-day-in-office activity, president Donald Trump repeatedly made false and misleading claims during his inaugural address.\n\nWatch this video for our breakdown of some of the false claims offered by the US president - and tap the link in bio for more details.",
+        "original_content_owner": "guardian"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "HeyJude",
+  "is_still_participant": true,
+  "thread_path": "inbox/heyjude_1134806648103464",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "participants": [
+    {
+      "name": "Teegs | Runner & Triathlete"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1746241709415,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3624060554178014401"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1746241467469,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Teegs | Runner & Triathlete",
+      "timestamp_ms": 1746241254120,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Teegs | Runner & Triathlete",
+      "timestamp_ms": 1746241242371,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1746241230791,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Teegs | Runner & Triathlete"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3624056528585749556"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Teegs | Runner & Triathlete",
+      "timestamp_ms": 1746240124006,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Teegs | Runner & Triathlete",
+      "timestamp_ms": 1746239594874,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1746239518712,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3624042179175583045"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1746239047457,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Teegs | Runner & Triathlete"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Teegs | Runner & Triathlete",
+      "timestamp_ms": 1746238147103,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Teegs | Runner & Triathlete",
+  "is_still_participant": true,
+  "thread_path": "inbox/teegsrunnertriathlete_1208510347399760",
+  "magic_words": [
+    
+  ]
+}

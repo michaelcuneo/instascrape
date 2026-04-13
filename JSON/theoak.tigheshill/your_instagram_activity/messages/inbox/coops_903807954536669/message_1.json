@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Coops"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Coops",
+      "timestamp_ms": 1705285508914,
+      "content": "Ok great, thanks guys. See you then",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1705294998
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Coops",
+      "timestamp_ms": 1705285501451,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1705283647692,
+      "content": "Hey mate, happy to take a booking but should be plenty of space. We close at 12 on weekends.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Coops",
+          "timestamp": 1705285501
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Coops",
+      "timestamp_ms": 1705276069855,
+      "content": "Hey guys, I was hoping to bring a group of us through to the pub 6pm this Friday for some birthday drinks. Do I need to make any bookings? and does the pub close at 8:30pm? \nCheers!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Coops",
+  "is_still_participant": true,
+  "thread_path": "inbox/coops_903807954536669",
+  "magic_words": [
+    
+  ]
+}

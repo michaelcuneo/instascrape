@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Patrick Mavety"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Patrick Mavety",
+      "timestamp_ms": 1760187549023,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Patrick Mavety",
+  "is_still_participant": true,
+  "thread_path": "inbox/patrickmavety_1332890244961769",
+  "magic_words": [
+    
+  ]
+}

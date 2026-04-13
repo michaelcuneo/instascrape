@@ -1,0 +1,18 @@
+2026-04-13 17:13:53 | INFO | Using export root: JSON/theoak.tigheshill
+2026-04-13 17:13:53 | INFO | Loaded 265 valid post(s) from JSON/theoak.tigheshill/your_instagram_activity/media/posts_1.json.
+2026-04-13 17:13:53 | INFO | Feature disabled: reposts
+2026-04-13 17:13:53 | INFO | Feature disabled: archived_posts
+2026-04-13 17:13:53 | INFO | Feature disabled: igtv
+2026-04-13 17:13:53 | INFO | ============================================================
+2026-04-13 17:13:53 | INFO | DRY RUN — JSON validation report
+2026-04-13 17:13:53 | INFO |   Posts file  : JSON/theoak.tigheshill/your_instagram_activity/media/posts_1.json
+2026-04-13 17:13:53 | INFO |   Export root : JSON/theoak.tigheshill
+2026-04-13 17:13:53 | INFO |   Total posts : 1
+2026-04-13 17:13:53 | INFO |   Schedule    : 25/day  08:00 – 22:00  → slots: 08:00, 08:33, 09:07, 09:40, 10:14 … (+20 more)
+2026-04-13 17:13:53 | INFO |   Days to complete upload at current rate: 1
+2026-04-13 17:13:53 | INFO | ============================================================
+2026-04-13 17:13:53 | INFO | [OK]   #   1  day=1  slot=08:00  type=photo  files=1  caption='What’s crazier - the fact that we’re selling delicious thigh'
+2026-04-13 17:13:53 | INFO | ============================================================
+2026-04-13 17:13:53 | INFO | SUMMARY  total=1  ok=1  warn=0  fail=0
+2026-04-13 17:13:53 | INFO | All posts look good — ready for a real run.
+2026-04-13 17:13:53 | INFO | ============================================================

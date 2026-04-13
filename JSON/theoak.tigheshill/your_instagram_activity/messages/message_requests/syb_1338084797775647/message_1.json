@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Syb"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Syb",
+      "timestamp_ms": 1760705991228,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Syb",
+  "is_still_participant": true,
+  "thread_path": "message_requests/syb_1338084797775647",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

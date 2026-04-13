@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Bananalands"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bananalands",
+      "timestamp_ms": 1700261610976,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1700264638
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bananalands",
+  "is_still_participant": true,
+  "thread_path": "inbox/bananalands_294870408763763",
+  "magic_words": [
+    
+  ]
+}

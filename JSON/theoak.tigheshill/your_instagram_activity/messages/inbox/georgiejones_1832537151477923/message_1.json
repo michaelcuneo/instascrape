@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Georgie Jones"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Georgie Jones",
+      "timestamp_ms": 1771038915745,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Georgie Jones",
+      "timestamp_ms": 1762916976717,
+      "content": "We\u00e2\u0080\u0099re keen to book some shows :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Georgie Jones",
+      "timestamp_ms": 1762916965433,
+      "content": "Hello hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Georgie Jones",
+      "timestamp_ms": 1759280403264,
+      "content": "And I can offer to do a community shitty choir, grab a Schoey and sit around the piano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Georgie Jones",
+      "timestamp_ms": 1759280363032,
+      "content": "Would the Oak want a piano?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Georgie Jones",
+      "timestamp_ms": 1759280355139,
+      "share": {
+        "original_content_owner": "mckenziemccaffrey"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Georgie Jones",
+  "is_still_participant": true,
+  "thread_path": "inbox/georgiejones_1832537151477923",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Ramzi"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738817973850,
+      "content": "All good",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ramzi",
+      "timestamp_ms": 1738814726843,
+      "content": "Hey \n\nSorry I had some other people bail! Thanks anyway !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738811913599,
+      "content": "I had a 6 cancel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ramzi",
+      "timestamp_ms": 1738811874939,
+      "content": "Out curiosity how many seats would that be for? Thanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738811474055,
+      "content": "Got a spare if you need",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ramzi",
+      "timestamp_ms": 1738810563426,
+      "content": "Hey \nAll tables fully booked for trivia this evening? Thanks :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ramzi",
+  "is_still_participant": true,
+  "thread_path": "inbox/ramzi_1145077107076418",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Tara Charli"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1710646714851,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3325468101625687823"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tara Charli",
+      "timestamp_ms": 1710646623938,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tara Charli",
+  "is_still_participant": true,
+  "thread_path": "inbox/taracharli_938030101114454",
+  "magic_words": [
+    
+  ]
+}

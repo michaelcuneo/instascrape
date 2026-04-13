@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Jade Miller"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1712716084987,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3342827168648117834"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jade Miller",
+      "timestamp_ms": 1712715999467,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jade Miller",
+  "is_still_participant": true,
+  "thread_path": "inbox/jademiller_951416559775808",
+  "magic_words": [
+    
+  ]
+}

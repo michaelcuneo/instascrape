@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "IMAGINARY THINGS"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1726274253351,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "IMAGINARY THINGS",
+  "is_still_participant": true,
+  "thread_path": "inbox/imaginarythings_1046345480282915",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Dan Flegg"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dan Flegg",
+      "timestamp_ms": 1755682622490,
+      "content": "Dan sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dan Flegg",
+  "is_still_participant": true,
+  "thread_path": "inbox/danflegg_1289895069261287",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "George Richards"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1737255425859,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DE_WpURyMXZ/?id=3548654627686237657_29666268335",
+        "share_text": "\u00f0\u009f\u009a\u0097\u00f0\u009f\u008d\u00bb\u00f0\u009f\u008d\u00bb\u00f0\u009f\u008d\u00bb\u00f0\u009f\u009a\u0097",
+        "original_content_owner": "theoak.tigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "George Richards",
+  "is_still_participant": true,
+  "thread_path": "inbox/georgerichards_1132627661654696",
+  "magic_words": [
+    
+  ]
+}

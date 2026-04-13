@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "FULL CREDIT"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "FULL CREDIT",
+      "timestamp_ms": 1729066130021,
+      "content": "FULL sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DBLX9lTSceN/?id=3479980524083726221_61840832977",
+        "share_text": "Get to @theoak.tigheshill this Saturday to check out us and another local original band @ivbandau  #fullcredit #FC #hit",
+        "original_content_owner": "full_credit_the_band"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1727436495930,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3466310989040355264"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "FULL CREDIT",
+      "timestamp_ms": 1727435354131,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "FULL CREDIT",
+      "timestamp_ms": 1726117477472,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "FULL CREDIT",
+  "is_still_participant": true,
+  "thread_path": "inbox/fullcredit_1045146103736186",
+  "magic_words": [
+    
+  ]
+}

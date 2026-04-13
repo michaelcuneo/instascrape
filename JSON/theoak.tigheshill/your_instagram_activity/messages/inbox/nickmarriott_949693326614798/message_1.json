@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Nick Marriott"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nick Marriott",
+      "timestamp_ms": 1712528848563,
+      "content": "You have pending appointment request",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1712445263611,
+      "content": "No problem at all",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nick Marriott",
+      "timestamp_ms": 1712444889702,
+      "content": "Actually, can I make it 12:30?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nick Marriott",
+      "timestamp_ms": 1712442563586,
+      "content": "Cheers for that! 12pm - 0435852595",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1712442517604,
+      "content": "Not a problem. What time and can I grab a contact number please?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nick Marriott",
+      "timestamp_ms": 1712442441958,
+      "content": "You can now schedule and manage appointments in chat. Learn More.(https://help.instagram.com/1043402509628629)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nick Marriott",
+      "timestamp_ms": 1712442440632,
+      "content": "Lunch booking for 4 people",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nick Marriott",
+  "is_still_participant": true,
+  "thread_path": "inbox/nickmarriott_949693326614798",
+  "magic_words": [
+    
+  ]
+}

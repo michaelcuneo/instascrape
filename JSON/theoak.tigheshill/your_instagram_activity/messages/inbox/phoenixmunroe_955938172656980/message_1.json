@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Phoenix Munroe"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713425051784,
+      "content": "Oakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Phoenix Munroe",
+      "timestamp_ms": 1713410548741,
+      "content": "Hey guys just reaching out to see how we go about booking in a gig for our band @cardboardcastlesband",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Phoenix Munroe",
+  "is_still_participant": true,
+  "thread_path": "inbox/phoenixmunroe_955938172656980",
+  "magic_words": [
+    
+  ]
+}

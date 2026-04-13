@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Chree Ees"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1734829306779,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3528326389223138649"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chree Ees",
+      "timestamp_ms": 1734829158730,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chree Ees",
+  "is_still_participant": true,
+  "thread_path": "inbox/chreeees_1114328026817993",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Eve Stanton"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eve Stanton",
+      "timestamp_ms": 1734222103274,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eve Stanton",
+      "timestamp_ms": 1727043299863,
+      "content": "Okay awesome, thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1726979894616,
+      "content": "Audio call ended",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1726979893057,
+      "content": "You started an audio call",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1726979885662,
+      "content": "Hey eve! If you want to book in a gig email oakbandbooking@gmail.com \nThis email is for our band booker, his name is Justan! Cheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eve Stanton",
+      "timestamp_ms": 1726979030682,
+      "content": "Hey, I played a gig a while back, supporting David. I was told to contact you to do another. Have you got any 45minute spots coming up? Just let me know if you\u00e2\u0080\u0099d want to chat.\nThanks,\nEve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eve Stanton",
+  "is_still_participant": true,
+  "thread_path": "inbox/evestanton_1052133589704104",
+  "magic_words": [
+    
+  ]
+}

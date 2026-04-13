@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Scott Laing"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Scott Laing",
+      "timestamp_ms": 1765674417785,
+      "content": "Thanks \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1765672929451,
+      "content": "Hey scott, bands kick off from 5pm, we haven\u00e2\u0080\u0099t received full set times from the guys just yet but will be around 6-7",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Scott Laing",
+      "timestamp_ms": 1765516216831,
+      "content": "What time will the Paul Kelly songs start?",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3785090819107678734"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Scott Laing",
+  "is_still_participant": true,
+  "thread_path": "inbox/scottlaing_1918298369571550",
+  "magic_words": [
+    
+  ]
+}

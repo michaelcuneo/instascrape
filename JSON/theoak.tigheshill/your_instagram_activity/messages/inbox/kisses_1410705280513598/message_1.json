@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "kisses"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "kisses",
+      "timestamp_ms": 1768883011347,
+      "content": "Hello guys ! Just emailed with a booking enquiry xx  kisses",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "kisses",
+  "is_still_participant": true,
+  "thread_path": "inbox/kisses_1410705280513598",
+  "magic_words": [
+    
+  ]
+}

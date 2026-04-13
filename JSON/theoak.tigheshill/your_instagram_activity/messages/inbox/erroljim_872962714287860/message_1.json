@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Errol Jim"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Errol Jim",
+      "timestamp_ms": 1700371389928,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1700366198707,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Errol Jim",
+          "timestamp": 1700371389
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3239228858083089967"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Errol Jim",
+  "is_still_participant": true,
+  "thread_path": "inbox/erroljim_872962714287860",
+  "magic_words": [
+    
+  ]
+}

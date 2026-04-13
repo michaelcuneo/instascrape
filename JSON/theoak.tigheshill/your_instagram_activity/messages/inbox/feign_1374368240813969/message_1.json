@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "feign"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764579995734,
+      "content": "That\u00e2\u0080\u0099s all g. Thx so much for getting back.\n\nDunny xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "feign",
+      "timestamp_ms": 1764569814331,
+      "content": "Hey! Thank you for the offer and usually we'd love to, but one of us is away for the month unfortunately.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764566717703,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/feign_1374368240813969/videos/1332354444842965.mp4",
+          "creation_timestamp": 1764566702
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764566698200,
+      "content": "Hey legends,\n\nThis is a very late call up\u00e2\u0080\u00a6\n\nWe are pulling together a gig this weekend for our annual \u00e2\u0080\u009cGoccsy\u00e2\u0080\u0099s Christmas Extravaganza\u00e2\u0080\u009d\n\nWe had a few bands pull out and we were wondering if you\u00e2\u0080\u0099d like to play?\n\nIt\u00e2\u0080\u0099s Saturday.\n\nThis is goccsy:\n\nhttps://www.instagram.com/aarongocs?igsh=NnpiaWozZHFzbTZx",
+      "share": {
+        "link": "https://www.instagram.com/_u/aarongocs",
+        "profile_share_username": "aarongocs",
+        "profile_share_name": "Aaron Gocs"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "feign",
+  "is_still_participant": true,
+  "thread_path": "inbox/feign_1374368240813969",
+  "magic_words": [
+    
+  ]
+}

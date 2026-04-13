@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Adrian Smith"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adrian Smith",
+      "timestamp_ms": 1717754543303,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Adrian Smith",
+  "is_still_participant": true,
+  "thread_path": "inbox/adriansmith_985329099717887",
+  "magic_words": [
+    
+  ]
+}

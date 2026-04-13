@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Forklift Assassins"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Forklift Assassins",
+      "timestamp_ms": 1749800514439,
+      "share": {
+        "link": "https://www.instagram.com/stories/forklift_assassins/3653913679957289981"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Forklift Assassins",
+  "is_still_participant": true,
+  "thread_path": "inbox/forkliftassassins_1237676674483127",
+  "magic_words": [
+    
+  ]
+}

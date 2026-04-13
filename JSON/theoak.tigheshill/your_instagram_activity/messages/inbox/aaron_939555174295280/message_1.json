@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Aaron"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1745284170881,
+      "content": "Open 7 days \nClosed Sunday dinner",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aaron",
+      "timestamp_ms": 1745283923117,
+      "content": "Sounds great !\n\nWhat are the hours for the kitchen. ?",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3616002319575860077"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aaron",
+  "is_still_participant": true,
+  "thread_path": "inbox/aaron_939555174295280",
+  "magic_words": [
+    
+  ]
+}

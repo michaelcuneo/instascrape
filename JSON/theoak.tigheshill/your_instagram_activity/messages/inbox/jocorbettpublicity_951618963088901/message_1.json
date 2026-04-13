@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Jo Corbett Publicity"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1712747249409,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3343088665156641175"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo Corbett Publicity",
+      "timestamp_ms": 1712747180728,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jo Corbett Publicity",
+  "is_still_participant": true,
+  "thread_path": "inbox/jocorbettpublicity_951618963088901",
+  "magic_words": [
+    
+  ]
+}

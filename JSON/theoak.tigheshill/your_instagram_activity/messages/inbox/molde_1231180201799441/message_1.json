@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "MOLDE"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MOLDE",
+      "timestamp_ms": 1752120722949,
+      "content": "MOLDE sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DL6dS2Czwbt/?carousel_share_child_media_id=3673377284402644717_67152997558",
+        "share_text": "\u00e2\u0080\u00bc\u00ef\u00b8\u008fEP release gig tomorrow night 8pm at @theoak.tigheshill \u00e2\u0080\u00bc\u00ef\u00b8\u008f\n\ncome catch us tomorrow night to celebrate the release of our ep \u00e2\u0080\u0098Persistently Gone\u00e2\u0080\u0099 as well as some sets from friends @thecharliefarmer @metrolaneofficial \n\nSET TIMES:\n8:30-9:00pm charlie farmer band\n9:15-9:45pm metro lane\n10:00-10:45pm molde",
+        "original_content_owner": "molde.the.band"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MOLDE",
+      "timestamp_ms": 1749034872982,
+      "content": "MOLDE sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DKeff9JhMGb/",
+        "share_text": "\u00e2\u0080\u00bc\u00ef\u00b8\u008fUPCOMING GIG\u00e2\u0080\u00bc\u00ef\u00b8\u008f\n\nCome along and celebrate the release of our ep \u00e2\u0080\u0098persistently gone\u00e2\u0080\u0099 on Friday the 11th of July @theoak.tigheshill, along with some great music from friends @thecharliefarmer @metrolaneofficial \n\nposter artwork: @jessie_may_kelly",
+        "original_content_owner": "molde.the.band"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "MOLDE",
+  "is_still_participant": true,
+  "thread_path": "inbox/molde_1231180201799441",
+  "magic_words": [
+    
+  ]
+}

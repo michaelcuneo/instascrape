@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Natalie Dickson"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Natalie Dickson",
+      "timestamp_ms": 1738802942655,
+      "content": "Thank you for getting back to me! I will let her know. Have a great day!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738799765987,
+      "content": "Hi Natalie, we allow underage as long as they are accompanied by a responsible adult (25 & over) and they must be supervised at all times, otherwise she wont be allowed in the venue! Thanks for asking",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalie Dickson",
+      "timestamp_ms": 1738795745108,
+      "content": "Hi, I just wanted to see if you were an all ages venue, specifically for the bands playing this Sat 08/02? My daughter is 17 and would be going with friends who are 18 but she isn\u00e2\u0080\u0099t sure if it is all ages.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Natalie Dickson",
+  "is_still_participant": true,
+  "thread_path": "inbox/nataliedickson_1144979987086130",
+  "magic_words": [
+    
+  ]
+}

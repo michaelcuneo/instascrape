@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "In Pieces"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "In Pieces",
+      "timestamp_ms": 1753238591876,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1753236187816,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "In Pieces"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3682734309817433642"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "In Pieces",
+      "timestamp_ms": 1753235573846,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "In Pieces",
+  "is_still_participant": true,
+  "thread_path": "inbox/inpieces_1267307021520092",
+  "magic_words": [
+    
+  ]
+}

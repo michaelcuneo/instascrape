@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Lyndall Ratcliffe"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lyndall Ratcliffe",
+      "timestamp_ms": 1703932154596,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3269052919331005425"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lyndall Ratcliffe",
+  "is_still_participant": true,
+  "thread_path": "inbox/lyndallratcliffe_421209909463145",
+  "magic_words": [
+    
+  ]
+}

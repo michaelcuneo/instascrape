@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Destroy All Lines"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752675023257,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/destroyalllines_1738955487505833/photos/1772044027075754.jpg",
+          "creation_timestamp": 1752675022
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752675018864,
+      "content": "This account can't receive your message because they don't allow new message requests from everyone.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752675018705,
+      "content": "Hey legends.. just sent this to Jess and thought I\u00e2\u0080\u0099d bump it here for ya.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Destroy All Lines",
+  "is_still_participant": true,
+  "thread_path": "inbox/destroyalllines_1738955487505833",
+  "magic_words": [
+    
+  ]
+}

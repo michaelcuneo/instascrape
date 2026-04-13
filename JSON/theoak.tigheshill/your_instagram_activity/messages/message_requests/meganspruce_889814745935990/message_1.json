@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Megan Spruce"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Megan Spruce",
+      "timestamp_ms": 1703117748964,
+      "content": "He\u00e2\u0080\u0099s a Zionist no thanks",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3262207333014893072"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Megan Spruce",
+  "is_still_participant": true,
+  "thread_path": "message_requests/meganspruce_889814745935990",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

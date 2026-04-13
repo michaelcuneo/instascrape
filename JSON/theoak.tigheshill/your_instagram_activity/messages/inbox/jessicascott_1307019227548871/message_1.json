@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Jessica Scott"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jessica Scott",
+      "timestamp_ms": 1757585420324,
+      "content": "Do you have a menu for the seafood long lunch?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jessica Scott",
+  "is_still_participant": true,
+  "thread_path": "inbox/jessicascott_1307019227548871",
+  "magic_words": [
+    
+  ]
+}

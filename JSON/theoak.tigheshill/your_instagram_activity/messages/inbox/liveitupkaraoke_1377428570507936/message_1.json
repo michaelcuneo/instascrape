@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Live It Up Karaoke"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764935484580,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DR4SuroksLX/?id=3780854259962266327_29666268335",
+        "share_text": "The Oak loves you, so its FREE!\nIt\u00e2\u0080\u0099s that time of year again... Aaron Gocs Christmas is upon us! Join us for Gocsy\u00e2\u0080\u0099s Comedy, Gocsy Santa Photo\u00e2\u0080\u0099s and \u00e2\u0080\u0098Live It Up\u00e2\u0080\u0099 KaraOAKe by Ali Ryan (20 years at Hamilton Station) \n\nThere will be Ham raffles all night.... This is your annual opportunity to feed Aaron Gocs your Christmas Ham, whilst singing your best rendition of Khe Sanh...\n\nStart Christmas leave early, tell your boss it\u00e2\u0080\u0099s been approved by the higher ups - Aaron Gocs and Ali Ryan",
+        "original_content_owner": "theoak.tigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764935430299,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3780874694527422626"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Live It Up Karaoke",
+  "is_still_participant": true,
+  "thread_path": "inbox/liveitupkaraoke_1377428570507936",
+  "magic_words": [
+    
+  ]
+}

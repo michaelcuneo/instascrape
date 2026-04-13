@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Cate Faehrmann"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1744777829503,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cate Faehrmann",
+  "is_still_participant": true,
+  "thread_path": "inbox/catefaehrmann_1195826968668098",
+  "magic_words": [
+    
+  ]
+}

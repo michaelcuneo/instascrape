@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Elisha Buckingham"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Elisha Buckingham",
+      "timestamp_ms": 1700216942653,
+      "content": "What time do you close tonight?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Elisha Buckingham",
+  "is_still_participant": true,
+  "thread_path": "inbox/elishabuckingham_872049037712561",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Sam Folbigg"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sam Folbigg",
+      "timestamp_ms": 1731309982036,
+      "content": "Hell yeah!!",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3498777953842438445"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sam Folbigg",
+  "is_still_participant": true,
+  "thread_path": "inbox/samfolbigg_1087536222830507",
+  "magic_words": [
+    
+  ]
+}

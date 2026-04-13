@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Tomek Thomas"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tomek Thomas",
+      "timestamp_ms": 1775187158314,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tomek Thomas",
+  "is_still_participant": true,
+  "thread_path": "inbox/tomekthomas_1470703547847104",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Bigredcap"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bigredcap",
+      "timestamp_ms": 1751766746687,
+      "content": "Bigredcap sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DLv6I_zx5uZ/?carousel_share_child_media_id=3670407926298155929_242196625",
+        "share_text": "Ayyye the LOCAL BASH on Friday was a ton of fun.  Big love to all the legends that came down to party with us \u00f0\u009f\u0098\u008e Big thank u to @theoak.tigheshill for hosting! \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+        "original_content_owner": "bigredcap"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1750807805034,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3662363548896214634"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bigredcap",
+      "timestamp_ms": 1750807465337,
+      "share": {
+        "link": "https://www.instagram.com/stories/bigredcap/3662360707230190697"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bigredcap",
+      "timestamp_ms": 1749968589691,
+      "content": "Bigredcap sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DK6UGfeuDl4/?id=3655322454613047672_242196625",
+        "share_text": "JULY 4TH @theoak.tigheshill FREE SHOW w/ @bigredcap & @melocal_mop",
+        "original_content_owner": "bigredcap"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bigredcap",
+  "is_still_participant": true,
+  "thread_path": "inbox/bigredcap_1239125081004953",
+  "magic_words": [
+    
+  ]
+}

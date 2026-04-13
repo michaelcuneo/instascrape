@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Edda Srey [ed dah sr ay]"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Edda Srey [ed dah sr ay]",
+      "timestamp_ms": 1768429134855,
+      "content": "Awesome, thanks for the prompt response, will get in touch with Justan and check out dates for later on -",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1768429063335,
+      "content": "Hey there! Feb and March are fairly booked up at the minute. \n\nHere is Justan our band bookers email to see if something may have opened up\n\nOakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edda Srey [ed dah sr ay]",
+      "timestamp_ms": 1768428974254,
+      "content": "Hey Oak Team, \n\nHope ya'll doing well. \n\nCould I please have the booking agents details so I can book in a show in either Feb or March? \n\nThanks so much!\nMadi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Edda Srey [ed dah sr ay]",
+  "is_still_participant": true,
+  "thread_path": "inbox/eddasreyeddahsray_1406692327581560",
+  "magic_words": [
+    
+  ]
+}

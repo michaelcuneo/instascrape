@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Love Newy"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1770858818740,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3830516738837177568"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Love Newy",
+  "is_still_participant": true,
+  "thread_path": "inbox/lovenewy_1429941265256666",
+  "magic_words": [
+    
+  ]
+}

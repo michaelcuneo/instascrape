@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Stanley Records"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stanley Records",
+      "timestamp_ms": 1769807429757,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stanley Records",
+      "timestamp_ms": 1769632252195,
+      "content": "Stanley sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DUEVTVmk8Ya/",
+        "share_text": "This Saturday is gonna go off at The Oak Tighes Hill, Newcastle. @davefavourstheroadsideashes @fahm.band @samshinazzi @theoak.tigheshill @motherhentouring",
+        "original_content_owner": "stanleyrecords"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stanley Records",
+      "timestamp_ms": 1769459938306,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stanley Records",
+  "is_still_participant": true,
+  "thread_path": "inbox/stanleyrecords_951611063089691",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Cult Artists"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1705963171328,
+      "content": "Oakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cult Artists",
+      "timestamp_ms": 1705961126827,
+      "content": "Hey There, Who is the best contact for live music bookings?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cult Artists",
+  "is_still_participant": true,
+  "thread_path": "inbox/cultartists_908476454069819",
+  "magic_words": [
+    
+  ]
+}

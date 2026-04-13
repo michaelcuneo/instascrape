@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Charlie Scott"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1758271611152,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlie Scott",
+      "timestamp_ms": 1758271591472,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1758067372487,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DOrroOOEk-s/?carousel_share_child_media_id=3723261396999360428_29666268335",
+        "share_text": "GIG GUIDE\nWeve been cooking this one up for a minute!\n\nFriday\n$9800 Joker Draw followed by good friends @oceanheartsband & @chai_chester  comin to The Oak stage!\n\nSaturday\n@puffnoise coming all the way from Lismore for their first newy show in ageswith the boys from @_centralband_ & @jacqueslevysdesire kicking the night off from 7pm\n\nSunday\n@huntervalleyramblers continues their Oak residency for the month of September, followed by @fahm.band & @splodge to finish it off\n\nAquarium Vinyls\nFriday from 5pm @studio33_45 \nSaturday from 3pm @pc___dysco \n\nYou dont want to miss this one! \nLive. Local. Free \n#ROAK\n\u00f0\u009f\u0093\u00b8 @filth.film",
+        "original_content_owner": "theoak.tigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1757296625937,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlie Scott",
+      "timestamp_ms": 1757290614766,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlie Scott",
+      "timestamp_ms": 1714439562774,
+      "content": "Beauty, I\u00e2\u0080\u0099ll shoot an email through today. Thanks guys.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1714428683771,
+      "content": "Hey mate, just email Justan our band booker\u00e2\u0080\u00a6\n\nOakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlie Scott",
+      "timestamp_ms": 1714284447668,
+      "content": "Gday friends, my name\u00e2\u0080\u0099s Pat. \n\nWould I be able to book a gig at the Oak for my band? If so - what\u00e2\u0080\u0099s the process? \u00f0\u009f\u0098\u008a\n\nCheers!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Charlie Scott",
+  "is_still_participant": true,
+  "thread_path": "inbox/charliescott_961602945423836",
+  "magic_words": [
+    
+  ]
+}

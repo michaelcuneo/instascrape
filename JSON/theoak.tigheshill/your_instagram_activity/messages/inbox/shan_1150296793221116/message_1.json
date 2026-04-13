@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Shan"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shan",
+      "timestamp_ms": 1739684056090,
+      "content": "Shan sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DGH0PMWvJIp/?carousel_share_child_media_id=3569050972191494697_12833164400",
+        "share_text": "#247 with Roy Molloy ( @marvelouscrane ) from the Alex Cameron band ( @alkcm ) is alive and well. LINKS TO THE THE SAXIEST LISTENING PLATFORMS ARE IN THE BIO. \n#roymalloy #obscuresaxophonist #livenow",
+        "original_content_owner": "terrible.happy"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shan",
+      "timestamp_ms": 1739484310098,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shan",
+      "timestamp_ms": 1739484051885,
+      "content": "Shan sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DGB2wWFTrA5/",
+        "share_text": "THIS SUNDAY: Roy Molloy, the self described \u00e2\u0080\u009cobscure saxophonist\u00e2\u0080\u009d from the Alex Cameron band, talks playing stadiums with The Killers, his unique connection to Baker Skateboards videos, growing up in Bondi, becoming an ordained minister to pay the bills, his guerrilla-style morning radio show, and much much more. Recorded on location @theoak.tigheshill \nShoutout @therealdustindollin for connecting us.\nLINKS IN BIO.\n@marvelouscrane \n@alkcm \n#sax #roymolloy #obscuresaxophonist",
+        "original_content_owner": "terrible.happy"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shan",
+  "is_still_participant": true,
+  "thread_path": "inbox/shan_1150296793221116",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Grace"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Grace",
+      "timestamp_ms": 1722849809652,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1722848141177,
+      "content": "On hold until September",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Grace",
+          "timestamp": 1722849809
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grace",
+      "timestamp_ms": 1722846774264,
+      "content": "Hey! \n\nDo you still do backgammon on Mondays?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Grace",
+  "is_still_participant": true,
+  "thread_path": "inbox/grace_1021187666132030",
+  "magic_words": [
+    
+  ]
+}

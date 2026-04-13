@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Sam Lyne \u00f0\u009f\u008f\u00b3\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u008c\u0088"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sam Lyne \u00f0\u009f\u008f\u00b3\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u008c\u0088",
+      "timestamp_ms": 1751376638418,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sam Lyne \u00f0\u009f\u008f\u00b3\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u008c\u0088",
+      "timestamp_ms": 1751376565384,
+      "content": "This pasta changed my life",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sam Lyne \u00f0\u009f\u008f\u00b3\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u008c\u0088",
+  "is_still_participant": true,
+  "thread_path": "inbox/samlyne_1251245596459568",
+  "magic_words": [
+    
+  ]
+}

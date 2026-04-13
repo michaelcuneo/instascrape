@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "Sophie Tyler"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sophie Tyler",
+      "timestamp_ms": 1703905963977,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sophie Tyler",
+      "timestamp_ms": 1703905924375,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1703905836229,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3268921514974271395"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sophie Tyler",
+      "timestamp_ms": 1703905830401,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1703905829237,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3268921452152211528"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sophie Tyler",
+      "timestamp_ms": 1703905801815,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sophie Tyler",
+      "timestamp_ms": 1703905772868,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1700304184034,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3238708668035684710"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sophie Tyler",
+      "timestamp_ms": 1700304109570,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sophie Tyler",
+      "timestamp_ms": 1700221679104,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1700186765234,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3237723507336773031"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sophie Tyler",
+      "timestamp_ms": 1700186674606,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sophie Tyler",
+  "is_still_participant": true,
+  "thread_path": "inbox/sophietyler_871881264396005",
+  "magic_words": [
+    
+  ]
+}

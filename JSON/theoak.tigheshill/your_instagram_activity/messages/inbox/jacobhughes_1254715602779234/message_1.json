@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Jacob Hughes"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jacob Hughes",
+      "timestamp_ms": 1751778505850,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1751774589170,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jacob Hughes"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3670473718000085456"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jacob Hughes",
+      "timestamp_ms": 1751774202181,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jacob Hughes",
+  "is_still_participant": true,
+  "thread_path": "inbox/jacobhughes_1254715602779234",
+  "magic_words": [
+    
+  ]
+}

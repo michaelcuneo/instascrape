@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "The Beer Garden"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1707630158301,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3300163389137461710"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Beer Garden",
+      "timestamp_ms": 1707629856683,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Beer Garden",
+  "is_still_participant": true,
+  "thread_path": "inbox/thebeergarden_919591179625013",
+  "magic_words": [
+    
+  ]
+}

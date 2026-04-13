@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Jess Thornhill"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jess Thornhill",
+      "timestamp_ms": 1761289657486,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jess Thornhill",
+  "is_still_participant": true,
+  "thread_path": "message_requests/jessthornhill_1343817303869063",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

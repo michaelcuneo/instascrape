@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "George"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1707377242706,
+      "content": "Lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "George",
+      "timestamp_ms": 1707376419935,
+      "content": "DO IT FOR MOT \u00f0\u009f\u00a4\u008d I\u00e2\u0080\u0099ll make him film it for content",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1707377238
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "George",
+      "timestamp_ms": 1707376419592,
+      "share": {
+        "original_content_owner": "gluecoles"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "George",
+  "is_still_participant": true,
+  "thread_path": "inbox/george_917796263137838",
+  "magic_words": [
+    
+  ]
+}

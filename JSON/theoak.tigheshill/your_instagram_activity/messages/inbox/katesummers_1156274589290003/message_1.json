@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "\u00e3\u0080\u00b0Kate Summers\u00e3\u0080\u00b0"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e3\u0080\u00b0Kate Summers\u00e3\u0080\u00b0",
+      "timestamp_ms": 1740277940027,
+      "content": "Danke shun!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e3\u0080\u00b0Kate Summers\u00e3\u0080\u00b0",
+      "timestamp_ms": 1740277933081,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1740184824387,
+      "content": "Hey mate! Just book into Sunday 13th and we\u00e2\u0080\u0099ll contact you on Monday once the ticketing is live.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "\u00e3\u0080\u00b0Kate Summers\u00e3\u0080\u00b0"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e3\u0080\u00b0Kate Summers\u00e3\u0080\u00b0",
+      "timestamp_ms": 1740184319984,
+      "content": "Heya! Hope you guys are having a cruisey Saturday! I'm keen to book into your event for gfm! Are your tickets out just yet? The link from the gfm sent me to your page but I don't think the event is loaded onto there just yet. Keen!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e3\u0080\u00b0Kate Summers\u00e3\u0080\u00b0",
+  "is_still_participant": true,
+  "thread_path": "inbox/katesummers_1156274589290003",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "A Little From Column Hay"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1766201329440,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1766198160577,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DSd-WF1Es_y/?id=3791460658287136754_29666268335",
+        "share_text": "The @spinosarecords Garden Party is sprouting in the @theoak.tigheshill beer garden all Saturday! Come n get some last minute Chrissy gifts, whilst sippin\u00e2\u0080\u0099 $10 Margs\u00e2\u0080\u00a6\n\nStay for tonight\u00e2\u0080\u0099s huge fundraiser show by @soulwun @who.is.arcadia !\n\nBest Sombrero gets a FREE Marg!",
+        "original_content_owner": "theoak.tigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "A Little From Column Hay",
+  "is_still_participant": true,
+  "thread_path": "inbox/alittlefromcolumnhay_873504700900328",
+  "magic_words": [
+    
+  ]
+}

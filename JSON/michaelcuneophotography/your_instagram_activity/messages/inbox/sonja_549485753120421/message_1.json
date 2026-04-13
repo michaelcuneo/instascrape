@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Sonja"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sonja",
+      "timestamp_ms": 1476632064220,
+      "content": "Yes \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Cuneo Photography",
+      "timestamp_ms": 1476619672552,
+      "content": "Faith. \u00f0\u009f\u0098\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sonja",
+  "is_still_participant": true,
+  "thread_path": "inbox/sonja_549485753120421",
+  "magic_words": [
+    
+  ]
+}

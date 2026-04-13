@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "The Restaurant Brokers"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Restaurant Brokers",
+      "timestamp_ms": 1710892706615,
+      "content": "Hi\n\nI hope you are having a good day. Just a quick message to let you know who we are in case you have not heard about us. I guess our names says it all. We specialise in selling restaurants and eateries. We are proud to say we have sold a lot of quality businesses and have buyers who have missed out. If you are thinking of selling, curious about the process, or thinking how much your shop is worth, please feel free to contact us.\n\nThanks, Craig | Principal I The Restaurant Brokers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Restaurant Brokers",
+  "is_still_participant": true,
+  "thread_path": "message_requests/therestaurantbrokers_1374147443986469",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Emma"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1734146607490,
+      "content": "Once we sell 30 tickets we draw the ham raffle. Generally going 3/day over the weekends",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emma",
+      "timestamp_ms": 1734137097068,
+      "content": "When are they drawn",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emma",
+      "timestamp_ms": 1734137093117,
+      "content": "Bro hell yeh !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1734137076398,
+      "content": "Ham raffles all day everyday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emma",
+      "timestamp_ms": 1734131328742,
+      "content": "Do u have any raffles on !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Emma",
+  "is_still_participant": true,
+  "thread_path": "inbox/emma_1108990550685074",
+  "magic_words": [
+    
+  ]
+}

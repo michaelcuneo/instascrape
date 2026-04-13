@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Jasmine Pearl Duo"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jasmine Pearl Duo",
+      "timestamp_ms": 1730524867331,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jasmine Pearl Duo",
+      "timestamp_ms": 1720089597613,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jasmine Pearl Duo",
+      "timestamp_ms": 1718355086886,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1708818733733,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3310133892807768508"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jasmine Pearl Duo",
+      "timestamp_ms": 1708818689843,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jasmine Pearl Duo",
+  "is_still_participant": true,
+  "thread_path": "inbox/jasminepearlduo_927060605544737",
+  "magic_words": [
+    
+  ]
+}

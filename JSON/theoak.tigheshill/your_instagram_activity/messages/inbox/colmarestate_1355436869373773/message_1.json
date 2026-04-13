@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Colmar Estate"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764467946561,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3776953316907516728"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Colmar Estate",
+      "timestamp_ms": 1764467871244,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764454347791,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3776838965132436315"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764034714781,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3773318833557833731"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762476292830,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Colmar Estate",
+  "is_still_participant": true,
+  "thread_path": "inbox/colmarestate_1355436869373773",
+  "magic_words": [
+    
+  ]
+}

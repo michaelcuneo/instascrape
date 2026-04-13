@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Kim Petterson"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kim Petterson",
+      "timestamp_ms": 1753493832727,
+      "content": "G\u00e2\u0080\u0099day can I make a booking for 12 for trivia please!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kim Petterson",
+  "is_still_participant": true,
+  "thread_path": "inbox/kimpetterson_1787523962645593",
+  "magic_words": [
+    
+  ]
+}

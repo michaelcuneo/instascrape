@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "katesummersss"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "katesummersss",
+      "timestamp_ms": 1761098544204,
+      "content": "Cool will get back to u \u00f0\u009f\u008d\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "katesummersss",
+      "timestamp_ms": 1761098522454,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1761098509225,
+      "content": "Lunch runs 1-3. Live music until 5pm. Pub closes 10pm",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "katesummersss"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "katesummersss",
+      "timestamp_ms": 1761098463344,
+      "content": "I'm super keen on this! Is there a finish time though?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "katesummersss",
+  "is_still_participant": true,
+  "thread_path": "inbox/katesummersss_1341883360729124",
+  "magic_words": [
+    
+  ]
+}

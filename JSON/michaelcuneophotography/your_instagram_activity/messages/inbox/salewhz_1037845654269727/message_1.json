@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "salewh.z"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "salewh.z",
+      "timestamp_ms": 1680334864216,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "salewh.z",
+  "is_still_participant": true,
+  "thread_path": "inbox/salewhz_1037845654269727",
+  "magic_words": [
+    
+  ]
+}

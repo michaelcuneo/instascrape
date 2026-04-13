@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Jacinta Oakley"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jacinta Oakley",
+      "timestamp_ms": 1653341351263,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jacinta Oakley",
+  "is_still_participant": true,
+  "thread_path": "inbox/jacintaoakley_884485249615951",
+  "magic_words": [
+    
+  ]
+}

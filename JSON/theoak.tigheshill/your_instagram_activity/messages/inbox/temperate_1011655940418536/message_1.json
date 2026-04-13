@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Temperate"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Temperate",
+      "timestamp_ms": 1728256110935,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Temperate",
+      "timestamp_ms": 1726963145872,
+      "content": "Temperate sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DAMs8BNSTcI/?id=3462339852052805384_52003165797",
+        "share_text": "So many sick nights ahead\nCome hang with us at the Chilli fest before our hot performance @seaviewtavern next Saturday.\n\n#tour #rock #newmusic #rockband #australianmusic #gig",
+        "original_content_owner": "temperate_band"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Temperate",
+      "timestamp_ms": 1726877131543,
+      "content": "Temperate sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1725420756433,
+      "content": "Nice job on promo! It\u00e2\u0080\u0099s refreshing to have a band that knows how to do collab posts. Xx Dunny",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Temperate",
+      "timestamp_ms": 1725402553043,
+      "content": "Temperate sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Temperate",
+      "timestamp_ms": 1721530706694,
+      "content": "Hey iv shot you an email regarding a gig in Oct for our single release 'All Eyes On You'. We're a rock band and would love to tee up something. More info in the email. \nCheers Scott from Temperate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Temperate",
+  "is_still_participant": true,
+  "thread_path": "inbox/temperate_1011655940418536",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "The Oak Tighes Hill"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Cuneo Photography",
+      "timestamp_ms": 1719301578687,
+      "content": "Oooh is that CHICKUN!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Oak Tighes Hill",
+  "is_still_participant": true,
+  "thread_path": "inbox/theoaktigheshill_996004168650380",
+  "magic_words": [
+    
+  ]
+}

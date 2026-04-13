@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Stephen Scott"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stephen Scott",
+      "timestamp_ms": 1696677783289,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3208206929239026100"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stephen Scott",
+  "is_still_participant": true,
+  "thread_path": "inbox/stephenscott_850688693181929",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Toluene Dream"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1766793979528,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Toluene Dream",
+      "timestamp_ms": 1764130784400,
+      "content": "Toluene sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DRgYq08kcG4/",
+        "share_text": "Playing a show to celebrate my album and cap off the year with my literal brother @takii665 at The Oak in newy. Also very excited to have @thewarlocksdreams.band opening the night, from the realm of mist and shadow.\n\nSaturday December 27th, 8pm start. Free entry.",
+        "original_content_owner": "toluene_dream"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Toluene Dream",
+  "is_still_participant": true,
+  "thread_path": "inbox/toluenedream_1370698964514230",
+  "magic_words": [
+    
+  ]
+}

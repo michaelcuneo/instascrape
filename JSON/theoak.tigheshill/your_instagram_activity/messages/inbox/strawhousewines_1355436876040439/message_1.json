@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Strawhouse Wines"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764454347785,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3776838965132436315"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Strawhouse Wines",
+      "timestamp_ms": 1764374409044,
+      "content": "Strawhouse sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DRnpV_PEjPh/?carousel_share_child_media_id=3776168643488003041_3145992516",
+        "share_text": "Tomorrow is the day. We\u00e2\u0080\u0099ll be @theoak.tigheshill in Newcastle for an afternoon of tasting with a gang from Orange:\n@byrnefarmwines  @cargoroadwines @colmarestate @atallahwines_ @smallacrescyder\n\nTix are $35\nHope to see you there \nCheers",
+        "original_content_owner": "strawhousewines"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764034714783,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3773318833557833731"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762476292940,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Strawhouse Wines",
+  "is_still_participant": true,
+  "thread_path": "inbox/strawhousewines_1355436876040439",
+  "magic_words": [
+    
+  ]
+}

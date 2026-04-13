@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "The Local"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1741428146914,
+      "content": "Hey legend, Come Oak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Local",
+  "is_still_participant": true,
+  "thread_path": "inbox/thelocal_1166539744930154",
+  "magic_words": [
+    
+  ]
+}

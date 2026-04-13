@@ -1,0 +1,121 @@
+{
+  "participants": [
+    {
+      "name": "Verena Franz"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Verena Franz",
+      "timestamp_ms": 1766321750995,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Verena Franz",
+      "timestamp_ms": 1766321678585,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Verena Franz",
+      "timestamp_ms": 1766321320634,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1765522660693,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3785800849654110438"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Verena Franz",
+      "timestamp_ms": 1765515146720,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Verena Franz",
+      "timestamp_ms": 1737872372895,
+      "content": "Ok cheers, thanks for the quick reply.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1737872301858,
+      "content": "Heya, we will be open but unfortunately kitchen will be closed! \nKitchen back open on Wednesday for schnitty night!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Verena Franz",
+      "timestamp_ms": 1737871847461,
+      "content": "Heeey, are you open tomorrow? And if so, are you doing food?",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3553677458552052598"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Verena Franz",
+      "timestamp_ms": 1698958301803,
+      "content": "No that would be so fine! Definitely want to support new local \u00e2\u0098\u00ba\u00ef\u00b8\u008f xx",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1698958756
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1698884704211,
+      "content": "Hi Verena, \n\nLydia here, I\u00e2\u0080\u0099m helping out with the socials for the oak! \nWondering if you would mind us resharing your reel (with credit of course) on our feed? \nUnderstand if you\u00e2\u0080\u0099d prefer not to, not a problem at all x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1698884703740,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/CyLa1GsrkG8/?id=3209777157965234620_39240347",
+        "share_text": "@theoak.tigheshill had the hardest \n\"soft opening\" relaunch I've ever seen. \n@lysytsa.music playing was my highlight too.\nWe're all excited for our new local \u00f0\u009f\u0092\u00af",
+        "original_content_owner": "verena.franz"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Verena Franz",
+      "timestamp_ms": 1696855976941,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1696883331
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Verena Franz",
+  "is_still_participant": true,
+  "thread_path": "inbox/verenafranz_1270846547648802",
+  "magic_words": [
+    
+  ]
+}

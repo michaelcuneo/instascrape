@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Duff\u00e2\u0080\u0099s\u00c2\u00ae\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Duff\u00e2\u0080\u0099s\u00c2\u00ae\u00ef\u00b8\u008f",
+      "timestamp_ms": 1734136736017,
+      "content": "Hi hi neighbour!! \n\nI would love that! \nLet me send you some deets in the next couple days- I\u00e2\u0080\u0099d love to work something out with you \u00e2\u009c\u00a8\u00f0\u009f\u008d\u00a6 just got a bit to do today but will send it all through tomorrow for you to peruse \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1734057287281,
+      "content": "Whoops I meant to msg you from masa made\u00e2\u0080\u00a6 it could be a thing for the oak too\u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1734057201152,
+      "content": "Just depends on wholesale price really.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1734057178932,
+      "content": "Howdy neighbour, I was thinking, would you like us to sell your take away icecreams at masa? We have a small freezer there and used to sell paddle pop style paletas. I was going to bring these back but though we could collab instead",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Duff\u00e2\u0080\u0099s\u00c2\u00ae\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/duffsr_1108435740740555",
+  "magic_words": [
+    
+  ]
+}

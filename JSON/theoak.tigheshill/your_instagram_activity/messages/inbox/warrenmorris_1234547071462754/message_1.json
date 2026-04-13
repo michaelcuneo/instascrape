@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Warren  Morris"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1749431343035,
+      "content": "We\u00e2\u0080\u0099re open for drinks but kitchen is closed for public holiday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Warren  Morris",
+      "timestamp_ms": 1749431012064,
+      "content": "Are you open for lunch today?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Warren  Morris",
+  "is_still_participant": true,
+  "thread_path": "inbox/warrenmorris_1234547071462754",
+  "magic_words": [
+    
+  ]
+}

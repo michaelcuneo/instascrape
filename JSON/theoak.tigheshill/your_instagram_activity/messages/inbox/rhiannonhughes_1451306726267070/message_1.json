@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Rhiannon Hughes"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rhiannon Hughes",
+      "timestamp_ms": 1720649040320,
+      "content": "That's ok. Was hopeful!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1720512199957,
+      "content": "No sorry rhi \u00f0\u009f\u0098\u0094",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rhiannon Hughes",
+      "timestamp_ms": 1720511648475,
+      "content": "Do you do take away for specials?",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3408045912583834494"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rhiannon Hughes",
+  "is_still_participant": true,
+  "thread_path": "inbox/rhiannonhughes_1451306726267070",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Saint Milana \u00f0\u009f\u0091\u00bc"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1765441216920,
+      "content": "Hey mate, thanks for reaching out. Hit up our band booker at oakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Saint Milana \u00f0\u009f\u0091\u00bc",
+      "timestamp_ms": 1765441139050,
+      "content": "Hiya,\n\nMy name\u00e2\u0080\u0099s Saint Milana, I\u00e2\u0080\u0099m a 19 year old solo musician from the Central Coast performing vocals and guitar, with a mix of covers and originals, ranging from new hits to old classics!\n\nI\u00e2\u0080\u0099m reaching out to see if you\u00e2\u0080\u0099re currently booking solo artists as I\u00e2\u0080\u0099d love the opportunity to play at your venue. I do full sets, can adapt to chilled acoustic or upbeat crowd-friendly vibes, and I am able to bring my own gear if needed.\n\nI\u00e2\u0080\u0099ve been performing around the Coast and Sydney area, and I\u00e2\u0080\u0099m always keen to try out different venues!\n\nThanks so much for your time, I\u00e2\u0080\u0099d love to chat more if you have any availability coming up.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Saint Milana \u00f0\u009f\u0091\u00bc",
+  "is_still_participant": true,
+  "thread_path": "inbox/saintmilana_1381659596751500",
+  "magic_words": [
+    
+  ]
+}

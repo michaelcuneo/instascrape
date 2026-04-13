@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Jace"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jace",
+      "timestamp_ms": 1701502845724,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jace",
+      "timestamp_ms": 1700543581509,
+      "share": {
+        "link": "https://www.instagram.com/stories/jace.solxce/3240714902581328279"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jace",
+      "timestamp_ms": 1696735121986,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jace",
+  "is_still_participant": true,
+  "thread_path": "inbox/jace_851069826477149",
+  "magic_words": [
+    
+  ]
+}

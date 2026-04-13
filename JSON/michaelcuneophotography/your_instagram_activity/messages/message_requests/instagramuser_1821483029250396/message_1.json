@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Instagram user"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram user",
+      "timestamp_ms": 1758708390980,
+      "content": "Invitation: you on the COVER \u00f0\u009f\u0094\u00a5\n\nHi, I'm the editor of Artego Magazine, and I personally invite you to join our cover draw!\n\nSpend two minutes and get a GUARANTEED place in the print magazine!\n\nMoreover, one random person will be the face of Marika next issue and appear on the COVER. Maybe it will be you?\n\n\u00f0\u009f\u0091\u0089 The details are in reels. Comment to participate!\n\nDeadline: October 1st!\n\nImportant: This is a technical account; please don\u00e2\u0080\u0099t reply here\nComment under the reel and message the main page @artego_magazinr instead",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram user",
+      "timestamp_ms": 1758708379488,
+      "content": "Instagram user sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DO5sss3jOzp/?id=3727206752505883881_4329911121",
+        "share_text": "Your work in print magazine for just one comment \u00e2\u009c\u00a8\u00e2\u009c\u00a8\u00e2\u009c\u00a8\n\nWe\u00e2\u0080\u0099re so excited to announce something special. For our next issue, we\u00e2\u0080\u0099re throwing the doors wide open to every single one of you \u00f0\u009f\u00a4\u00a9\n\n\u00f0\u009f\u009a\u00a8From September 22th until October 1st at 23:59\u00f0\u009f\u009a\u00a8 you can secure your spot in Artego Magazine\n\nHere\u00e2\u0080\u0099s the simple way to join:\n1. Make sure you\u00e2\u0080\u0099re following our page, @artego_magazine\n2. Drop any comment you\u00e2\u0080\u0099d like below this reel\n\nBy doing that, you\u00e2\u0080\u0099ll have one GUARANTEED submission published FOR FREE in the next issue. We want to see all your beautiful work!\n\nBut that\u00e2\u0080\u0099s not all. We\u00e2\u0080\u0099ll also randomly choose one incredible person to be the star of the next issue! That winner will receive our ultimate prize pack:\n\n\u00e2\u009c\u0094A stunning Augmented Reality Cover\n\u00e2\u009c\u0094A full Cover Story feature\n\u00e2\u009c\u0094A set of professional Tear Sheets\n\u00e2\u0080\u00a6all completely free!\n\nThis is for everyone we admire: the photographers, the models, the stylists and artists. Whether you're a seasoned pro or just starting out, your perspective is valuable. We even welcome those of you who submit breathtaking shots of nature or weddings \u00f0\u009f\u00a5\u00b0\n\nThink of it as your friendly invitation from our creative family to yours. We can\u00e2\u0080\u0099t wait to welcome you to the pages of Artego Magazine",
+        "original_content_owner": "artego_magazine"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram user",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1821483029250396",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

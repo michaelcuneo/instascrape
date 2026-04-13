@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "raina"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "raina",
+      "timestamp_ms": 1745584128067,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "raina",
+      "timestamp_ms": 1736499187571,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "raina",
+  "is_still_participant": true,
+  "thread_path": "inbox/raina_1126950615555734",
+  "magic_words": [
+    
+  ]
+}

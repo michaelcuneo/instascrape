@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Laura Jack"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Laura Jack",
+      "timestamp_ms": 1752622908437,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/laurajack_1780101633386069/photos/1235439017885529.jpg",
+          "creation_timestamp": 1752622907
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Laura Jack",
+      "timestamp_ms": 1752622841769,
+      "content": "Hi, I\u00e2\u0080\u0099m reaching out to enquire about the possibility of holding a memorial gathering for a client of mine, Adam who recently passed away. I was Adam\u00e2\u0080\u0099s NDIS coordinator and worked with Adam for many years. I currently work for Kindminds Co located in Mayfield which is owned and run by Bianca Willis. \n\nAdam was well known and much loved member of the Mayfield community. Despite facing challenges with mental health and substance use, he formed strong connections with many people in the area. There has been a heartfelt response from the community, with many expressing a strong desire to come together to pay tribute to him. We would love the opportunity to host a respectful and informal gathering where people can share memories and celebrate Adam\u00e2\u0080\u0099s life. Please let me know if this would be possible and if so what\u00e2\u0080\u0099s steps we need to take.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Laura Jack",
+  "is_still_participant": true,
+  "thread_path": "inbox/laurajack_1780101633386069",
+  "magic_words": [
+    
+  ]
+}

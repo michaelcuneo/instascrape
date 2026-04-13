@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Brooke Sinclair"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brooke Sinclair",
+      "timestamp_ms": 1720257098965,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1720257088664,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/brookesinclair_1372129497523152/photos/991789302269324.jpg",
+          "creation_timestamp": 1720257086
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brooke Sinclair",
+      "timestamp_ms": 1720257049629,
+      "content": "Hey do you guys have a food menu visible online",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brooke Sinclair",
+  "is_still_participant": true,
+  "thread_path": "inbox/brookesinclair_1372129497523152",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Blake Cateris"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Blake Cateris",
+      "timestamp_ms": 1709100799932,
+      "content": "Unreal, thanks so much!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1709100622601,
+      "content": "Hey! Sounds great, justan is your guy. oakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Blake Cateris",
+      "timestamp_ms": 1709100553298,
+      "content": "Hey everyone! I'm a singer/songwriter looking to book a show at The Oak, I have have Dane Tutty and Dal Failure (Frenzal Rhomb) on board for the show. Would you have an email address handy that I can contact regarding live music bookings?\nThanks so much for your time!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Blake Cateris",
+  "is_still_participant": true,
+  "thread_path": "inbox/blakecateris_928722285378569",
+  "magic_words": [
+    
+  ]
+}

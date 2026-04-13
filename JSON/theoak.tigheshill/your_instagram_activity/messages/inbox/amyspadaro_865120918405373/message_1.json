@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Amy Spadaro"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1698988051016,
+      "content": "Can do",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amy Spadaro",
+      "timestamp_ms": 1698987551417,
+      "content": "Yes please we were keen on beer garden, just wanted to check we could book for food (as in the kitchen could accomodate our orders)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1698988047
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1698986162928,
+      "content": "Unfortunately we can\u00e2\u0080\u0099t have your fluffy friend in the front bar during dinner service. We can have you in the beer garden (under cover) if you\u00e2\u0080\u0099d like.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amy Spadaro",
+      "timestamp_ms": 1698980108455,
+      "content": "Hello if we have a dog with us, are we able to book 4 ppl for dinner please - Sat 7pm?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amy Spadaro",
+  "is_still_participant": true,
+  "thread_path": "inbox/amyspadaro_865120918405373",
+  "magic_words": [
+    
+  ]
+}

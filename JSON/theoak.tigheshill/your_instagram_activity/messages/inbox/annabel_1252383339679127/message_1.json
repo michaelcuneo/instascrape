@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0091\u0091 Annabel"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u0091\u0091 Annabel",
+      "timestamp_ms": 1751514726363,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1751512324505,
+      "content": "Here\u00e2\u0080\u0099s a fresh booking link\u00e2\u0080\u00a6\n\nhttps://obee.com.au/theoaktigheshill/",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "\u00f0\u009f\u0091\u0091 Annabel"
+        }
+      ],
+      "share": {
+        "link": "https://obee.com.au/theoaktigheshill/",
+        "share_text": "Here\u00e2\u0080\u0099s a fresh booking link\u00e2\u0080\u00a6\n\nhttps://obee.com.au/theoaktigheshill/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1751512277722,
+      "content": "We sure do! We\u00e2\u0080\u0099ve got space at 12.30/1.30 or 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0091\u0091 Annabel",
+      "timestamp_ms": 1751512104663,
+      "content": "Hello, do you still have spots available for your Bastille Day? The link in your bio doesn\u00e2\u0080\u0099t have an option to book",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0091\u0091 Annabel",
+  "is_still_participant": true,
+  "thread_path": "inbox/annabel_1252383339679127",
+  "magic_words": [
+    
+  ]
+}

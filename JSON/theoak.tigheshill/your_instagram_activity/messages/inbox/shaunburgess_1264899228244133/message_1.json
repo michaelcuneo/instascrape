@@ -1,0 +1,91 @@
+{
+  "participants": [
+    {
+      "name": "Shaun Burgess"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1696846466162,
+      "content": "Friday draw is 6pm. No skate team yet but definitely worth looking at",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shaun Burgess",
+      "timestamp_ms": 1696812608036,
+      "content": "Do you have a skate team?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shaun Burgess",
+      "timestamp_ms": 1696812595278,
+      "content": "Fuckin oath. What time is Friday draw?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1696812559192,
+      "content": "Meat raffle is wed/Fri at the moment. \nSchooner draw Thursday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shaun Burgess",
+      "timestamp_ms": 1696808716343,
+      "content": "That burger was very good btw",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1696812526
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shaun Burgess",
+      "timestamp_ms": 1696808697488,
+      "content": "Oi, Chuck a raffle on and I\u00e2\u0080\u0099ll be very excited",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1696812527
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shaun Burgess",
+      "timestamp_ms": 1696671666616,
+      "content": "I\u00e2\u0080\u0099m in",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1696713232
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3208206929239026100"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shaun Burgess",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaunburgess_1264899228244133",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "account_history_registration_info": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Username": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "IP Address": {
+          "href": "",
+          "value": "2001:8004:1240:692:15e8:cab8:8c71:7476",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1581413023
+        },
+        "Email": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Phone Number": {
+          "href": "",
+          "value": "+61455400668",
+          "timestamp": 0
+        },
+        "Device": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

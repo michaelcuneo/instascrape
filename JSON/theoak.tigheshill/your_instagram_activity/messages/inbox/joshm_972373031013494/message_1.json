@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Josh M"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Josh M",
+      "timestamp_ms": 1715937277030,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1715903056410,
+      "content": "https://facebook.com/events/s/marones-plus-trashed-again/292515587278216/\n\nHere is the facebook event",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Josh M",
+          "timestamp": 1715937277
+        }
+      ],
+      "share": {
+        "link": "https://facebook.com/events/s/marones-plus-trashed-again/292515587278216/",
+        "share_text": "https://facebook.com/events/s/marones-plus-trashed-again/292515587278216/\n\nHere is the facebook event"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josh M",
+      "timestamp_ms": 1715848787847,
+      "content": "Hey was hoping to invite friends to the gig tomorrow (Friday) night but no social posts up about it?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Josh M",
+  "is_still_participant": true,
+  "thread_path": "inbox/joshm_972373031013494",
+  "magic_words": [
+    
+  ]
+}

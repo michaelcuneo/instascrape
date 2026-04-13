@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Megan Hunter"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Megan Hunter",
+      "timestamp_ms": 1752371476544,
+      "content": "Hey guys\nWe\u00e2\u0080\u0099ve lost one today so 4 at 2pm. Sorry",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Megan Hunter",
+      "timestamp_ms": 1752104575287,
+      "content": "Sweet! \u00f0\u009f\u008d\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752100996799,
+      "content": "Sorted mate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Megan Hunter",
+      "timestamp_ms": 1752100779550,
+      "content": "Mates, would you mind adding one more person to my booking for 2 pm on Sunday please?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Megan Hunter",
+  "is_still_participant": true,
+  "thread_path": "inbox/meganhunter_932206295030168",
+  "magic_words": [
+    
+  ]
+}

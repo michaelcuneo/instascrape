@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Atom Bombadil"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1769126522922,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Atom Bombadil",
+      "timestamp_ms": 1768976408797,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Atom Bombadil",
+      "timestamp_ms": 1768975972025,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Atom Bombadil",
+      "timestamp_ms": 1768975386133,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Atom Bombadil",
+      "timestamp_ms": 1768605043379,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Atom Bombadil",
+  "is_still_participant": true,
+  "thread_path": "inbox/atombombadil_1408296657421127",
+  "magic_words": [
+    
+  ]
+}

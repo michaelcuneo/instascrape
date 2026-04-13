@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Thanks For Your Review"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738806838037,
+      "content": "https://www.google.com/maps/reviews/@-33.7575936,151.2013824,11z/data=!4m5!14m4!1m3!1m2!1s104347336627730139895!2s0x6b72cdca4646c5d1:0x934b04f949f4a46c?hl=en-AU",
+      "share": {
+        "link": "https://www.google.com/maps/reviews/@-33.7575936,151.2013824,11z/data=!4m5!14m4!1m3!1m2!1s104347336627730139895!2s0x6b72cdca4646c5d1:0x934b04f949f4a46c?hl=en-AU",
+        "share_text": "https://www.google.com/maps/reviews/@-33.7575936,151.2013824,11z/data=!4m5!14m4!1m3!1m2!1s104347336627730139895!2s0x6b72cdca4646c5d1:0x934b04f949f4a46c?hl=en-AU"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Thanks For Your Review",
+  "is_still_participant": true,
+  "thread_path": "inbox/thanksforyourreview_1145049823745813",
+  "magic_words": [
+    
+  ]
+}

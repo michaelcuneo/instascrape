@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Photography \u00e2\u0080\u00a2 Travel"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Photography \u00e2\u0080\u00a2 Travel",
+      "timestamp_ms": 1626176573804,
+      "content": "Hello, followed you !\r\n\r\nEver seen this adventure filmmaker? @shaferdanielr \u00e2\u009c\u0088\u00ef\u00b8\u008f He explores beautiful places all over the world & posts great Reels and GoPro content.\r\n\r\nHonestly, a bit of support would mean a lot to him \u00f0\u009f\u0099\u008f Thanks and have a good one!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Photography \u00e2\u0080\u00a2 Travel",
+      "timestamp_ms": 1626176573444,
+      "share": {
+        "link": "https://www.instagram.com/_u/danielrshafer",
+        "profile_share_username": "danielrshafer",
+        "profile_share_name": "DANIEL SHAFER"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Photography \u00e2\u0080\u00a2 Travel",
+  "is_still_participant": true,
+  "thread_path": "message_requests/photographytravel_100162232345844",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

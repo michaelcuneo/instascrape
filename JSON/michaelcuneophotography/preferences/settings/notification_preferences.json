@@ -1,0 +1,30 @@
+{
+  "settings_notification_preferences": [
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "email"
+        },
+        "Type": {
+          "value": "MARKETING_EMAIL"
+        },
+        "Value": {
+          "value": "ON"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "CLIPS_RECENTLY_UPLOADED"
+        },
+        "Value": {
+          "value": "EVERYONE"
+        }
+      }
+    }
+  ]
+}

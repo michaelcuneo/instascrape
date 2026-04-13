@@ -1,0 +1,42 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Removed categories",
+      "vec": [
+        
+      ]
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Instagram post: Our weekly lineup here at the..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1741149276
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Hidden ads"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Hidden advertisers"
+    }
+  ],
+  "fbid": "17869037611988336"
+}

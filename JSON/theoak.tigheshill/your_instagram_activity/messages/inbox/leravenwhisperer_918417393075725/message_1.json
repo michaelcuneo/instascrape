@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Le raven whisperer"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Le raven whisperer",
+      "timestamp_ms": 1710028086597,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Le raven whisperer",
+  "is_still_participant": true,
+  "thread_path": "inbox/leravenwhisperer_918417393075725",
+  "magic_words": [
+    
+  ]
+}

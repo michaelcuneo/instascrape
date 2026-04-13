@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "MPD"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MPD",
+      "timestamp_ms": 1766211806271,
+      "content": "GNARLY",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3791578509496986580"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "MPD",
+  "is_still_participant": true,
+  "thread_path": "inbox/mpd_1388218762762250",
+  "magic_words": [
+    
+  ]
+}

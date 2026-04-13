@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Ian Guilfoyle"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ian Guilfoyle",
+      "timestamp_ms": 1734750789297,
+      "content": "Thanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ian Guilfoyle",
+      "timestamp_ms": 1734750780945,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1734750424167,
+      "content": "Open 4-8.30",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ian Guilfoyle",
+          "timestamp": 1734750780
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ian Guilfoyle",
+  "is_still_participant": true,
+  "thread_path": "inbox/ianguilfoyle_1113727020211427",
+  "magic_words": [
+    
+  ]
+}

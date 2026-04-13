@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Shane's Seafood"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1739948648472,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3571270527799441554"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shane's Seafood",
+  "is_still_participant": true,
+  "thread_path": "inbox/shanesseafood_1154315406152588",
+  "magic_words": [
+    
+  ]
+}

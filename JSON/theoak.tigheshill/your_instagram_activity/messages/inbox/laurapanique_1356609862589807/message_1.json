@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "laurapanique"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762648323860,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3761689020788276301"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "laurapanique",
+      "timestamp_ms": 1762596218697,
+      "share": {
+        "link": "https://www.instagram.com/stories/laurapanique/3761251570206892772"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "laurapanique",
+  "is_still_participant": true,
+  "thread_path": "inbox/laurapanique_1356609862589807",
+  "magic_words": [
+    
+  ]
+}

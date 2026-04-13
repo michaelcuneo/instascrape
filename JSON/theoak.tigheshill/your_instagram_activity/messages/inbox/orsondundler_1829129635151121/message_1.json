@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Orson Dundler"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Orson Dundler",
+      "timestamp_ms": 1759187146413,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3732182091611390078"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Orson Dundler",
+  "is_still_participant": true,
+  "thread_path": "inbox/orsondundler_1829129635151121",
+  "magic_words": [
+    
+  ]
+}

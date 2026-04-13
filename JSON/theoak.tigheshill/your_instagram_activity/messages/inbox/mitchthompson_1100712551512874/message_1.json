@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Mitch Thompson"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mitch Thompson",
+      "timestamp_ms": 1767947242835,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3806101837514371812"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mitch Thompson",
+      "timestamp_ms": 1733028661116,
+      "content": "Thanks matey \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1733025898389,
+      "content": "Congrats lovelies",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mitch Thompson",
+  "is_still_participant": true,
+  "thread_path": "inbox/mitchthompson_1100712551512874",
+  "magic_words": [
+    
+  ]
+}

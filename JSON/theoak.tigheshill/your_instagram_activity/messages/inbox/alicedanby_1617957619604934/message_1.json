@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "A L I C E \u00e2\u0080\u00a2 D A N B Y"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A L I C E \u00e2\u0080\u00a2 D A N B Y",
+      "timestamp_ms": 1738014437995,
+      "content": "Awesome, 4 please \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1738014684
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738014408210,
+      "content": "Hey alice, i will set it up today, how many people would you like?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A L I C E \u00e2\u0080\u00a2 D A N B Y",
+      "timestamp_ms": 1738005518843,
+      "content": "Hey! Do we book a table via the link in your bio?",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3554703830862940629"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "A L I C E \u00e2\u0080\u00a2 D A N B Y",
+  "is_still_participant": true,
+  "thread_path": "inbox/alicedanby_1617957619604934",
+  "magic_words": [
+    
+  ]
+}

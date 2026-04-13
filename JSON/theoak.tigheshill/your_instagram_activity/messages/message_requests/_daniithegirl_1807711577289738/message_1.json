@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "_daniithegirl"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "_daniithegirl",
+      "timestamp_ms": 1760746992995,
+      "content": "Hello just wondering if a small sapphire ring was found there last night ? I was there and lost it \u00f0\u009f\u00a5\u00b2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "_daniithegirl",
+  "is_still_participant": true,
+  "thread_path": "message_requests/_daniithegirl_1807711577289738",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

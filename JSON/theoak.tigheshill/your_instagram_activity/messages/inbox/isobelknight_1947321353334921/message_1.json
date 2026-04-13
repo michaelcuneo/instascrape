@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Isobel Knight"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Isobel Knight",
+      "timestamp_ms": 1771763378522,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Isobel Knight",
+  "is_still_participant": true,
+  "thread_path": "inbox/isobelknight_1947321353334921",
+  "magic_words": [
+    
+  ]
+}

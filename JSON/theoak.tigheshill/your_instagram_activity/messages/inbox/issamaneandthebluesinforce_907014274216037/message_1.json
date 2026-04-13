@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Issa Mane and the Blues in Force"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1705776939789,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3284617322475461815"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Issa Mane and the Blues in Force",
+      "timestamp_ms": 1705754259188,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Issa Mane and the Blues in Force",
+  "is_still_participant": true,
+  "thread_path": "inbox/issamaneandthebluesinforce_907014274216037",
+  "magic_words": [
+    
+  ]
+}

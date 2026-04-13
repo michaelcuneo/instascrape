@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "Holiday Sidewinder"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Holiday Sidewinder",
+      "timestamp_ms": 1771042076976,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1771030994254,
+      "content": "Thanks for dropping the keys back. I\u00e2\u0080\u0099m sorry i didn\u00e2\u0080\u0099t get to chat with you and further apologise.\n\n\nCan you please send me your bank details so I can transfer your $1000 payment for your performance.\n\nAn invoice can be emailed to OakBandBooking@gmail.com\n\nSafe travels back to Sydney.\n\nDunny",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Holiday Sidewinder"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1771027520065,
+      "content": "Ok, see you then",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Holiday Sidewinder",
+      "timestamp_ms": 1771021860994,
+      "content": "Thanks for writing. I appreciate it. I\u00e2\u0080\u0099ll swing by to pick up my merch from the hotel room and drop keys in an hour or so",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1770991562275,
+      "content": "Hi Holiday,\n\nI just want to apologise on behalf of the venue tonight for the sound engineers actions. It\u00e2\u0080\u0099s extremely unprofessional and out of character for them.\n\nThe sound engineer is extremely sorry for their actions.\n\nYou performed a wonderful show that the crowd and I personally loved. To go though what you did, and push through, shows your absolute professionalism. \n\nYou, nor anyone should be put in that situation.\n\nI\u00e2\u0080\u0099d love to meet you properly and apologise in person. But I understand if you don\u00e2\u0080\u0099t want to come back.\n\nI have your pay for the night all ready to go in the office, however I can transfer that if you prefer.\n\nI\u00e2\u0080\u0099m on open tomorrow and will be there from 7am-1pm.\n\nI\u00e2\u0080\u0099m sincerely sorry.\n\nDunny",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1770965066341,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Holiday Sidewinder",
+      "timestamp_ms": 1770964623495,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Holiday Sidewinder",
+      "timestamp_ms": 1770942266635,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1770941751033,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Holiday Sidewinder",
+      "timestamp_ms": 1770420226686,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1770419634347,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Holiday Sidewinder",
+  "is_still_participant": true,
+  "thread_path": "inbox/holidaysidewinder_1425610809023045",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Talkhouse"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Talkhouse",
+      "timestamp_ms": 1755944614946,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Talkhouse",
+      "timestamp_ms": 1755736849621,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Talkhouse",
+      "timestamp_ms": 1753411399487,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Talkhouse",
+      "timestamp_ms": 1752804369393,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752569080759,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Talkhouse",
+      "timestamp_ms": 1752563726498,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Talkhouse",
+      "timestamp_ms": 1752136739605,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Talkhouse",
+  "is_still_participant": true,
+  "thread_path": "inbox/talkhouse_1257822022468592",
+  "magic_words": [
+    
+  ]
+}

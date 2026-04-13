@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "The Yard Brewery & Smokehouse"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Yard Brewery & Smokehouse",
+      "timestamp_ms": 1698542945016,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Yard Brewery & Smokehouse",
+  "is_still_participant": true,
+  "thread_path": "inbox/theyardbrewerysmokehouse_862553925328739",
+  "magic_words": [
+    
+  ]
+}

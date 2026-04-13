@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Billee-Anne MacGregor"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1753581124134,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3685627898591435829"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1753581105543,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3685627878148393414"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Billee-Anne MacGregor",
+      "timestamp_ms": 1753580104869,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Billee-Anne MacGregor",
+      "timestamp_ms": 1753578332403,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Billee-Anne MacGregor",
+      "timestamp_ms": 1753577646421,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Billee-Anne MacGregor",
+  "is_still_participant": true,
+  "thread_path": "inbox/billeeannemacgregor_1270598361190958",
+  "magic_words": [
+    
+  ]
+}

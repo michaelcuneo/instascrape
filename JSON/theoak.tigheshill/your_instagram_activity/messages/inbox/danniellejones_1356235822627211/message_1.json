@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Dannielle Jones"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dannielle Jones",
+      "timestamp_ms": 1762661007220,
+      "content": "That\u00e2\u0080\u0099s no worries at all! You can only do what you can do. Appreciate you trying to keep her there as long as you could. I feel really bad for leaving her- I just knew there was a blind dog roaming up the road who has been out a lot and almost hit. We have not seen her since she ran, so I\u00e2\u0080\u0099m hoping she got home safely.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762657858019,
+      "content": "Thx for your efforts.\nDunny",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762657840525,
+      "content": "I\u00e2\u0080\u0099m sorry Dannielle , it was finally starting to come good and listen to me and come out of the pokie room. I went to the shed to get some rope to try and put a leash on it when I came back this old guy was shutting the front door and saying well that sorts that problem. He let the dog out the front door. I was soooooo angry at him \u00f0\u009f\u0098\u00a4\u00f0\u009f\u0098\u00a1\n\nWhat an idiot. I roasted him for it.\n\nHopefully it\u00e2\u0080\u0099s ok, he said it went back over the bridge towards equium.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dannielle Jones",
+      "timestamp_ms": 1762556348152,
+      "content": "Hey any update on the collie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dannielle Jones",
+  "is_still_participant": true,
+  "thread_path": "inbox/danniellejones_1356235822627211",
+  "magic_words": [
+    
+  ]
+}

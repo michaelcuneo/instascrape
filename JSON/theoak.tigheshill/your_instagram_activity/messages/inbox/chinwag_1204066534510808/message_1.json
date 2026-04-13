@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "CHINWAG"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1755941110605,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3705424831362263541"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CHINWAG",
+      "timestamp_ms": 1755935337057,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1755829838082,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3704491465490510807"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1755829820749,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3704491325199460246"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CHINWAG",
+      "timestamp_ms": 1755829696444,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CHINWAG",
+      "timestamp_ms": 1745721089279,
+      "content": "Awesome thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1745719068144,
+      "content": "Hey! \noakbandbooking@gmail.com for all band enquiries!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CHINWAG",
+      "timestamp_ms": 1745718938547,
+      "content": "Hey guys, whats the best email to contact in regards to booking a show.\nCheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "CHINWAG",
+  "is_still_participant": true,
+  "thread_path": "inbox/chinwag_1204066534510808",
+  "magic_words": [
+    
+  ]
+}

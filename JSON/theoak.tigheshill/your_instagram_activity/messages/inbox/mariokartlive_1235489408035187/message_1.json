@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Mario Kart Live"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1749542300034,
+      "content": "Hey pals. It\u00e2\u0080\u0099s Dunny who used to run the Lass, the venue you played last time you were in newy. This is my lovely new pub. I was thinking about you the other day and thought I\u00e2\u0080\u0099d reach out to see when you\u00e2\u0080\u0099re touring next. I\u00e2\u0080\u0099d love to show you our new pub and host you here for an event. The bonus being this pub has accom :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mario Kart Live",
+  "is_still_participant": true,
+  "thread_path": "inbox/mariokartlive_1235489408035187",
+  "magic_words": [
+    
+  ]
+}

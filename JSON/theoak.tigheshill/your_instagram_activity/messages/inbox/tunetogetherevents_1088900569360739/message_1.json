@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Tune Together Events"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tune Together Events",
+      "timestamp_ms": 1733730730961,
+      "content": "We\u00e2\u0080\u0099ll have QR codes people can scan to easily purchase tickets",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tune Together Events",
+      "timestamp_ms": 1733730712187,
+      "content": "Honestly around 20 so far but we know quite a few people who are coming that still haven\u00e2\u0080\u0099t bought tickets. Expecting quite a few people to buy just before coming in",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1733730323062,
+      "content": "Gday guys, how many tickets have we sold? Just trying to prganise staffing! Cheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tune Together Events",
+      "timestamp_ms": 1731485139125,
+      "content": "Tune sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DCTeCYvTJJT/",
+        "share_text": "Aaandd it\u00e2\u0080\u0099s here!! Tune Together\u00e2\u0080\u0099s FIRST EVENT will be held on 13th December 2024 @theoak.tigheshill , raising money for the wonderful ACON. Tickets now on sale and this is a pay what you wish event! We appreciate any donation, no matter how big or small, nobody is left out \u00e2\u009d\u00a4\u00ef\u00b8\u008f \nLook at this beautiful line up! \u00f0\u009f\u00a5\u00b9 Thank you everyone so much, see you there! \n\nLet\u00e2\u0080\u0099s make music together, let\u00e2\u0080\u0099s make a difference together \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+        "original_content_owner": "tunetogetherevents"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tune Together Events",
+  "is_still_participant": true,
+  "thread_path": "inbox/tunetogetherevents_1088900569360739",
+  "magic_words": [
+    
+  ]
+}

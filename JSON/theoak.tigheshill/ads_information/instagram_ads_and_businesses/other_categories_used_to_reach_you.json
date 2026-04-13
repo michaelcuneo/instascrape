@@ -1,0 +1,109 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Name",
+      "vec": [
+        {
+          "value": "Away from family"
+        },
+        {
+          "value": "Away from home town"
+        },
+        {
+          "value": "Birthday in July"
+        },
+        {
+          "value": "Facebook Page admins"
+        },
+        {
+          "value": "Facebook access (browser): Microsoft Edge"
+        },
+        {
+          "value": "Facebook access (mobile): Apple (iOS) devices"
+        },
+        {
+          "value": "Facebook access (mobile): all mobile devices"
+        },
+        {
+          "value": "Facebook access (mobile): smartphones and tablets"
+        },
+        {
+          "value": "Facebook access (mobile): tablets"
+        },
+        {
+          "value": "Facebook access (network type): Wi-Fi"
+        },
+        {
+          "value": "Food and restaurants"
+        },
+        {
+          "value": "Frequent international travellers"
+        },
+        {
+          "value": "Frequent travellers"
+        },
+        {
+          "value": "Friends of football fans"
+        },
+        {
+          "value": "Friends of men with a birthday in 0-7 days"
+        },
+        {
+          "value": "Friends of men with a birthday in 7-30 days"
+        },
+        {
+          "value": "Friends of people who recently moved"
+        },
+        {
+          "value": "Friends of people with birthdays in a month"
+        },
+        {
+          "value": "Friends of people with birthdays in a week"
+        },
+        {
+          "value": "Friends of those who live abroad"
+        },
+        {
+          "value": "Friends of women with a birthday in 0-7 days"
+        },
+        {
+          "value": "Friends of women with a birthday in 7-30 days"
+        },
+        {
+          "value": "Instagram business profile admins"
+        },
+        {
+          "value": "Medium business-to-business enterprise employees (200-500 employees)"
+        },
+        {
+          "value": "Mobile network or device users"
+        },
+        {
+          "value": "New Page admins"
+        },
+        {
+          "value": "Potential mobile network or device change"
+        },
+        {
+          "value": "Recent mobile network or device change"
+        },
+        {
+          "value": "Small business owners"
+        },
+        {
+          "value": "Small business-to-business enterprise employees (10-200 employees)"
+        },
+        {
+          "value": "Uses a mobile device (25 months+)"
+        },
+        {
+          "value": "Wi-Fi Usage"
+        }
+      ]
+    }
+  ],
+  "fbid": "17841429650068283"
+}

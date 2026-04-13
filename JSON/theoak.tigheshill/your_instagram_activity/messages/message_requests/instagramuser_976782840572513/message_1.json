@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1716455894464,
+      "content": "Hi there, I met Dunny at the beginning of the year at The Lass and had a chat about running my paint and sip art classes at The Lass, but I just saw you\u00e2\u0080\u0099re running the Oak  now and was wondering if you\u00e2\u0080\u0099d be interested in running some paint and sips at the oak? \nI would supply everything needed to paint, canvases etc and teach a 3 hr session. I can also do an artwork of your choosing \u00f0\u009f\u0098\u008a Just let me know the theme you\u00e2\u0080\u0099re thinking of and I\u00e2\u0080\u0099ll come up with something appropriate. \n\nCheck out my page and website \u00f0\u009f\u0098\u008awww.wildartparties.com.au\n\nHope to hear from you soon \u00f0\u009f\u0098\u008a\n\nSasha",
+      "share": {
+        "link": "http://www.wildartparties.com.au/",
+        "share_text": "Hi there, I met Dunny at the beginning of the year at The Lass and had a chat about running my paint and sip art classes at The Lass, but I just saw you\u00e2\u0080\u0099re running the Oak  now and was wondering if you\u00e2\u0080\u0099d be interested in running some paint and sips at the oak? \nI would supply everything needed to paint, canvases etc and teach a 3 hr session. I can also do an artwork of your choosing \u00f0\u009f\u0098\u008a Just let me know the theme you\u00e2\u0080\u0099re thinking of and I\u00e2\u0080\u0099ll come up with something appropriate. \n\nCheck out my page and website \u00f0\u009f\u0098\u008awww.wildartparties.com.au\n\nHope to hear from you soon \u00f0\u009f\u0098\u008a\n\nSasha"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_976782840572513",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,126 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1752305572742,
+      "content": "Thanks so much!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1752305565927,
+      "content": "Email is molly.urquhart@dnsw.com.au",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1752305556276,
+      "content": "Thank you! Great to know",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1752305541990,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752248320272,
+      "content": "The Oak Tighes Hill. \n\nUnfortunately not super accessible due to the heritage listing of the building. We are working on fixing this though. \n\nDo you have an email to forward the pics to?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Instagram User"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1752210822729,
+      "content": "Hey team, can I also please confirm the proper name of the venue? Is it The Oak, The Oak Tighes Hill or The Royal Oak? The Bastille Day poster has The Royal Oak but the High Andies post says The Oak. Please let me know!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1751860633579,
+      "content": "Oh great! Would be fab to have a folder of selects by Monday latest?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1751846218583,
+      "content": "When do you need pics by? We\u00e2\u0080\u0099ve got a shoot lined up this week anyway",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1751798187867,
+      "content": "Thanks heaps! Chat tomorrow!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1751798179412,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1751772182884,
+      "content": "Hey Molly, we\u00e2\u0080\u0099d be stoked to be included. \n\nI\u00e2\u0080\u0099ll organise all this during the day tomorrow",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Instagram User"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1751594128803,
+      "content": "Hey there,\n \nMolly here \u00e2\u0080\u0093 I work as a copywriter at Destination NSW.\n \nEmailing as I\u00e2\u0080\u0099m working on an article on NSW's best pubs and we\u00e2\u0080\u0099d like to include The Oak.\n \nTo that end, are you able to please share some high-res, landscape imagery? \nPlease note that by supplying Destination NSW with images, you are confirming that you have the rights to distribute these images for the purposes of promoting your business on our websites. Please provide details for any image credits required.\n\nCould you also please advise if the property is accessible?\n \nThank you and kindest,\nMolly",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_1756935152374530",
+  "magic_words": [
+    
+  ]
+}

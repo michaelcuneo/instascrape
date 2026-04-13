@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Xander Clifford"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Xander Clifford",
+      "timestamp_ms": 1771902181910,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Xander Clifford",
+  "is_still_participant": true,
+  "thread_path": "inbox/xanderclifford_1440186074232185",
+  "magic_words": [
+    
+  ]
+}

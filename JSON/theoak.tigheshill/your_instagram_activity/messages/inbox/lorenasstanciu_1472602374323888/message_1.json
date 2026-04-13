@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "lorenasstanciu"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "lorenasstanciu",
+      "timestamp_ms": 1775390473691,
+      "content": "Is you closed?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "lorenasstanciu",
+  "is_still_participant": true,
+  "thread_path": "inbox/lorenasstanciu_1472602374323888",
+  "magic_words": [
+    
+  ]
+}

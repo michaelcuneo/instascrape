@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "maddles"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "maddles",
+      "timestamp_ms": 1754216283677,
+      "share": {
+        "link": "https://www.instagram.com/stories/moltenmangoes/3690950014352945623"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "maddles",
+  "is_still_participant": true,
+  "thread_path": "inbox/maddles_1276417053942422",
+  "magic_words": [
+    
+  ]
+}

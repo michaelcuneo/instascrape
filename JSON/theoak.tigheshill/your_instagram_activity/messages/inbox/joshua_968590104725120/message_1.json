@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "J\u00cc\u00b7\u00cc\u0090\u00cc\u00a7o\u00cc\u00b8\u00cd\u0084\u00cd\u0085s\u00cc\u00b8\u00cc\u0081\u00cc\u00a3h\u00cc\u00b6\u00cd\u0092\u00cd\u0093u\u00cc\u00b7\u00cd\u008c\u00cc\u00a3a\u00cc\u00b4\u00cc\u0083\u00cc\u0097"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "J\u00cc\u00b7\u00cc\u0090\u00cc\u00a7o\u00cc\u00b8\u00cd\u0084\u00cd\u0085s\u00cc\u00b8\u00cc\u0081\u00cc\u00a3h\u00cc\u00b6\u00cd\u0092\u00cd\u0093u\u00cc\u00b7\u00cd\u008c\u00cc\u00a3a\u00cc\u00b4\u00cc\u0083\u00cc\u0097",
+      "timestamp_ms": 1715512187233,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1715511202448,
+      "content": "Yeah not a problem",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "J\u00cc\u00b7\u00cc\u0090\u00cc\u00a7o\u00cc\u00b8\u00cd\u0084\u00cd\u0085s\u00cc\u00b8\u00cc\u0081\u00cc\u00a3h\u00cc\u00b6\u00cd\u0092\u00cd\u0093u\u00cc\u00b7\u00cd\u008c\u00cc\u00a3a\u00cc\u00b4\u00cc\u0083\u00cc\u0097",
+          "timestamp": 1715512187
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J\u00cc\u00b7\u00cc\u0090\u00cc\u00a7o\u00cc\u00b8\u00cd\u0084\u00cd\u0085s\u00cc\u00b8\u00cc\u0081\u00cc\u00a3h\u00cc\u00b6\u00cd\u0092\u00cd\u0093u\u00cc\u00b7\u00cd\u008c\u00cc\u00a3a\u00cc\u00b4\u00cc\u0083\u00cc\u0097",
+      "timestamp_ms": 1715316937389,
+      "content": "Hey Josh good to meet you today mate. I forgot to ask - can I run a laptop into the projector *and* PA? Might run an audio round and a playlist between sets.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J\u00cc\u00b7\u00cc\u0090\u00cc\u00a7o\u00cc\u00b8\u00cd\u0084\u00cd\u0085s\u00cc\u00b8\u00cc\u0081\u00cc\u00a3h\u00cc\u00b6\u00cd\u0092\u00cd\u0093u\u00cc\u00b7\u00cd\u008c\u00cc\u00a3a\u00cc\u00b4\u00cc\u0083\u00cc\u0097",
+      "timestamp_ms": 1715300315729,
+      "content": "A fellow Josh. Perfection.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1715300374
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J\u00cc\u00b7\u00cc\u0090\u00cc\u00a7o\u00cc\u00b8\u00cd\u0084\u00cd\u0085s\u00cc\u00b8\u00cc\u0081\u00cc\u00a3h\u00cc\u00b6\u00cd\u0092\u00cd\u0093u\u00cc\u00b7\u00cd\u008c\u00cc\u00a3a\u00cc\u00b4\u00cc\u0083\u00cc\u0097",
+      "timestamp_ms": 1715300303191,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1715298907264,
+      "content": "Of course mate. Just ask for Josh at the bar. I\u00e2\u0080\u0099ll be in the kitchen but can duck out to show you around.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "J\u00cc\u00b7\u00cc\u0090\u00cc\u00a7o\u00cc\u00b8\u00cd\u0084\u00cd\u0085s\u00cc\u00b8\u00cc\u0081\u00cc\u00a3h\u00cc\u00b6\u00cd\u0092\u00cd\u0093u\u00cc\u00b7\u00cd\u008c\u00cc\u00a3a\u00cc\u00b4\u00cc\u0083\u00cc\u0097",
+          "timestamp": 1715300303
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J\u00cc\u00b7\u00cc\u0090\u00cc\u00a7o\u00cc\u00b8\u00cd\u0084\u00cd\u0085s\u00cc\u00b8\u00cc\u0081\u00cc\u00a3h\u00cc\u00b6\u00cd\u0092\u00cd\u0093u\u00cc\u00b7\u00cd\u008c\u00cc\u00a3a\u00cc\u00b4\u00cc\u0083\u00cc\u0097",
+      "timestamp_ms": 1715298851539,
+      "content": "Howdy, I am hosting the Valkyrie trivia thing next month and was gonna duck in today to visit for a beer and check out the setup - is that cool?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "J\u00cc\u00b7\u00cc\u0090\u00cc\u00a7o\u00cc\u00b8\u00cd\u0084\u00cd\u0085s\u00cc\u00b8\u00cc\u0081\u00cc\u00a3h\u00cc\u00b6\u00cd\u0092\u00cd\u0093u\u00cc\u00b7\u00cd\u008c\u00cc\u00a3a\u00cc\u00b4\u00cc\u0083\u00cc\u0097",
+  "is_still_participant": true,
+  "thread_path": "inbox/joshua_968590104725120",
+  "magic_words": [
+    
+  ]
+}

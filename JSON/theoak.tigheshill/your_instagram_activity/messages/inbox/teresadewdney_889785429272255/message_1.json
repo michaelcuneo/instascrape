@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Teresa Dewdney"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Teresa Dewdney",
+      "timestamp_ms": 1719267381972,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/teresadewdney_889785429272255/audio/875176207967564.aac",
+          "creation_timestamp": 1719267378
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Teresa Dewdney",
+      "timestamp_ms": 1703112053784,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1703112039428,
+      "content": "Hey Teresa, we generally leave the bar free for walk ins. As it sits at the moment we\u00e2\u0080\u0099re pretty full for our dining area but feel free to drop in and we\u00e2\u0080\u0099ll do our best to accommodate you.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Teresa Dewdney",
+          "timestamp": 1703112053
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Teresa Dewdney",
+      "timestamp_ms": 1703111952697,
+      "content": "Hi there.. Can I book a table in the bar for dinner and the band tonight? For 2 at 6.30? Teresa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Teresa Dewdney",
+  "is_still_participant": true,
+  "thread_path": "inbox/teresadewdney_889785429272255",
+  "magic_words": [
+    
+  ]
+}

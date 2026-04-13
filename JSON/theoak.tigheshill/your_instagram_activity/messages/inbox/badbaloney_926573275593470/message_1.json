@@ -1,0 +1,98 @@
+{
+  "participants": [
+    {
+      "name": "badbaloney"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "badbaloney",
+      "timestamp_ms": 1708760647089,
+      "content": "Your mate at Vera said that wine was absolutely outstanding btw. I'm jelly.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1708762777
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "badbaloney",
+      "timestamp_ms": 1708741386665,
+      "content": "Never bloody heard of the thing! Must try... Thanks for the tip. Going to try and head in to taste Pride of Lunies wines this afternoon...",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1708760495
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1708741350976,
+      "content": "It\u00e2\u0080\u0099s actually a vouvrey. Buttery and bright",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "badbaloney",
+      "timestamp_ms": 1708741241188,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "badbaloney",
+      "timestamp_ms": 1708741230200,
+      "content": "In all it's buttery goodness... But I ain't no Sommelier",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "badbaloney",
+      "timestamp_ms": 1708741174662,
+      "content": "My old eyes cant see the type of wine there, looks like a Chardonnay though?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1708741014679,
+      "content": "Vera wines. Absolutely delicious at the minute.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "badbaloney",
+          "timestamp": 1708741241
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "badbaloney",
+      "timestamp_ms": 1708740804135,
+      "content": "Oooooweeeee where do I get a slice of that?!?",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3309130409157682058"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "badbaloney",
+  "is_still_participant": true,
+  "thread_path": "inbox/badbaloney_926573275593470",
+  "magic_words": [
+    
+  ]
+}

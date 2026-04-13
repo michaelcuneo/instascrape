@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "threaders"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "threaders",
+      "timestamp_ms": 1709783553833,
+      "content": "Thanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "threaders",
+      "timestamp_ms": 1709783543934,
+      "content": "0421953409",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1709781970324,
+      "content": "Of course. Can I get a contact number please?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "threaders",
+      "timestamp_ms": 1709781929564,
+      "content": "Hello, could I please book a table for 2 for Friday at 5.30pm under Linda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "threaders",
+  "is_still_participant": true,
+  "thread_path": "inbox/threaders_932832318300899",
+  "magic_words": [
+    
+  ]
+}

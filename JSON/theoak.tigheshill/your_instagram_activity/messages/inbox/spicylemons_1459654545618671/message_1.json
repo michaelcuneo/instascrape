@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Spicy Lemons"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1774061425763,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Spicy Lemons",
+      "timestamp_ms": 1774045347861,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Spicy Lemons",
+  "is_still_participant": true,
+  "thread_path": "inbox/spicylemons_1459654545618671",
+  "magic_words": [
+    
+  ]
+}

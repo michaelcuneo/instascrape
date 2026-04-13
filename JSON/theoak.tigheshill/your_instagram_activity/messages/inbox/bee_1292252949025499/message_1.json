@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "bee"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "bee",
+      "timestamp_ms": 1755940132574,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "bee",
+  "is_still_participant": true,
+  "thread_path": "inbox/bee_1292252949025499",
+  "magic_words": [
+    
+  ]
+}

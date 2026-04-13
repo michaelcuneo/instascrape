@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Long John Silvers"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Long John Silvers",
+      "timestamp_ms": 1747462165675,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Long John Silvers",
+  "is_still_participant": true,
+  "thread_path": "inbox/longjohnsilvers_1218053009778827",
+  "magic_words": [
+    
+  ]
+}

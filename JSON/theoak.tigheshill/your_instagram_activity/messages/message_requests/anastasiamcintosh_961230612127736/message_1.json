@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Anastasia McIntosh"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anastasia McIntosh",
+      "timestamp_ms": 1714228358785,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anastasia McIntosh",
+  "is_still_participant": true,
+  "thread_path": "message_requests/anastasiamcintosh_961230612127736",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

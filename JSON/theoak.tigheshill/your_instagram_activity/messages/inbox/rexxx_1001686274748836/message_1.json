@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "REXXX"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "REXXX",
+      "timestamp_ms": 1720335542544,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "REXXX",
+      "timestamp_ms": 1720335369493,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "REXXX",
+      "timestamp_ms": 1720138928890,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1720076859886,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "REXXX",
+          "timestamp": 1720138928
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "REXXX",
+      "timestamp_ms": 1720076318437,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "REXXX",
+  "is_still_participant": true,
+  "thread_path": "inbox/rexxx_1001686274748836",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Victoria Arthur"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Victoria Arthur",
+      "timestamp_ms": 1703386655575,
+      "content": "Ok. Thanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victoria Arthur",
+      "timestamp_ms": 1703386649228,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1703384976724,
+      "content": "Hey Victoria, not open for food unfortunately",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Victoria Arthur",
+          "timestamp": 1703386649
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victoria Arthur",
+      "timestamp_ms": 1703380858424,
+      "content": "Hi. Are you guys open for lunch on Boxing Day?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Victoria Arthur",
+  "is_still_participant": true,
+  "thread_path": "inbox/victoriaarthur_1254089762660595",
+  "magic_words": [
+    
+  ]
+}

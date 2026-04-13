@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "the med heads"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738411181123,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3558373132748133677"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738235774325,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/themedheads_1131263918457737/photos/1850987042339406.jpg",
+          "creation_timestamp": 1738235773
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/themedheads_1131263918457737/photos/1801435187324171.jpg",
+          "creation_timestamp": 1738235773
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/themedheads_1131263918457737/photos/645292554614379.jpg",
+          "creation_timestamp": 1738235773
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738235758651,
+      "content": "Hey legends,\n\nThanks so much for being part of this weekend with Dustin, it\u00e2\u0080\u0099s set to be a big one. \n\nSorry details have been loose and drip fed, this isn\u00e2\u0080\u0099t the way the Oak usually operates. It\u00e2\u0080\u0099s just been a stretch to pull things together with Dustin and his team being so busy and me being my usual overworking, adhd self.\n\nHere are the set times and venue info. You can ignore most of the info other than the importance of bumping in out, not via the Henry st exits. \n\nIf you need anything on the night. I will be around both nights to be mildly tipsy stage mum.\n\nMy mobile is 0411 541 887, just txt me first cause I\u00e2\u0080\u0099m a tinfoiler.\n\nIf you wanna shoot through an invoice, my accounts email is\nmanagement@royaloaktigheshill.com.au\n\nDunny xx\n\nSat Set Times:\n7 - 7:45 Midway \n8 - 8:30 Julia Pierce\n8:45 - 9:15 Uncle dusty pizza nipples \n9:30 - 10:15 The Med Heads\n10:30 - 11:15 Goon Gremlins\n\nSun Set Times:\n6 - 6:45 Fahm\n7 - 7:30 Julia Pierce \n7:45 - 8:15 Uncle dusty pizza nipples \n8:30 - 9:15 Dust",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1737075739601,
+      "content": "salut ! \u00c3\u0087a va\n\nI\u00e2\u0080\u0099m trying to pull together a show at the oak on Saturday the 1st of Feb.\n\nA pretty famous pro skater Dustin dollin is going to stay at the oak for a few days, doing a pop up photo exhibition and his band is playing with a pretty big femm solo artist from nyc.\n\nI sent in a few of my fav newy bands to put on the lineup and you were at the top of that list.\n\nHe loves your stuff and would love you to be on the lineup.\n\nIt\u00e2\u0080\u0099s pretty loose on detail at the moment, but it would be between 7-11pm.\n\nThis is his socials:\n \nhttps://www.instagram.com/therealdustindollin?igsh=ejFzMnBhaXBwNDY4\n\n\nDunny",
+      "share": {
+        "link": "https://www.instagram.com/_u/therealdustindollin",
+        "profile_share_username": "therealdustindollin",
+        "profile_share_name": "Dustin Dollin"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "the med heads",
+  "is_still_participant": true,
+  "thread_path": "inbox/themedheads_1131263918457737",
+  "magic_words": [
+    
+  ]
+}

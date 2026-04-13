@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Byrne Farm"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764454347748,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3776838965132436315"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Byrne Farm",
+      "timestamp_ms": 1764370613686,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Byrne Farm",
+      "timestamp_ms": 1764370395298,
+      "content": "Byrne sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DRnhQtPEyf7/?carousel_share_child_media_id=3776133096191240187_13685930402",
+        "share_text": "TO ALL OUR HUNTER/ NEWCASTLE BASED FRIENDS\u00e2\u009c\u00a8 \n\nTomorrow (Sunday 30th November), you can find us at The Oak Tighes Hill ( @theoak.tigheshill ) from 12pm-5pm, for the Tighes Hill Tipple! We will be pouring our wines alongside some of our Orange mates -\n@cargoroadwines \n@colmarestate \n@atallahwines_ \n@smallacrescyder \n@strawhousewines \n\nTickets are $35pp and are available for purchase in the link in our bio! \n\nSee you there!!\u00f0\u009f\u008d\u00b7",
+        "original_content_owner": "byrnefarmwines"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764034715600,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3773318833557833731"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Byrne Farm",
+  "is_still_participant": true,
+  "thread_path": "inbox/byrnefarm_1369846827932777",
+  "magic_words": [
+    
+  ]
+}

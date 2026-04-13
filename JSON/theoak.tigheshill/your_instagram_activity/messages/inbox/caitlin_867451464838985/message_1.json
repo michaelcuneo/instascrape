@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u008c\u0080 \u00f0\u009d\u0097\u0096\u00f0\u009d\u0097\u0094\u00f0\u009d\u0097\u009c\u00f0\u009d\u0097\u00a7\u00f0\u009d\u0097\u009f\u00f0\u009d\u0097\u009c\u00f0\u009d\u0097\u00a1 \u00f0\u009f\u008c\u0080"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u008c\u0080 \u00f0\u009d\u0097\u0096\u00f0\u009d\u0097\u0094\u00f0\u009d\u0097\u009c\u00f0\u009d\u0097\u00a7\u00f0\u009d\u0097\u009f\u00f0\u009d\u0097\u009c\u00f0\u009d\u0097\u00a1 \u00f0\u009f\u008c\u0080",
+      "timestamp_ms": 1772702303397,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1705053303998,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3278547173037214767"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u008c\u0080 \u00f0\u009d\u0097\u0096\u00f0\u009d\u0097\u0094\u00f0\u009d\u0097\u009c\u00f0\u009d\u0097\u00a7\u00f0\u009d\u0097\u009f\u00f0\u009d\u0097\u009c\u00f0\u009d\u0097\u00a1 \u00f0\u009f\u008c\u0080",
+      "timestamp_ms": 1705053240249,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1699610528876,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3232889864319702196"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u008c\u0080 \u00f0\u009d\u0097\u0096\u00f0\u009d\u0097\u0094\u00f0\u009d\u0097\u009c\u00f0\u009d\u0097\u00a7\u00f0\u009d\u0097\u009f\u00f0\u009d\u0097\u009c\u00f0\u009d\u0097\u00a1 \u00f0\u009f\u008c\u0080",
+      "timestamp_ms": 1699610287564,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u008c\u0080 \u00f0\u009d\u0097\u0096\u00f0\u009d\u0097\u0094\u00f0\u009d\u0097\u009c\u00f0\u009d\u0097\u00a7\u00f0\u009d\u0097\u009f\u00f0\u009d\u0097\u009c\u00f0\u009d\u0097\u00a1 \u00f0\u009f\u008c\u0080",
+  "is_still_participant": true,
+  "thread_path": "inbox/caitlin_867451464838985",
+  "magic_words": [
+    
+  ]
+}

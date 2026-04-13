@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Roro | Rori"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Roro | Rori",
+      "timestamp_ms": 1753505003557,
+      "content": "I truly wish I had it in me",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3684935404295398818"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Roro | Rori",
+  "is_still_participant": true,
+  "thread_path": "inbox/rororori_1776243033776784",
+  "magic_words": [
+    
+  ]
+}

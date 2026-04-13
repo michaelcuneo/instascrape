@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Will Reid"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Will Reid",
+      "timestamp_ms": 1763865715253,
+      "content": "Nice",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3771818897105434425"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Will Reid",
+  "is_still_participant": true,
+  "thread_path": "inbox/willreid_295494262034711",
+  "magic_words": [
+    
+  ]
+}

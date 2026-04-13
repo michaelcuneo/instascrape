@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Instagram user"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Cuneo Photography",
+      "timestamp_ms": 1769411008894,
+      "content": "WHAT THE FUCK IS WRONG WITH HER?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Cuneo Photography",
+      "timestamp_ms": 1769410991398,
+      "content": "OMFG I MET HER!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram user",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_1772459884141630",
+  "magic_words": [
+    
+  ]
+}

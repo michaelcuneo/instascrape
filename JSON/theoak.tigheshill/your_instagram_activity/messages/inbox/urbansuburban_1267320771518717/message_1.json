@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "URBAN SUBURBAN"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "URBAN SUBURBAN",
+      "timestamp_ms": 1753237277542,
+      "content": "URBAN sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "URBAN SUBURBAN",
+  "is_still_participant": true,
+  "thread_path": "inbox/urbansuburban_1267320771518717",
+  "magic_words": [
+    
+  ]
+}

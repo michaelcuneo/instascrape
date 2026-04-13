@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1754909522,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "When Advanced Protection became required for your profile",
+        "timestamp_value": 1756291921
+      },
+      {
+        "label": "Date you completed Advanced Protection's security steps",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Update time",
+        "timestamp_value": 1754909522
+      }
+    ],
+    "fbid": "1090256613298294"
+  },
+  {
+    "timestamp": 1754909522,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "When Advanced Protection became required for your profile",
+        "timestamp_value": 1756291921
+      },
+      {
+        "label": "Date you completed Advanced Protection's security steps",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Update time",
+        "timestamp_value": 1754909522
+      }
+    ],
+    "fbid": "1103481215255588"
+  }
+]

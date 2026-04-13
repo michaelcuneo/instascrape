@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Jade Courtney"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jade Courtney",
+      "timestamp_ms": 1712913381401,
+      "content": "Was a great show!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1712919424
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1712299728310,
+      "content": "8pm at this stage",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jade Courtney",
+      "timestamp_ms": 1712299517097,
+      "content": "Hi there, what time does CW Stoneking come on?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jade Courtney",
+  "is_still_participant": true,
+  "thread_path": "inbox/jadecourtney_948769723373825",
+  "magic_words": [
+    
+  ]
+}

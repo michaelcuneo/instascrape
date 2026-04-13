@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Cathy Fraser"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cathy Fraser",
+      "timestamp_ms": 1702366640078,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1702294941169,
+      "content": "Yep we\u00e2\u0080\u0099ve got plenty of space in the beer garden",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Cathy Fraser",
+          "timestamp": 1702366640
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cathy Fraser",
+      "timestamp_ms": 1702283820648,
+      "content": "Thanks for getting back to me, so is there an outdoor area that we would sit at to have our meal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1702266702724,
+      "content": "Hey Cathy, yep we\u00e2\u0080\u0099re dog friendly. We just try to avoid having them in the dining area while the kitchen is open.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cathy Fraser",
+      "timestamp_ms": 1702181604595,
+      "content": "Hi, we are keen to try the newly vamped The Oak, just a quick question we have been told that it is dog friendly, is this correct? Just asking as we are from Dungog and some times when we come down we have our dog.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cathy Fraser",
+  "is_still_participant": true,
+  "thread_path": "inbox/cathyfraser_883825499868248",
+  "magic_words": [
+    
+  ]
+}

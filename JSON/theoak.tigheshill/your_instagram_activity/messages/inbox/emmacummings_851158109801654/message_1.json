@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Emma Cummings"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Emma Cummings",
+      "timestamp_ms": 1766312527105,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emma Cummings",
+      "timestamp_ms": 1703740063127,
+      "content": "Gorgeous. Many thanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emma Cummings",
+      "timestamp_ms": 1703740055751,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1703740023884,
+      "content": "Pups are welcome everywhere at the pub!  We just ask that they\u00e2\u0080\u0099re not in the front bar while the kitchens open.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Emma Cummings",
+          "timestamp": 1703740055
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emma Cummings",
+      "timestamp_ms": 1703737515244,
+      "content": "Hi Oak! Where do we stand on dogs at the pub? Are they allowed inside/in the beer garden/not at all? Cheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Emma Cummings",
+  "is_still_participant": true,
+  "thread_path": "inbox/emmacummings_851158109801654",
+  "magic_words": [
+    
+  ]
+}

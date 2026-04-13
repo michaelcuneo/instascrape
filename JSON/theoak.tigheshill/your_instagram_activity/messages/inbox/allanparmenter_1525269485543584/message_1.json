@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Allan Parmenter"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1740676082507,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3577372674189211930"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Allan Parmenter",
+  "is_still_participant": true,
+  "thread_path": "inbox/allanparmenter_1525269485543584",
+  "magic_words": [
+    
+  ]
+}

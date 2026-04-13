@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u0098\u0095\u00ef\u00b8\u008f\u00f0\u009f\u0090\u00a6\u00e2\u0080\u008d\u00e2\u00ac\u009b\u00f0\u009f\u00a4\u00b8\u00f0\u009f\u008d\u0084 Lisa \u00f0\u009f\u008f\u008b\u00ef\u00b8\u008f\u00f0\u009f\u0095\u00b8\u00ef\u00b8\u008f\u00f0\u009f\u0090\u00b8\u00f0\u009f\u0092\u00ab"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1758237760494,
+      "content": "Sorry this msg was hidden in our requests",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1758237745372,
+      "content": "https://open.spotify.com/playlist/0TyQLk0ofHabWTjUlPJLos?si=Lhbwd2uQTASWZA5PEcshGw&pi=CNfvl3c3S3Cn2",
+      "share": {
+        "link": "https://open.spotify.com/playlist/0TyQLk0ofHabWTjUlPJLos?si=Lhbwd2uQTASWZA5PEcshGw&pi=CNfvl3c3S3Cn2",
+        "share_text": "https://open.spotify.com/playlist/0TyQLk0ofHabWTjUlPJLos?si=Lhbwd2uQTASWZA5PEcshGw&pi=CNfvl3c3S3Cn2"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u0098\u0095\u00ef\u00b8\u008f\u00f0\u009f\u0090\u00a6\u00e2\u0080\u008d\u00e2\u00ac\u009b\u00f0\u009f\u00a4\u00b8\u00f0\u009f\u008d\u0084 Lisa \u00f0\u009f\u008f\u008b\u00ef\u00b8\u008f\u00f0\u009f\u0095\u00b8\u00ef\u00b8\u008f\u00f0\u009f\u0090\u00b8\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1740196892757,
+      "content": "Absolute fire. My five year old asked if he could \u00e2\u0080\u009csend him a link to his playlist\u00e2\u0080\u009d \u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3573329104055383260"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e2\u0098\u0095\u00ef\u00b8\u008f\u00f0\u009f\u0090\u00a6\u00e2\u0080\u008d\u00e2\u00ac\u009b\u00f0\u009f\u00a4\u00b8\u00f0\u009f\u008d\u0084 Lisa \u00f0\u009f\u008f\u008b\u00ef\u00b8\u008f\u00f0\u009f\u0095\u00b8\u00ef\u00b8\u008f\u00f0\u009f\u0090\u00b8\u00f0\u009f\u0092\u00ab",
+  "is_still_participant": true,
+  "thread_path": "inbox/lisa_1156407299276732",
+  "magic_words": [
+    
+  ]
+}

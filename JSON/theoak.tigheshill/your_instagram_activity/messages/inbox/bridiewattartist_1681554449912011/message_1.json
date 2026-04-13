@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Bridie Watt Artist"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1743935470868,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3604714427901542863"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bridie Watt Artist",
+      "timestamp_ms": 1743935115984,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bridie Watt Artist",
+  "is_still_participant": true,
+  "thread_path": "inbox/bridiewattartist_1681554449912011",
+  "magic_words": [
+    
+  ]
+}

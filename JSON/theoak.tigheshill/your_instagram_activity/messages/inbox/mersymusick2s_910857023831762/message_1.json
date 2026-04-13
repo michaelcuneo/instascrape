@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Mersy Music [K2\u00ef\u00b8\u008f\u00e2\u0083\u00a3S]"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1706334842425,
+      "content": "Oakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mersy Music [K2\u00ef\u00b8\u008f\u00e2\u0083\u00a3S]",
+      "timestamp_ms": 1706327834967,
+      "content": "Hi, do I speak to you on here about doing a gig at your pub or do you have an email I should contact?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mersy Music [K2\u00ef\u00b8\u008f\u00e2\u0083\u00a3S]",
+  "is_still_participant": true,
+  "thread_path": "inbox/mersymusick2s_910857023831762",
+  "magic_words": [
+    
+  ]
+}

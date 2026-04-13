@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "sheik"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1774327726608,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/sheik_1342028634047930/photos/915958741057508.png",
+          "creation_timestamp": 1774327724
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1767228544591,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DS3K6QLjmab/?id=3798552794278815387_76718887328",
+        "share_text": "\u00f0\u009f\u0098\u0082 Medium well steak: the ultimate compromise!\n\nIt\u00e2\u0080\u0099s cooked mostly through with just a faint pink center\u00e2\u0080\u0094internal temp hitting 150\u00e2\u0080\u0093160\u00c2\u00b0F (65\u00e2\u0080\u009371\u00c2\u00b0C). Firm texture, minimal juices, but still some moisture if done right. No raw bits, no blood, yet not fully charred or dry like well done.\n\nPerfect for folks who want safety without sacrificing too much flavor or tenderness\u00e2\u0080\u0094though purists might call it a crime against steak.\n\nWhat makes it tricky is how unforgiving heat can be. A minute too long past 160\u00c2\u00b0F, and tenderness vanishes\u00e2\u0080\u0094meat turns tough fast. Timing quickly becomes the real chef, and control replaces guesswork almost instantly.\n\nYou\u00e2\u0080\u0099ll see debates rage in steakhouse threads or grill master reels because they highlight something simple: when preference meets fire, precision has to adapt fast. It\u00e2\u0080\u0099s a juicy reminder of how much we depend on temp probes, rest time, and carryover cooking to nail it. Strip away the watch, even just a little, and doneness becomes unpredictable.\n\nIt\u00e2\u0080\u0099s not about rare vs. well. It\u00e2\u0080\u0099s about watching grillers rediscover how hard\u00e2\u0080\u0094and how divisive\u00e2\u0080\u0094medium well actually is when the rules change.\n\nLike and Follow @histio.io \n#SafetyEngineering #HardHat #ConstructionSafety #PhysicsInAction #WorkplaceSafety #Histio",
+        "original_content_owner": "histio.io"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sheik",
+      "timestamp_ms": 1764937401970,
+      "content": "Cool as shit.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764936862401,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DR4SuroksLX/?id=3780854259962266327_29666268335",
+        "share_text": "The Oak loves you, so its FREE!\nIt\u00e2\u0080\u0099s that time of year again... Aaron Gocs Christmas is upon us! Join us for Gocsy\u00e2\u0080\u0099s Comedy, Gocsy Santa Photo\u00e2\u0080\u0099s and \u00e2\u0080\u0098Live It Up\u00e2\u0080\u0099 KaraOAKe by Ali Ryan (20 years at Hamilton Station) \n\nThere will be Ham raffles all night.... This is your annual opportunity to feed Aaron Gocs your Christmas Ham, whilst singing your best rendition of Khe Sanh...\n\nStart Christmas leave early, tell your boss it\u00e2\u0080\u0099s been approved by the higher ups - Aaron Gocs and Ali Ryan",
+        "original_content_owner": "theoak.tigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sheik",
+      "timestamp_ms": 1761114092790,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/sheik_1342028634047930/photos/802208702699007.jpg",
+          "creation_timestamp": 1761114090
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "sheik",
+  "is_still_participant": true,
+  "thread_path": "inbox/sheik_1342028634047930",
+  "magic_words": [
+    
+  ]
+}

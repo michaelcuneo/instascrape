@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Cat Scobie"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1709268424441,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3313906168917246720"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cat Scobie",
+      "timestamp_ms": 1709265555377,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cat Scobie",
+  "is_still_participant": true,
+  "thread_path": "inbox/catscobie_929693755281422",
+  "magic_words": [
+    
+  ]
+}

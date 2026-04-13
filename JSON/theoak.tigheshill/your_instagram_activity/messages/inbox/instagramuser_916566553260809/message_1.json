@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1707363757018,
+      "content": "Thank you so much :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1707367464
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1707198310135,
+      "content": "This is amazing. Of course",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1707197190330,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/instagramuser_916566553260809/photos/417972820615422.jpg",
+          "creation_timestamp": 1707197188
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1707197163397,
+      "content": "Hi There,\nI am organising a lord of the rings themed scavenger hunt for 30 people on Sat 10th Feb. \nThe Oak in Tighes Hill will be our last destination at 8:30pm to see our friend perform on stage.\nAs it is 3 of our friends birthdays, am I allowed to drop a birthday cake off to have after they perform? \nAm I also possibly allowed to bring this balloon prop for the final clue?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_916566553260809",
+  "magic_words": [
+    
+  ]
+}

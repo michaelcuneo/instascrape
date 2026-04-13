@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "carboncarb"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "carboncarb",
+      "timestamp_ms": 1727306437173,
+      "content": "Ok all good thanks for letting me know",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1727306153907,
+      "content": "Heya, unfortunately we are booked out for the rest of the year!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "carboncarb",
+      "timestamp_ms": 1727295866393,
+      "content": "Hi there - I emailed last week about potentially playing again - Nov 29 - keen to know if its a possibility",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "carboncarb",
+      "timestamp_ms": 1716512069429,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1715384142969,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3365208527324317999"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "carboncarb",
+      "timestamp_ms": 1715381788397,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "carboncarb",
+  "is_still_participant": true,
+  "thread_path": "inbox/carboncarb_969159248001539",
+  "magic_words": [
+    
+  ]
+}

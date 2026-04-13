@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Runchel"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel Runchel",
+      "timestamp_ms": 1714469877706,
+      "content": "Will do thank you",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1714476750
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1714467695264,
+      "content": "Hey mate, just email Justan our band booker\u00e2\u0080\u00a6\n\nOakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Runchel",
+      "timestamp_ms": 1714467669650,
+      "content": "Hi there, who do I contact about organising a gig at the Oak?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniel Runchel",
+  "is_still_participant": true,
+  "thread_path": "inbox/danielrunchel_962869531963844",
+  "magic_words": [
+    
+  ]
+}

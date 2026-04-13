@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Amber Mitchell"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amber Mitchell",
+      "timestamp_ms": 1699226317825,
+      "content": "Thanks so much will be in for lunch or dinner soon!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1699226593
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1699226200407,
+      "content": "Hey amber, kitchen is open the following hours this week\u00e2\u0080\u00a6\n\nWed/thurs - 5pm-8.30pm\nFriday/Saturday - 12pm-8.30pm\nSunday - 12pm-4pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amber Mitchell",
+      "timestamp_ms": 1699225242739,
+      "content": "Hey are you guys doing good at lunch time?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amber Mitchell",
+  "is_still_participant": true,
+  "thread_path": "inbox/ambermitchell_866497798267685",
+  "magic_words": [
+    
+  ]
+}

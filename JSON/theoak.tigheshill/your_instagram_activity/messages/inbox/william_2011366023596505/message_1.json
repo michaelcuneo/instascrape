@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "William"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William",
+      "timestamp_ms": 1775280875980,
+      "share": {
+        "link": "https://www.instagram.com/stories/bush.panther/3867658561237121292"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "William",
+  "is_still_participant": true,
+  "thread_path": "inbox/william_2011366023596505",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 1774512149,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Transfers from your wallet",
+        "value": "26404137322609057"
+      },
+      {
+        "label": "Units transferred",
+        "value": "1"
+      },
+      {
+        "label": "Type",
+        "value": "SELF_FREE_INFINITE_CONSUME"
+      },
+      {
+        "label": "Status",
+        "value": "RECEIVER_PROCESSED"
+      },
+      {
+        "label": "Creation Time",
+        "timestamp_value": 1774512149
+      },
+      {
+        "label": "Your transfer ID",
+        "value": "26404139535942169"
+      }
+    ],
+    "fbid": "26404139535942169"
+  },
+  {
+    "timestamp": 1774512140,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Transfers from your wallet",
+        "value": "26404137322609057"
+      },
+      {
+        "label": "Units transferred",
+        "value": "1"
+      },
+      {
+        "label": "Type",
+        "value": "SELF_FREE_INFINITE_CONSUME"
+      },
+      {
+        "label": "Status",
+        "value": "RECEIVER_PROCESSED"
+      },
+      {
+        "label": "Creation Time",
+        "timestamp_value": 1774512140
+      },
+      {
+        "label": "Your transfer ID",
+        "value": "26404137349275721"
+      }
+    ],
+    "fbid": "26404137349275721"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Beef_goat"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764567797283,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Beef_goat",
+  "is_still_participant": true,
+  "thread_path": "inbox/beef_goat_1374377140813079",
+  "magic_words": [
+    
+  ]
+}

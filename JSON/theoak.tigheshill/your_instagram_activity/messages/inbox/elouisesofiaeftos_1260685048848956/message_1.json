@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "ELOUISE SOFIA EFTOS \u00f0\u009f\u00a7\u00bf"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752466633402,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3676278907021414824"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "ELOUISE SOFIA EFTOS \u00f0\u009f\u00a7\u00bf",
+  "is_still_participant": true,
+  "thread_path": "inbox/elouisesofiaeftos_1260685048848956",
+  "magic_words": [
+    
+  ]
+}

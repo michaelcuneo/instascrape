@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Nina Romeru"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nina Romeru",
+      "timestamp_ms": 1749288740489,
+      "content": "The 16th of September",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1749185097480,
+      "content": "Ok mate all g. When is v back?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nina Romeru",
+      "timestamp_ms": 1749117532054,
+      "content": "Hey Dunny, unfortunately we can\u00e2\u0080\u0099t do the gig on the 25th of July. Vienna is headed to Europe two days before so we\u00e2\u0080\u0099d be missing our front man. \nLet me know if there\u00e2\u0080\u0099s another time you\u00e2\u0080\u0099re keen to have us",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1749025531740,
+      "content": "Cheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nina Romeru",
+      "timestamp_ms": 1749014391859,
+      "content": "Hey mate! Thanks for reaching out, I\u00e2\u0080\u0099ll take this to the band and suss availability.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1749012168769,
+      "content": "Hey pal it\u00e2\u0080\u0099s Dunny. I\u00e2\u0080\u0099m trying to throw together a Christmas in July night on Fri 25th of July. I was wondering if you wanted to do an oasis thing again? I thought it was great lastime",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nina Romeru",
+  "is_still_participant": true,
+  "thread_path": "inbox/ninaromeru_1221179739466154",
+  "magic_words": [
+    
+  ]
+}

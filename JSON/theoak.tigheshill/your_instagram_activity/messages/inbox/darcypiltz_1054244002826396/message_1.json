@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "Darcy Piltz"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Darcy Piltz",
+      "timestamp_ms": 1738717339975,
+      "content": "All good, will flick it across now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738717318720,
+      "content": "Haha yeah! My bad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Darcy Piltz",
+      "timestamp_ms": 1738717307686,
+      "content": "Just want to confirm that oakbandbooking@gmail.com?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Darcy Piltz",
+      "timestamp_ms": 1738717287550,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738717277565,
+      "content": "Hey darcy\nThrow an email at oakbandbooing@gmail.com for any enquiries",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Darcy Piltz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Darcy Piltz",
+      "timestamp_ms": 1738717114342,
+      "content": "Hey crew! Any chances of booking a gig with you guys? Looking for something either 11th or 12th?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Darcy Piltz",
+      "timestamp_ms": 1727228101659,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1727228081641,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Darcy Piltz",
+          "timestamp": 1727228101
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3464562595926209006"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Darcy Piltz",
+      "timestamp_ms": 1727227839062,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Darcy Piltz",
+  "is_still_participant": true,
+  "thread_path": "inbox/darcypiltz_1054244002826396",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Jo McLean"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jo McLean",
+      "timestamp_ms": 1705646304741,
+      "content": "Thanks",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1705646520
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo McLean",
+      "timestamp_ms": 1705646297433,
+      "content": "Sorry yes - 0401280558",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1705646519
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1705611971623,
+      "content": "Not a problem jo, can I grab a contact number please?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo McLean",
+      "timestamp_ms": 1705610872447,
+      "content": "Hi can I book at table in the front bar for 4ppl 6pm tonight Fri 19th Jan? Thanks Jo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jo McLean",
+  "is_still_participant": true,
+  "thread_path": "inbox/jomclean_906042000979931",
+  "magic_words": [
+    
+  ]
+}

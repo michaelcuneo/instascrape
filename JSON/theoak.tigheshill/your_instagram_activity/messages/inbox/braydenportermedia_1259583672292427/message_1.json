@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "BraydenPorterMedia"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "BraydenPorterMedia",
+      "timestamp_ms": 1752339438187,
+      "share": {
+        "link": "https://www.instagram.com/stories/b_raydisc/3675210679243398171"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "BraydenPorterMedia",
+  "is_still_participant": true,
+  "thread_path": "inbox/braydenportermedia_1259583672292427",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Erin McOnie"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1734792861856,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3528020623421833649"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erin McOnie",
+      "timestamp_ms": 1734781204330,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erin McOnie",
+      "timestamp_ms": 1713874853128,
+      "content": "Awesome, thanks \u00e2\u0098\u00ba\u00ef\u00b8\u008f \n0401744033",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713874604706,
+      "content": "Of course. Can I grab a contact number please?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erin McOnie",
+      "timestamp_ms": 1713872662315,
+      "content": "Hi, I just wanted to see if I can book a table for 6 people for trivia tomorrow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Erin McOnie",
+  "is_still_participant": true,
+  "thread_path": "inbox/erinmconie_958827129034751",
+  "magic_words": [
+    
+  ]
+}

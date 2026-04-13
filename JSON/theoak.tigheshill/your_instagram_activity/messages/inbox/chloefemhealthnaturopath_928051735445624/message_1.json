@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Chloe | Fem Health Naturopath"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chloe | Fem Health Naturopath",
+      "timestamp_ms": 1710729307080,
+      "content": "Thanks so much!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1710730601
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1710728937138,
+      "content": "No problemo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chloe | Fem Health Naturopath",
+      "timestamp_ms": 1710705285750,
+      "content": "Hey team! Can I book a table for Trivia this Thursday night under Chloe?\n\n4 people for 6:15pm\n0411477514",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chloe | Fem Health Naturopath",
+      "timestamp_ms": 1708983312878,
+      "content": "0411477514\nName: Chloe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1708982350016,
+      "content": "Not a problem. Can I get a contact number please.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chloe | Fem Health Naturopath",
+      "timestamp_ms": 1708981374454,
+      "content": "Hey team! Can I book a table for Trivia this Thursday night? 4 people for 6:30pm?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chloe | Fem Health Naturopath",
+  "is_still_participant": true,
+  "thread_path": "inbox/chloefemhealthnaturopath_928051735445624",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "angiexdalgs"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "angiexdalgs",
+      "timestamp_ms": 1773620673036,
+      "content": "wooo thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "angiexdalgs",
+      "timestamp_ms": 1773620659841,
+      "content": "Reacted \u00f0\u009f\u00a9\u00b7 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1773620493716,
+      "content": "You bet!!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a9\u00b7",
+          "actor": "angiexdalgs"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "angiexdalgs",
+      "timestamp_ms": 1773610113880,
+      "content": "Hey! Just wondering if Bonnie Bingo is on tonight? :) thanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "angiexdalgs",
+  "is_still_participant": true,
+  "thread_path": "inbox/angiexdalgs_2025106428887145",
+  "magic_words": [
+    
+  ]
+}

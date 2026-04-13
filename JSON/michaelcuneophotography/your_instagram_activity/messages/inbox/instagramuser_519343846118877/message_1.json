@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Instagram user"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Cuneo Photography",
+      "timestamp_ms": 1546818541829,
+      "content": "Hey Richard, Michael from The School of Creative Industries at The University of Newcastle Australia. Just had a possible collaborative project that I\u00e2\u0080\u0099d like to discuss with you if you\u00e2\u0080\u0099re interested.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram user",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_519343846118877",
+  "magic_words": [
+    
+  ]
+}

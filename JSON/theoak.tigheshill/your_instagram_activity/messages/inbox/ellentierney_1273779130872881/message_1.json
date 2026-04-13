@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Ellen Tierney"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1753934257845,
+      "content": "Sure do! Walk ins only as we\u00e2\u0080\u0099re quite busy already",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ellen Tierney",
+      "timestamp_ms": 1753932884963,
+      "content": "Hey do you guys have trivia tonight?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ellen Tierney",
+  "is_still_participant": true,
+  "thread_path": "inbox/ellentierney_1273779130872881",
+  "magic_words": [
+    
+  ]
+}

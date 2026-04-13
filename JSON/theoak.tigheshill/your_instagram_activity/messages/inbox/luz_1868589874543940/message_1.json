@@ -1,0 +1,113 @@
+{
+  "participants": [
+    {
+      "name": "Luz"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1775643739514,
+      "content": "Hey it\u00e2\u0080\u0099s probably best you give me a call so we can organise.\n\n0411541887\nDunny (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1775643732322,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1775643731824,
+      "content": "Hey it\u00e2\u0080\u0099s probably best I give me a call so we can organise.\n\n0411541887\nDunny",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luz",
+      "timestamp_ms": 1774259644576,
+      "content": "So the Latin party that we want to host will be after that? Or what would be the suggestion?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1774258607966,
+      "content": "5-8:30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luz",
+      "timestamp_ms": 1774252111848,
+      "content": "From which time?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luz",
+      "timestamp_ms": 1774252104149,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1774250998854,
+      "content": "If you\u00e2\u0080\u0099d like to lock in any future dates for the remainder of 2026. Please send them through. We tend to have bands booked 3months in adv",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Luz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1774250902346,
+      "content": "We have bands booked on the dates you\u00e2\u0080\u0099ve requested.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1774250874890,
+      "content": "Samba frog is playing the 19th, do you want to jump on that?\n\nDunny",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luz",
+      "timestamp_ms": 1774238664135,
+      "content": "Hi\nWe are LADAS, the Latin American Dance Association from the University of Newcastle.\nAs the last January, we would like to host a Latin party on Friday, 17 or Saturday 18 april, as part of our end-of-semester event.\nIt will be from 7 pm to 1130pm or according to your schedule.\nIs the venue still available on any of those dates?\n\nThanks,\nLADAS",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1774238556633,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luz",
+      "timestamp_ms": 1774238554472,
+      "content": "What is your email address?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luz",
+  "is_still_participant": true,
+  "thread_path": "inbox/luz_1868589874543940",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "NTL Landmarks"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1703163344832,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3262693044436005601"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "NTL Landmarks",
+      "timestamp_ms": 1703158003755,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1703133499888,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3262442686908268133"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "NTL Landmarks",
+      "timestamp_ms": 1703132875240,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "NTL Landmarks",
+  "is_still_participant": true,
+  "thread_path": "inbox/ntllandmarks_889909859259812",
+  "magic_words": [
+    
+  ]
+}

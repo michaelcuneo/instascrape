@@ -1,0 +1,42 @@
+{
+  "events_events": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Event Name": {
+          "href": "",
+          "value": "Hula time!",
+          "timestamp": 0
+        },
+        "Start Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1732417200
+        },
+        "End Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Created At": {
+          "href": "",
+          "value": "",
+          "timestamp": 1731107804
+        },
+        "Updated At": {
+          "href": "",
+          "value": "",
+          "timestamp": 1731107804
+        },
+        "Is Local Event": {
+          "href": "",
+          "value": "False",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Nuclearsaurus Rex"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nuclearsaurus Rex",
+      "timestamp_ms": 1746681738868,
+      "content": "Hey, just chasing up on this?? Thanks you \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuclearsaurus Rex",
+      "timestamp_ms": 1745997406399,
+      "content": "Hey there, I'm chalky from Nuclearsaurus Rex, and we were travelling down to Sydney to play a small thrash metal festival on Saturday June 14th. We were hoping to stop by Newcastle on our way home and play a show on Sunday 15th June, did you guys have an available slot for us to put on a show? \n\nThanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nuclearsaurus Rex",
+  "is_still_participant": true,
+  "thread_path": "inbox/nuclearsaurusrex_1206451144272347",
+  "magic_words": [
+    
+  ]
+}

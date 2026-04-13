@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "ultragrey__"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ultragrey__",
+      "timestamp_ms": 1743728055877,
+      "content": "Cheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ultragrey__",
+      "timestamp_ms": 1743728051141,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1743728028029,
+      "content": "Hey bruzzy, for any booking enquires\noakbandbooking@gmail.com\nCheers!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "ultragrey__"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ultragrey__",
+      "timestamp_ms": 1743727951925,
+      "content": "Hi guys! I\u00e2\u0080\u0099m interested in booking in for a show at your venue, who is the best person to contact for this? Thanks, Harleigh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "ultragrey__",
+  "is_still_participant": true,
+  "thread_path": "inbox/ultragrey___1186379606279501",
+  "magic_words": [
+    
+  ]
+}

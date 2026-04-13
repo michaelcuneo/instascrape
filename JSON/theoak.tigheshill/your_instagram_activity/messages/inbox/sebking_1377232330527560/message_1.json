@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Seb King"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Seb King",
+      "timestamp_ms": 1764912633870,
+      "content": "Legend thanks so much will shoot off an email soon!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764912030655,
+      "content": "\u00f0\u009f\u00a4\u0098\u00f0\u009f\u00a4\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764912027016,
+      "content": "Licensee@theoaktigheshill.com.au",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seb King",
+      "timestamp_ms": 1764911826211,
+      "content": "Hey guys what was Josh\u00e2\u0080\u0099s email?\n\nI think he said licensee@theoak or licenseetheoak@gmail or something but I\u00e2\u0080\u0099m having a mindblank haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Seb King",
+  "is_still_participant": true,
+  "thread_path": "inbox/sebking_1377232330527560",
+  "magic_words": [
+    
+  ]
+}

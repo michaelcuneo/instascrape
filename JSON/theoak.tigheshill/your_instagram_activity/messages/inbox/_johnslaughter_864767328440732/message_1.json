@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "_johnslaughter"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1699005871522,
+      "content": "What did it look like?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1699005713512,
+      "content": "I\u00e2\u0080\u0099ll take a look.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_johnslaughter",
+      "timestamp_ms": 1699005698018,
+      "content": "Fellas, I left my jacket on the back of a chair on number 8 tonight. If it's still there could I swing by tomorrow and grab it? Everything was unreal tonight, thanks again.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1699005706
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_johnslaughter",
+      "timestamp_ms": 1698923124646,
+      "content": "See ya then!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1698987184
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1698923057852,
+      "content": "Can do mate. How\u00e2\u0080\u0099s tomorrow at 6?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_johnslaughter",
+      "timestamp_ms": 1698921610612,
+      "content": "Yo I'd love to book for 2 and a half if kids are welcome. Whatever night you can fit us x",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1698922956
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "_johnslaughter",
+  "is_still_participant": true,
+  "thread_path": "inbox/_johnslaughter_864767328440732",
+  "magic_words": [
+    
+  ]
+}

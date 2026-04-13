@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": 1677032268,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Added on",
+        "timestamp_value": 1700182781
+      },
+      {
+        "label": "Last active time",
+        "timestamp_value": 1700182781
+      },
+      {
+        "label": "Name",
+        "value": "Tinder"
+      }
+    ],
+    "fbid": "17923104422583318"
+  },
+  {
+    "timestamp": 1615278795,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Added on",
+        "timestamp_value": 1655344816
+      },
+      {
+        "label": "Last active time",
+        "timestamp_value": 1655344816
+      }
+    ],
+    "fbid": "17874933599257399"
+  },
+  {
+    "timestamp": 1603105225,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Added on",
+        "timestamp_value": 1603105225
+      },
+      {
+        "label": "Last active time",
+        "timestamp_value": 1603105225
+      },
+      {
+        "label": "Name",
+        "value": "Bumble"
+      }
+    ],
+    "fbid": "18139399474102518"
+  }
+]

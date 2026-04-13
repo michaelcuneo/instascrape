@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Angelia Dunne"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762816878663,
+      "content": "Love you \u00f0\u009f\u0098\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762816826950,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Angelia Dunne",
+  "is_still_participant": true,
+  "thread_path": "inbox/angeliadunne_865016698415795",
+  "magic_words": [
+    
+  ]
+}

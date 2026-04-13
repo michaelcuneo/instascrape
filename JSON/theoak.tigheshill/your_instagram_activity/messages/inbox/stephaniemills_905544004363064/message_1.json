@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Stephanie Mills"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stephanie Mills",
+      "timestamp_ms": 1720065569905,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1720064293150,
+      "content": "Hey Steph, best to book via obee. Link is in our bio.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Stephanie Mills",
+          "timestamp": 1720065569
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stephanie Mills",
+      "timestamp_ms": 1719916928353,
+      "content": "Howdy, can I book a table for two at 6:15pm for trivia this Thursday please?\n\nThanks\nSteph\n0403003758",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stephanie Mills",
+      "timestamp_ms": 1714611370172,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1714611060255,
+      "content": "No problem",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Stephanie Mills",
+          "timestamp": 1714611370
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stephanie Mills",
+      "timestamp_ms": 1714605832641,
+      "content": "Howdy, can I book a table for two at 6:15 for trivia tonight please?\n\nThanks\nSteph\n0403003758",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stephanie Mills",
+  "is_still_participant": true,
+  "thread_path": "inbox/stephaniemills_905544004363064",
+  "magic_words": [
+    
+  ]
+}

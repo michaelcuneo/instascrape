@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "The Adventures of Bailey and Ollie"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Adventures of Bailey and Ollie",
+      "timestamp_ms": 1758328879324,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Adventures of Bailey and Ollie",
+  "is_still_participant": true,
+  "thread_path": "message_requests/theadventuresofbaileyandollie_1314136346837159",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,111 @@
+{
+  "participants": [
+    {
+      "name": "Bad Oysters"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bad Oysters",
+      "timestamp_ms": 1742636466505,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1714124423025,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3354641232965548536"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bad Oysters",
+      "timestamp_ms": 1714124204018,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1712030570243,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3337076721509384905"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bad Oysters",
+      "timestamp_ms": 1712030299255,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1700906603585,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3243762042493841933"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bad Oysters",
+      "timestamp_ms": 1700905735683,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1700901277943,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3243717457713361933"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bad Oysters",
+      "timestamp_ms": 1700901002510,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1700894581683,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3243661284515742993"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bad Oysters",
+      "timestamp_ms": 1700893930411,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bad Oysters",
+      "timestamp_ms": 1700393418937,
+      "content": "Bad sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/Cz03SnyyI0c/",
+        "share_text": "Playing a gig at @theoak.tigheshill with @bigearplug this coming Saturday! Free entry.",
+        "original_content_owner": "badoystersband"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bad Oysters",
+  "is_still_participant": true,
+  "thread_path": "inbox/badoysters_873124794271652",
+  "magic_words": [
+    
+  ]
+}

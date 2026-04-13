@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Mason Ellis"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mason Ellis",
+      "timestamp_ms": 1709171718538,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1709167103062,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mason Ellis",
+          "timestamp": 1709171718
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3313056161158765591"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1709167095927,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3313056087280296223"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1709167090357,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3313056048533324844"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mason Ellis",
+      "timestamp_ms": 1709162087544,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mason Ellis",
+      "timestamp_ms": 1709161829219,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mason Ellis",
+      "timestamp_ms": 1709161768122,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mason Ellis",
+      "timestamp_ms": 1709161673407,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mason Ellis",
+  "is_still_participant": true,
+  "thread_path": "inbox/masonellis_929096498674481",
+  "magic_words": [
+    
+  ]
+}

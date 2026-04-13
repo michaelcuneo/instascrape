@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u008b\u0086 \u00e2\u00ad\u0092\u00cb\u009a.\u00e2\u008b\u0086 b \u00e2\u008b\u0086.\u00cb\u009a\u00e2\u00ad\u0092 \u00e2\u008b\u0086"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e2\u008b\u0086 \u00e2\u00ad\u0092\u00cb\u009a.\u00e2\u008b\u0086 b \u00e2\u008b\u0086.\u00cb\u009a\u00e2\u00ad\u0092 \u00e2\u008b\u0086",
+      "timestamp_ms": 1770689156186,
+      "content": "Thank you so much for your response and for taking it seriously",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u008b\u0086 \u00e2\u00ad\u0092\u00cb\u009a.\u00e2\u008b\u0086 b \u00e2\u008b\u0086.\u00cb\u009a\u00e2\u00ad\u0092 \u00e2\u008b\u0086",
+      "timestamp_ms": 1770689103153,
+      "content": "Reacted \u00f0\u009f\u00a9\u00b7 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1770688939397,
+      "content": "Hey thanks for bringing this to our attention. I\u00e2\u0080\u0099ve passed this onto our band booker so we can remove them from the bill and avoid booking them in future. \n\nJosh",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a9\u00b7",
+          "actor": "\u00e2\u008b\u0086 \u00e2\u00ad\u0092\u00cb\u009a.\u00e2\u008b\u0086 b \u00e2\u008b\u0086.\u00cb\u009a\u00e2\u00ad\u0092 \u00e2\u008b\u0086"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u008b\u0086 \u00e2\u00ad\u0092\u00cb\u009a.\u00e2\u008b\u0086 b \u00e2\u008b\u0086.\u00cb\u009a\u00e2\u00ad\u0092 \u00e2\u008b\u0086",
+      "timestamp_ms": 1770688503632,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/b_1428280112089448/photos/874524702140734.jpg",
+          "creation_timestamp": 1770688502
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u008b\u0086 \u00e2\u00ad\u0092\u00cb\u009a.\u00e2\u008b\u0086 b \u00e2\u008b\u0086.\u00cb\u009a\u00e2\u00ad\u0092 \u00e2\u008b\u0086",
+      "timestamp_ms": 1770688499789,
+      "content": "Hi there, i\u00e2\u0080\u0099ve noticed that the band Wartime has been booked at your venue for an upcoming gig on May 1st and i just wanted to bring to your attention that this is how their singer Mackenzie Bradford talks to people. I hope you reconsider your choice to work with him.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e2\u008b\u0086 \u00e2\u00ad\u0092\u00cb\u009a.\u00e2\u008b\u0086 b \u00e2\u008b\u0086.\u00cb\u009a\u00e2\u00ad\u0092 \u00e2\u008b\u0086",
+  "is_still_participant": true,
+  "thread_path": "inbox/b_1428280112089448",
+  "magic_words": [
+    
+  ]
+}

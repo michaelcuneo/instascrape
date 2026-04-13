@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "Kira Ann Phoenix\u00f0\u009f\u008c\u00b9"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kira Ann Phoenix\u00f0\u009f\u008c\u00b9",
+      "timestamp_ms": 1743230684746,
+      "content": "Thankyou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kira Ann Phoenix\u00f0\u009f\u008c\u00b9",
+      "timestamp_ms": 1743230677456,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1743224656130,
+      "content": "Hit up oakbandbooking@gmail.com for any booking enquiries :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kira Ann Phoenix\u00f0\u009f\u008c\u00b9"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kira Ann Phoenix\u00f0\u009f\u008c\u00b9",
+      "timestamp_ms": 1743221359422,
+      "content": "Would you guys have any dates in late June?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kira Ann Phoenix\u00f0\u009f\u008c\u00b9",
+      "timestamp_ms": 1743221192871,
+      "content": "Oh sorry! I meant the oak!! I\u00e2\u0080\u0099ve been on a trying of booking venues for a mini tour \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1743220930121,
+      "content": "Hey Kira, we don\u00e2\u0080\u0099t have anything to do with the Lass, sorry",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kira Ann Phoenix\u00f0\u009f\u008c\u00b9",
+      "timestamp_ms": 1743219513982,
+      "content": "https://open.spotify.com/album/0i4mIQdZDiuZUj7TSVhtvw?si=JvXL7cn8T465rEFjAIrG8w",
+      "share": {
+        "link": "https://open.spotify.com/album/0i4mIQdZDiuZUj7TSVhtvw?si=JvXL7cn8T465rEFjAIrG8w",
+        "share_text": "https://open.spotify.com/album/0i4mIQdZDiuZUj7TSVhtvw?si=JvXL7cn8T465rEFjAIrG8w"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kira Ann Phoenix\u00f0\u009f\u008c\u00b9",
+      "timestamp_ms": 1743219512394,
+      "content": "Hey! My name\u00e2\u0080\u0099s Kira I manage the bands @badwitchtheband  & @cactimoontunes \n\nCurrently looking for some dates to play at the Lass for \u00e2\u0080\u0098Cacti Moon\u00e2\u0080\u0099 in late June ? \n\nThanks!\n\nBio:\n\nHailing from the dry desert lands of Rural Nsw, Cacti Moon\u00e2\u0080\u0099s songs are like pieces of a cryptic jigsaw puzzle waiting to be solved. Their sound is intricate and alluring, with a whip cracking vocal from lead songstress and brainchild Sammi Cheal. The band boasts a full 6 piece backing that commands presence with a fiery rhythm section, keys, guitar and flute.\n\n\nMusic:",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kira Ann Phoenix\u00f0\u009f\u008c\u00b9",
+  "is_still_participant": true,
+  "thread_path": "inbox/kiraannphoenix_1181661780084617",
+  "magic_words": [
+    
+  ]
+}

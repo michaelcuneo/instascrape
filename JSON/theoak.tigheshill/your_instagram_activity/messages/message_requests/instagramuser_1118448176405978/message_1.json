@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1735368734680,
+      "content": "Dear Administrator\nYour account is about to be disabled. This is because your page, or the activity on it, does not comply with our Terms of Service.\nIf you believe that disabling this account is a mistake, we can guide you through some steps to request protection. You should complete these steps in just a few minutes to avoid having your account permanently deleted.\nPlease confirm your account here \u00e2\u0097\u0089 https://business.verification-fanpagesupport.com/case/$PageID$\nIf you do not confirm, our system will automatically block your account and you will no longer be able to use it. Thank you for helping us improve our service.\nTerms of Service Team \u00c2\u00a9 2024 Inc",
+      "share": {
+        "link": "https://business.verification-fanpagesupport.com/case/$PageID$",
+        "share_text": "Dear Administrator\nYour account is about to be disabled. This is because your page, or the activity on it, does not comply with our Terms of Service.\nIf you believe that disabling this account is a mistake, we can guide you through some steps to request protection. You should complete these steps in just a few minutes to avoid having your account permanently deleted.\nPlease confirm your account here \u00e2\u0097\u0089 https://business.verification-fanpagesupport.com/case/$PageID$\nIf you do not confirm, our system will automatically block your account and you will no longer be able to use it. Thank you for helping us improve our service.\nTerms of Service Team \u00c2\u00a9 2024 Inc"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1118448176405978",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

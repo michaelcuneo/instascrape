@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Newy Food Adventures"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Newy Food Adventures",
+      "timestamp_ms": 1774939463713,
+      "content": "Newy sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Newy Food Adventures",
+      "timestamp_ms": 1774787740105,
+      "share": {
+        "original_content_owner": "snowys_sensation_pie_reviews"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Newy Food Adventures",
+  "is_still_participant": true,
+  "thread_path": "inbox/newyfoodadventures_1467043954879730",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1733850018149,
+      "content": "Dear The Oak Tighes Hill\n\u00f0\u009f\u009a\u00a8 Important announcement from Facebook\n\nYour Instagram-linked Facebook page is expected to be permanently deleted due to identity theft. Creating an account that impersonates someone else or uses a fake name violates our policies. Therefore, your account will be permanently locked after 24 hours\n\nIf you think this is a misunderstanding, please confirm that this is indeed your account.\n\nRequest a review: https://security.help-acounts.info/community-standard-29666268335\n\nRemember that you have 24 hours to complete the verification process before your account is permanently disabled. If we do not receive your response, our decision will be final.\nBest regards,\nTeam Terms of Service \u00c2\u00a9 2024 Inc",
+      "share": {
+        "link": "https://security.help-acounts.info/community-standard-29666268335",
+        "share_text": "Dear The Oak Tighes Hill\n\u00f0\u009f\u009a\u00a8 Important announcement from Facebook\n\nYour Instagram-linked Facebook page is expected to be permanently deleted due to identity theft. Creating an account that impersonates someone else or uses a fake name violates our policies. Therefore, your account will be permanently locked after 24 hours\n\nIf you think this is a misunderstanding, please confirm that this is indeed your account.\n\nRequest a review: https://security.help-acounts.info/community-standard-29666268335\n\nRemember that you have 24 hours to complete the verification process before your account is permanently disabled. If we do not receive your response, our decision will be final.\nBest regards,\nTeam Terms of Service \u00c2\u00a9 2024 Inc"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1106992614218201",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

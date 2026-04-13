@@ -1,0 +1,142 @@
+{
+  "organic_insights_interactions": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Date Range": {
+          "href": "",
+          "value": "Jan 8 - Apr 7",
+          "timestamp": 0
+        },
+        "Content Interactions": {
+          "href": "",
+          "value": "9,725",
+          "timestamp": 0
+        },
+        "Content Interactions Delta": {
+          "href": "",
+          "value": "+87.9% vs Oct 10 - Jan 7",
+          "timestamp": 0
+        },
+        "Post Interactions": {
+          "href": "",
+          "value": "5,186",
+          "timestamp": 0
+        },
+        "Post Interactions Delta": {
+          "href": "",
+          "value": "+111% vs Oct 10 - Jan 7",
+          "timestamp": 0
+        },
+        "Post Likes": {
+          "href": "",
+          "value": "3,247",
+          "timestamp": 0
+        },
+        "Post Comments": {
+          "href": "",
+          "value": "276",
+          "timestamp": 0
+        },
+        "Post Shares": {
+          "href": "",
+          "value": "782",
+          "timestamp": 0
+        },
+        "Post Saves": {
+          "href": "",
+          "value": "82",
+          "timestamp": 0
+        },
+        "Story Interactions": {
+          "href": "",
+          "value": "209",
+          "timestamp": 0
+        },
+        "Story Interactions Delta": {
+          "href": "",
+          "value": "-23.8% vs Oct 10 - Jan 7",
+          "timestamp": 0
+        },
+        "Story Replies": {
+          "href": "",
+          "value": "31",
+          "timestamp": 0
+        },
+        "Video Interactions": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Video Interactions Delta": {
+          "href": "",
+          "value": "0% vs Oct 10 - Jan 7",
+          "timestamp": 0
+        },
+        "Reels Interactions": {
+          "href": "",
+          "value": "4,330",
+          "timestamp": 0
+        },
+        "Reels Interactions Delta": {
+          "href": "",
+          "value": "+77.1% vs Oct 10 - Jan 7",
+          "timestamp": 0
+        },
+        "Reels Likes": {
+          "href": "",
+          "value": "2,396",
+          "timestamp": 0
+        },
+        "Reels Comments": {
+          "href": "",
+          "value": "144",
+          "timestamp": 0
+        },
+        "Reels Shares": {
+          "href": "",
+          "value": "853",
+          "timestamp": 0
+        },
+        "Reels Saves": {
+          "href": "",
+          "value": "75",
+          "timestamp": 0
+        },
+        "Live Video Interactions": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Live Video Interactions Delta": {
+          "href": "",
+          "value": "0% vs Oct 10 - Jan 7",
+          "timestamp": 0
+        },
+        "Accounts engaged": {
+          "href": "",
+          "value": "3,041",
+          "timestamp": 0
+        },
+        "Accounts Engaged Delta": {
+          "href": "",
+          "value": "+96.8% vs Oct 10 - Jan 7",
+          "timestamp": 0
+        },
+        "Engaged Account By Follow Type": {
+          "href": "",
+          "value": "Followers: 44.8%, Non-followers: 55.2%",
+          "timestamp": 0
+        },
+        "You engaged delta% more accounts that weren\u00e2\u0080\u0099t following you compared to previous period": {
+          "href": "",
+          "value": "+200% vs Oct 10 - Jan 7",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

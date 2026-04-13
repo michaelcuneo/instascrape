@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Scott Shrimpton"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1729196627616,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3481075906619578307"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Scott Shrimpton",
+      "timestamp_ms": 1729196586248,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Scott Shrimpton",
+  "is_still_participant": true,
+  "thread_path": "inbox/scottshrimpton_1070866611164135",
+  "magic_words": [
+    
+  ]
+}

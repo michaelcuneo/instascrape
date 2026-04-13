@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Jamie Hutchings"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jamie Hutchings",
+      "timestamp_ms": 1762804535499,
+      "content": "Jamie sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DQ43CqgE3K-/",
+        "share_text": "Coming up real soon, Infinity Broke\u00e2\u0080\u0099s last shows of the year!\nThur Nov 27 @wingsandtins.deewhy w/ @svntaxerror  Fri Nov 28 @theoak.tigheshill w/ @lespoetespop  Sat Nov 29 @thepbc (downstairs) w/ @theexileco + Team Building @harkmarquee Tickets in zee bio link #infinitybroke #drumoff #indie#noise#avantrock#industrial",
+        "original_content_owner": "jamie_hutchings_music"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jamie Hutchings",
+  "is_still_participant": true,
+  "thread_path": "inbox/jamiehutchings_1358794679037992",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Chasing Shadows"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chasing Shadows",
+      "timestamp_ms": 1745907373755,
+      "share": {
+        "original_content_owner": "chasingshadows.music"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chasing Shadows",
+      "timestamp_ms": 1738651900807,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738648355221,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738647512931,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chasing Shadows",
+  "is_still_participant": true,
+  "thread_path": "inbox/chasingshadows_1143866213864174",
+  "magic_words": [
+    
+  ]
+}

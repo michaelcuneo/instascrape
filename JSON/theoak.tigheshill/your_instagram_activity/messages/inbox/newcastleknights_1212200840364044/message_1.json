@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Newcastle Knights"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1746685354352,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Newcastle Knights",
+  "is_still_participant": true,
+  "thread_path": "inbox/newcastleknights_1212200840364044",
+  "magic_words": [
+    
+  ]
+}

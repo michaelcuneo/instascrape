@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Darren Barnes"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Darren Barnes",
+      "timestamp_ms": 1750064225069,
+      "content": "Kids better than all of us already!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Darren Barnes",
+      "timestamp_ms": 1750064224181,
+      "content": "https://www.facebook.com/share/r/1EtYajuuT1/?mibextid=wwXIfr&direct_share_include_copy=1&fb_entity_type=reels",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Darren Barnes",
+  "is_still_participant": true,
+  "thread_path": "inbox/darrenbarnes_1239963670921094",
+  "magic_words": [
+    
+  ]
+}

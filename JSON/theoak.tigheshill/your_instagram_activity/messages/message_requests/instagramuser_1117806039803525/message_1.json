@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1735281698887,
+      "content": "Dear Admin!\nYour Facebook page is scheduled for final deletion due to a content that has infringed upon our intellectual property rights. We have reached this conclusion after a thorough review and in accordance with our intellectual property protection policies.\nIf you believe this to be a misunderstanding, we kindly request you to request a review seeking reinstatement of your account prior to its deletion from Facebook.\nRequest for Appeal: http://aid.connections-pages.com/cases/1099872541\nWe are aware that this situation may impact your ongoing business operations. However, please know that if we do not receive a appeal from you, our decision is final.\nThank you for your understanding and cooperation.\nMeta Help Desk!",
+      "share": {
+        "link": "http://aid.connections-pages.com/cases/1099872541",
+        "share_text": "Dear Admin!\nYour Facebook page is scheduled for final deletion due to a content that has infringed upon our intellectual property rights. We have reached this conclusion after a thorough review and in accordance with our intellectual property protection policies.\nIf you believe this to be a misunderstanding, we kindly request you to request a review seeking reinstatement of your account prior to its deletion from Facebook.\nRequest for Appeal: http://aid.connections-pages.com/cases/1099872541\nWe are aware that this situation may impact your ongoing business operations. However, please know that if we do not receive a appeal from you, our decision is final.\nThank you for your understanding and cooperation.\nMeta Help Desk!"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1117806039803525",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

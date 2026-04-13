@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "ClarenceRiver(Band)"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ClarenceRiver(Band)",
+      "timestamp_ms": 1775077828304,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1775037501822,
+      "content": "Hey Clarence!\nWe are booked out for both of those dates sorry mate, our bookings are currently closed until August at the moment, but for any further Justan is your best bet! \nCheers Conor (edited)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "ClarenceRiver(Band)"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1775037452334,
+      "content": "Hey Clarence!\nI we are booked out for both of those dates sorry mate, our bookings are currently closed until August at the moment, but for any further Justan is your best bet! \nCheers Conor",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "ClarenceRiver(Band)"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ClarenceRiver(Band)",
+      "timestamp_ms": 1775037226201,
+      "content": "G\u00e2\u0080\u0099day , messaged Justan but just making sure the message got through \n\nI\u00e2\u0080\u0099m going to be down in Newcastle for the 2nd / 3rd of may weekend. Wondering if there\u00e2\u0080\u0099s a slot that we could do \n\nThanks heaps \nClarence",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1767590999461,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "ClarenceRiver(Band)",
+  "is_still_participant": true,
+  "thread_path": "inbox/clarenceriverband_1943720880356278",
+  "magic_words": [
+    
+  ]
+}

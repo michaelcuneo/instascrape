@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Wednesday Sutherland"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Wednesday Sutherland",
+      "timestamp_ms": 1770113577859,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1770108307073,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Wednesday Sutherland"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3824268060651543563"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wednesday Sutherland",
+      "timestamp_ms": 1770097474319,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wednesday Sutherland",
+      "timestamp_ms": 1769580261328,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wednesday Sutherland",
+      "timestamp_ms": 1718769000743,
+      "share": {
+        "original_content_owner": "wednesdaysutherland"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wednesday Sutherland",
+  "is_still_participant": true,
+  "thread_path": "inbox/wednesdaysutherland_992061672377963",
+  "magic_words": [
+    
+  ]
+}

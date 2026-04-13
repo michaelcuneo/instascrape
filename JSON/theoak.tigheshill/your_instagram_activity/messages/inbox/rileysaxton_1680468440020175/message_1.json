@@ -1,0 +1,121 @@
+{
+  "participants": [
+    {
+      "name": "rileysaxton"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "rileysaxton",
+      "timestamp_ms": 1767236642071,
+      "content": "Fark that\u00e2\u0080\u0099s lookin pretty good rn",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3800121922344303666"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1761373643647,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3750996411404096663"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "rileysaxton",
+      "timestamp_ms": 1761373537055,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "rileysaxton",
+      "timestamp_ms": 1738648899302,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738648361388,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "rileysaxton",
+          "timestamp": 1738648899
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "rileysaxton",
+      "timestamp_ms": 1738539443206,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738497064114,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738497049498,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3559093642772572556"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738497044020,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3559093598245716805"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738497031199,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3559093487197403525"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "rileysaxton",
+      "timestamp_ms": 1738496791585,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "rileysaxton",
+      "timestamp_ms": 1738496756286,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "rileysaxton",
+      "timestamp_ms": 1738411090774,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "rileysaxton",
+  "is_still_participant": true,
+  "thread_path": "inbox/rileysaxton_1680468440020175",
+  "magic_words": [
+    
+  ]
+}

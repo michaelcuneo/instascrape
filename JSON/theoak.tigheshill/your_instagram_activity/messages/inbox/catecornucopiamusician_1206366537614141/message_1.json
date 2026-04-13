@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Cate Cornucopia-Musician\u00f0\u009f\u008e\u00a4\u00f0\u009f\u008e\u00b8"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cate Cornucopia-Musician\u00f0\u009f\u008e\u00a4\u00f0\u009f\u008e\u00b8",
+      "timestamp_ms": 1745987065463,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cate Cornucopia-Musician\u00f0\u009f\u008e\u00a4\u00f0\u009f\u008e\u00b8",
+  "is_still_participant": true,
+  "thread_path": "inbox/catecornucopiamusician_1206366537614141",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Dead Mall"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dead Mall",
+      "timestamp_ms": 1745559061510,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dead Mall",
+  "is_still_participant": true,
+  "thread_path": "inbox/deadmall_1202667987983996",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "James Roworth"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1705136994676,
+      "content": "Of course",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "James Roworth",
+      "timestamp_ms": 1705131142033,
+      "content": "Can kids and dogs come to the beer garden?",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3278587077209307950"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "James Roworth",
+  "is_still_participant": true,
+  "thread_path": "inbox/jamesroworth_893417508909047",
+  "magic_words": [
+    
+  ]
+}

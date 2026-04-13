@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Tom"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tom",
+      "timestamp_ms": 1752655994203,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tom",
+  "is_still_participant": true,
+  "thread_path": "inbox/tom_1262354122015382",
+  "magic_words": [
+    
+  ]
+}

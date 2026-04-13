@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Jahson Brahson"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1709349343064,
+      "content": "\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jahson Brahson",
+      "timestamp_ms": 1709330375149,
+      "content": "It hath been found \u00f0\u009f\u00a4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jahson Brahson",
+      "timestamp_ms": 1709324153081,
+      "content": "Let me know if you find a pink newy perm card around guys \u00f0\u009f\u0099\u008f legends",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jahson Brahson",
+  "is_still_participant": true,
+  "thread_path": "inbox/jahsonbrahson_930062765244521",
+  "magic_words": [
+    
+  ]
+}

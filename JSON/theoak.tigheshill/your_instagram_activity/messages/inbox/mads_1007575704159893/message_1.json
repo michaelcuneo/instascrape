@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Mads"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mads",
+      "timestamp_ms": 1720983570608,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1720954028049,
+      "content": "Sure will. We\u00e2\u0080\u0099ll have the projector set up on stage with the game",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mads",
+          "timestamp": 1720983570
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mads",
+      "timestamp_ms": 1720949435133,
+      "content": "Hello! I was thinking of booking a table for ~10 for state of origin and there's only space in the restaurant section. Will the game and drinks specials be on in this area? Cheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mads",
+  "is_still_participant": true,
+  "thread_path": "inbox/mads_1007575704159893",
+  "magic_words": [
+    
+  ]
+}

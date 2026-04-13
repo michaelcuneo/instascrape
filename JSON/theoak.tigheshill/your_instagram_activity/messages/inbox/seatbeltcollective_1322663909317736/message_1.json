@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Seatbelt Collective"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1766117125051,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3790787590538501414"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seatbelt Collective",
+      "timestamp_ms": 1766116765949,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1766106341678,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seatbelt Collective",
+      "timestamp_ms": 1766096590952,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seatbelt Collective",
+      "timestamp_ms": 1765417763801,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seatbelt Collective",
+      "timestamp_ms": 1765417618304,
+      "content": "Seatbelt sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DSGvG1Ij17t/",
+        "share_text": "It\u00e2\u0080\u0099s an MKZ Chrissy \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u0092\u009a\n\nThis year has been huge! Full of growth, gigs, fundraisers, late nights, early mornings, and the community that makes it all worth it \u00f0\u009f\u00ab\u00b6\n\nCome celebrate everything we\u00e2\u0080\u0099ve built together and everything we will continue to build!\n\n8 pm @samxcollins (trio w/ @samcowling789 & @localgardeningexpert)\n8:45 @bardvarkk \n9:30 @catpissband \n10:15 @ivbandau \n\nFirst 10 people wearing a Santa hat who find us get a drink voucher \u00f0\u009f\u00a5\u00b3\n\n8pm\nFree entry\nThe Oak\n\nLove, MKZ team \u00f0\u009f\u00ab\u00b6\n\n\u00f0\u009f\u0096\u00bc\u00ef\u00b8\u008f @zjfile",
+        "original_content_owner": "stbltco"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seatbelt Collective",
+      "timestamp_ms": 1759214911164,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Seatbelt Collective",
+  "is_still_participant": true,
+  "thread_path": "inbox/seatbeltcollective_1322663909317736",
+  "magic_words": [
+    
+  ]
+}

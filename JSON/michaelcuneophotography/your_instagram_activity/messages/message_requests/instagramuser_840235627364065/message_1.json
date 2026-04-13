@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Instagram user"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram user",
+      "timestamp_ms": 1657670851038,
+      "content": "https://bit.ly/3PEOpnt",
+      "share": {
+        "link": "https://bit.ly/3PEOpnt",
+        "share_text": "Open live: 841,392 views \u00e2\u0080\u00a2 amanda"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram user",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_840235627364065",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

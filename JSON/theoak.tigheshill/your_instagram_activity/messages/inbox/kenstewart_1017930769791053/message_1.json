@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Ken Stewart"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1722503438346,
+      "content": "Oakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ken Stewart",
+      "timestamp_ms": 1722406481119,
+      "content": "Hey Dunny, do you have an email to do your band bookings?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ken Stewart",
+  "is_still_participant": true,
+  "thread_path": "inbox/kenstewart_1017930769791053",
+  "magic_words": [
+    
+  ]
+}

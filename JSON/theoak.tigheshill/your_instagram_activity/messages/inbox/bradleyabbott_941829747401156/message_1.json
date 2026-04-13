@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Bradley Abbott"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1711250603073,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3330533814476382515"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bradley Abbott",
+      "timestamp_ms": 1711250542396,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bradley Abbott",
+  "is_still_participant": true,
+  "thread_path": "inbox/bradleyabbott_941829747401156",
+  "magic_words": [
+    
+  ]
+}

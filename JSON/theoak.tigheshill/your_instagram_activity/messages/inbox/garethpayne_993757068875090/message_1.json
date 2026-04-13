@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Gareth Payne"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gareth Payne",
+      "timestamp_ms": 1719009829894,
+      "content": "And fuck me, no 20 Year old little wankers pulling people moustaches at any stage of the night, just adults having a great time in a clean pub.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gareth Payne",
+      "timestamp_ms": 1719009693925,
+      "content": "Gareth sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gareth Payne",
+  "is_still_participant": true,
+  "thread_path": "inbox/garethpayne_993757068875090",
+  "magic_words": [
+    
+  ]
+}

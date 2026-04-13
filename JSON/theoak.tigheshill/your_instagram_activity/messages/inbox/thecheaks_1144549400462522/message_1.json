@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "THE CHEAKS"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "THE CHEAKS",
+      "timestamp_ms": 1748104512325,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "THE CHEAKS",
+      "timestamp_ms": 1748104497249,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1748104293823,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3639684934643074534"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1748104261224,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3639684627427013006"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "THE CHEAKS",
+      "timestamp_ms": 1738742277984,
+      "content": "Sweet as, thanks heaps!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738742102395,
+      "content": "Hey mate, \n\nHit up our band booker Justan. \n\nOakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "THE CHEAKS",
+      "timestamp_ms": 1738741691898,
+      "content": "Hey guys,\nHope you\u00e2\u0080\u0099re all having a good week. Just wondering who books your gigs? We are releasing a new single in April and would love to have our single launch at your venue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "THE CHEAKS",
+  "is_still_participant": true,
+  "thread_path": "inbox/thecheaks_1144549400462522",
+  "magic_words": [
+    
+  ]
+}

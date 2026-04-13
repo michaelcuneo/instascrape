@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Guy Alexander-Roast"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1732499137681,
+      "content": "Hey mate, yeah unfortunately it hasn\u00e2\u0080\u0099t had the intended impact for the pub so we\u00e2\u0080\u0099ve made the decision to pull the pin on it. We can however offer you guys a locals discount when you\u00e2\u0080\u0099re back in. It\u00e2\u0080\u0099s valid whenever you\u00e2\u0080\u0099re in and is good for 10% off everything on tap.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guy Alexander-Roast",
+      "timestamp_ms": 1732487580216,
+      "content": "Hey there my partner and I came in for a beer yesterday afternoon for happy hour only to be informed that happy hour was no longer available at the oak? We had been coming to the oak a few Sunday and Mondays in previous weeks for the happy hour. Just wanted to clarify that happy hour at the oak has been cancelled?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Guy Alexander-Roast",
+  "is_still_participant": true,
+  "thread_path": "inbox/guyalexanderroast_1096656725251790",
+  "magic_words": [
+    
+  ]
+}

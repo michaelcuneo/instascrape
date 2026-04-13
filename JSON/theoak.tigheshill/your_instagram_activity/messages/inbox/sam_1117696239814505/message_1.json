@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "sam \u00f0\u009f\u0094\u00a5"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1735266294293,
+      "content": "Yeah mate, got a few seats left. It\u00e2\u0080\u0099s $75/head for the 4 course menu. Time is flexible from 5.30-8.30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u0094\u00a5",
+      "timestamp_ms": 1735266232678,
+      "content": "heya crew! is there any spots for NYE?\nwhat's the price + time?\n\nthanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "sam \u00f0\u009f\u0094\u00a5",
+  "is_still_participant": true,
+  "thread_path": "inbox/sam_1117696239814505",
+  "magic_words": [
+    
+  ]
+}

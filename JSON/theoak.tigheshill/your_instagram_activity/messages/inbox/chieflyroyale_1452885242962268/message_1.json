@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Chiefly Royale"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chiefly Royale",
+      "timestamp_ms": 1773310786915,
+      "content": "Many gracci",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1773309283643,
+      "content": "Sounds good man I will shoot this to the band Booker (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1773309273404,
+      "content": "Sound good man I will shoot this to the band Booker",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chiefly Royale",
+      "timestamp_ms": 1773307450562,
+      "content": "Endless sangas hahahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chiefly Royale",
+      "timestamp_ms": 1773307440447,
+      "content": "My drummer flies over on May 5th and we wanna start rocking",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1773307418992,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/chieflyroyale_1452885242962268/audio/1362041568967919.mp4",
+          "creation_timestamp": 1773307413
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chiefly Royale",
+      "timestamp_ms": 1773307359007,
+      "content": "Hi Lads can we get a gig ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chiefly Royale",
+  "is_still_participant": true,
+  "thread_path": "inbox/chieflyroyale_1452885242962268",
+  "magic_words": [
+    
+  ]
+}

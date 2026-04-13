@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "James Porter"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "James Porter",
+      "timestamp_ms": 1763256960984,
+      "content": "Bummer. Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1763256927183,
+      "content": "Nah unfortunately not mate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "James Porter",
+      "timestamp_ms": 1763256621251,
+      "content": "Hey are you guys playing the ufc??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "James Porter",
+  "is_still_participant": true,
+  "thread_path": "inbox/jamesporter_1362902931960500",
+  "magic_words": [
+    
+  ]
+}

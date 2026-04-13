@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "The Tall Stories"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Tall Stories",
+      "timestamp_ms": 1771928784757,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713520547339,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3349575241864789186"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Tall Stories",
+      "timestamp_ms": 1713511262271,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Tall Stories",
+  "is_still_participant": true,
+  "thread_path": "inbox/thetallstories_956561249261339",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Peter"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Peter",
+      "timestamp_ms": 1707786382911,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1707786086394,
+      "content": "Done! Thanks Peter",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peter",
+      "timestamp_ms": 1707785329808,
+      "content": "Hi guys\nCan I book table for 6\nFor Friday 23 February at 6pm till late \nRegards\nPeter \n0417194561",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1707786077
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Peter",
+  "is_still_participant": true,
+  "thread_path": "inbox/peter_920623449521786",
+  "magic_words": [
+    
+  ]
+}

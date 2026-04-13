@@ -1,0 +1,52 @@
+{
+  "profile_account_insights": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Contact Syncing": {
+          "href": "",
+          "value": "False",
+          "timestamp": 0
+        },
+        "First Country Code": {
+          "href": "",
+          "value": "AU",
+          "timestamp": 0
+        },
+        "Has Shared Live Video": {
+          "href": "",
+          "value": "False",
+          "timestamp": 0
+        },
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1775711265
+        },
+        "Last Logout": {
+          "href": "",
+          "value": "",
+          "timestamp": 1762566473
+        },
+        "First Story Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1593671444
+        },
+        "Last Story Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1775706750
+        },
+        "First Close Friends Story Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

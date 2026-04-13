@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Sam neilson"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sam neilson",
+      "timestamp_ms": 1768879964509,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sam neilson",
+  "is_still_participant": true,
+  "thread_path": "inbox/samneilson_1410680753849384",
+  "magic_words": [
+    
+  ]
+}

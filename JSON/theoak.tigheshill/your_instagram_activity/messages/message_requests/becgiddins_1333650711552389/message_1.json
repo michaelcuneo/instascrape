@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Bec Giddins"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bec Giddins",
+      "timestamp_ms": 1760259861789,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bec Giddins",
+  "is_still_participant": true,
+  "thread_path": "message_requests/becgiddins_1333650711552389",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

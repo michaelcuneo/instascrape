@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "LOST CAT"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "LOST CAT",
+      "timestamp_ms": 1752759386481,
+      "content": "They\u00e2\u0080\u0099re pretty good!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752731847108,
+      "content": "How are the tower hill truffles?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1746766752529,
+      "content": "Yum",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "LOST CAT",
+  "is_still_participant": true,
+  "thread_path": "inbox/lostcat_1212809903636471",
+  "magic_words": [
+    
+  ]
+}

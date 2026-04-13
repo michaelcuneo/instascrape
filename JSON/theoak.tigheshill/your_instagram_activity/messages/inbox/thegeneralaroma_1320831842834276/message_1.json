@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "The General Aroma"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The General Aroma",
+      "timestamp_ms": 1767946738220,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The General Aroma",
+      "timestamp_ms": 1767780774596,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1767590999158,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The General Aroma",
+      "timestamp_ms": 1767052998572,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1767047470803,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The General Aroma"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The General Aroma",
+      "timestamp_ms": 1766121673153,
+      "content": "The General sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DSbt_Qsgf7K/",
+        "share_text": "2025 is pretty much done, but don\u00e2\u0080\u0099t fear, like all bad smells The General Aroma isn\u00e2\u0080\u0099t going anywhere. \n\nWe are hitting the ground running in the new year and bringing good friends @gauzetheband_ and @thecharliefarmer with us. \n\nPut Friday January 9th in your diary and join us at @theoak.tigheshill to kick off the new year the way it should be.",
+        "original_content_owner": "thegeneralaroma"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The General Aroma",
+      "timestamp_ms": 1759374874653,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The General Aroma",
+      "timestamp_ms": 1759026955946,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The General Aroma",
+  "is_still_participant": true,
+  "thread_path": "inbox/thegeneralaroma_1320831842834276",
+  "magic_words": [
+    
+  ]
+}

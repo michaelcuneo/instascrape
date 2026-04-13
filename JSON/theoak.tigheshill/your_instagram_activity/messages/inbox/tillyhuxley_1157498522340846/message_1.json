@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Tilly Huxley"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1731913790886,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tilly Huxley",
+      "timestamp_ms": 1731913416036,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1716028809251,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tilly Huxley",
+      "timestamp_ms": 1716013604028,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tilly Huxley",
+  "is_still_participant": true,
+  "thread_path": "inbox/tillyhuxley_1157498522340846",
+  "magic_words": [
+    
+  ]
+}

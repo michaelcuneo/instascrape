@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Suede Effect"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Suede Effect",
+      "timestamp_ms": 1714275633269,
+      "share": {
+        "link": "https://www.instagram.com/stories/suede_effect/3355909614493124325"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Suede Effect",
+      "timestamp_ms": 1714194959938,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1714194757666,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Suede Effect",
+          "timestamp": 1714194959
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Suede Effect",
+      "timestamp_ms": 1714191200988,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713777122208,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3351727773701500244"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Suede Effect",
+      "timestamp_ms": 1713776427402,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Suede Effect",
+      "timestamp_ms": 1712488575977,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1712488545902,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Suede Effect",
+          "timestamp": 1712488575
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3340918423122695580"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Suede Effect",
+      "timestamp_ms": 1712485050275,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Suede Effect",
+  "is_still_participant": true,
+  "thread_path": "inbox/suedeeffect_949950906589040",
+  "magic_words": [
+    
+  ]
+}

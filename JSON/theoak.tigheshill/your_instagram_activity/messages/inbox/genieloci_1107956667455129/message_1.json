@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Genie Loci \u00f0\u009f\u00a7\u009e"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Genie Loci \u00f0\u009f\u00a7\u009e",
+      "timestamp_ms": 1768637916508,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1768604154567,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Genie Loci \u00f0\u009f\u00a7\u009e",
+      "timestamp_ms": 1733992879139,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Genie Loci \u00f0\u009f\u00a7\u009e",
+  "is_still_participant": true,
+  "thread_path": "inbox/genieloci_1107956667455129",
+  "magic_words": [
+    
+  ]
+}

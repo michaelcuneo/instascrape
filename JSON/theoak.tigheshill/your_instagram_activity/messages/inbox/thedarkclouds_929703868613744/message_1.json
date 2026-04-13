@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "THE DARK CLOUDS"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "THE DARK CLOUDS",
+      "timestamp_ms": 1709273960492,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1709267180850,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3313895710604688739"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "THE DARK CLOUDS",
+  "is_still_participant": true,
+  "thread_path": "inbox/thedarkclouds_929703868613744",
+  "magic_words": [
+    
+  ]
+}

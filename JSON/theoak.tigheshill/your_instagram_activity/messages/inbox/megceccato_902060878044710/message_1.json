@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Meg Ceccato"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Meg Ceccato",
+      "timestamp_ms": 1705107449919,
+      "content": "You have pending appointment request",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meg Ceccato",
+      "timestamp_ms": 1705021679028,
+      "content": "0413066438. Thanks a lot",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1705021395394,
+      "content": "Not a problem. And just a contact number.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meg Ceccato",
+      "timestamp_ms": 1705021045617,
+      "content": "You can now schedule and manage appointments in chat. Learn more.(https://help.instagram.com/1043402509628629)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meg Ceccato",
+      "timestamp_ms": 1705021045396,
+      "content": "8 people under the name of Meg",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1705012720043,
+      "content": "Definitely worth it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meg Ceccato",
+      "timestamp_ms": 1705011506009,
+      "content": "Good morning :) \nJust wondering if you suggest booking for Sunday lunch?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Meg Ceccato",
+  "is_still_participant": true,
+  "thread_path": "inbox/megceccato_902060878044710",
+  "magic_words": [
+    
+  ]
+}

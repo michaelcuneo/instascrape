@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Curt"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752903677894,
+      "content": "See ya in a few hours!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752903671054,
+      "content": "All good bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Curt",
+      "timestamp_ms": 1752903660104,
+      "content": "I actually think I\u00e2\u0080\u0099m coming in for dinner \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Curt",
+      "timestamp_ms": 1752903651075,
+      "content": "Hey Bruzzy, sorry for the late response. I won\u00e2\u0080\u0099t tonight just because I\u00e2\u0080\u0099m catching up with some mates and I\u00e2\u0080\u0099m gonna get to bed early tonight.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752896923062,
+      "content": "Wanna work tonight mate? \n\nJosh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Curt",
+  "is_still_participant": true,
+  "thread_path": "inbox/curt_947237480193716",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "participants": [
+    {
+      "name": "Good Corn Liquor"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Good Corn Liquor",
+      "timestamp_ms": 1741073614660,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1741072952917,
+      "content": "All good. We miss you guys",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Good Corn Liquor"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Good Corn Liquor",
+      "timestamp_ms": 1741071124740,
+      "content": "We unavailable for that date soz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1740975820931,
+      "content": "You guys interested in playing Friday 28th March?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1719609960755,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3400657196349396476"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1719609931337,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3400656953021235851"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Good Corn Liquor",
+      "timestamp_ms": 1719609694201,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Good Corn Liquor",
+      "timestamp_ms": 1719574416087,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Good Corn Liquor",
+      "timestamp_ms": 1719292357647,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1719048951458,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Good Corn Liquor",
+      "timestamp_ms": 1719041496544,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713860816950,
+      "content": "I\u00e2\u0080\u0099ll double check with Justan tomorrow and could double up. Long weekend should be busy. \u00f0\u009f\u00a4\u0098\u00f0\u009f\u00a4\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Good Corn Liquor",
+      "timestamp_ms": 1713860241081,
+      "content": "Happy to do both if band available",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Good Corn Liquor",
+      "timestamp_ms": 1713860043108,
+      "content": "We\u00e2\u0080\u0099ve had a chat to Justo about end of the month. Locked in with Willie John on 28th",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713691372096,
+      "content": "You guys wanna play the oak on the sat of June long weekend?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Good Corn Liquor",
+      "timestamp_ms": 1703935151149,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Good Corn Liquor",
+  "is_still_participant": true,
+  "thread_path": "inbox/goodcornliquor_895230055394459",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "The Crossing Machine"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Crossing Machine",
+      "timestamp_ms": 1716323341131,
+      "content": "https://www.facebook.com/100063505903215/posts/pfbid0jkKb51CGGcVL8pqcMju7wczZQBQhAqWcAdZ64gxmgtTQquVVzeXxyNvcvXn5FTiql/?deeplink_ref_surface=instagram_direct&fb_entity_type=unknown",
+      "share": {
+        "link": "https://www.facebook.com/100063505903215/posts/pfbid0jkKb51CGGcVL8pqcMju7wczZQBQhAqWcAdZ64gxmgtTQquVVzeXxyNvcvXn5FTiql/?deeplink_ref_surface=instagram_direct&fb_entity_type=unknown",
+        "share_text": "https://www.facebook.com/100063505903215/posts/pfbid0jkKb51CGGcVL8pqcMju7wczZQBQhAqWcAdZ64gxmgtTQquVVzeXxyNvcvXn5FTiql/?deeplink_ref_surface=instagram_direct&fb_entity_type=unknown"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Crossing Machine",
+  "is_still_participant": true,
+  "thread_path": "inbox/thecrossingmachine_1006543363495202",
+  "magic_words": [
+    
+  ]
+}

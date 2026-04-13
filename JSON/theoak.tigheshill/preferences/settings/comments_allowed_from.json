@@ -1,0 +1,17 @@
+{
+  "settings_allow_comments_from": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Comments Allowed From": {
+          "href": "",
+          "value": "Everyone",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

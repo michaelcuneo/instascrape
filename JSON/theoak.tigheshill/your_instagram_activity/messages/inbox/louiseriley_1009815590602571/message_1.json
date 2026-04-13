@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Louise Riley"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Louise Riley",
+      "timestamp_ms": 1721268560582,
+      "content": "Heya! I booked a table for 5 tonight at 6pm. Can I cancel please - I\u00e2\u0080\u0099ve got the flu \u00f0\u009f\u00a4\u0092 thanks, Louise 0433348995",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Louise Riley",
+  "is_still_participant": true,
+  "thread_path": "inbox/louiseriley_1009815590602571",
+  "magic_words": [
+    
+  ]
+}

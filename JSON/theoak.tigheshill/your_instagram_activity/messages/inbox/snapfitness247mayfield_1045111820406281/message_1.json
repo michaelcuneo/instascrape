@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Snap Fitness 24/7 Mayfield"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Snap Fitness 24/7 Mayfield",
+      "timestamp_ms": 1742767682335,
+      "content": "Hey Local Buiz!\n\nWe are giving out 50x 200 Gift Cards to get you started here at Snap Fitness Mayfield!\n\nThe $200 will cover you :\nFor all your sign-up costs\n3 weeks free off your membership & a FREE personal training session.\nClick the link to secure your spot!\n\nClick Here:\nhttps://www.snapfitness.com/au/gyms/mayfield/voucher\n\nPlease pass on to you and your staff!",
+      "share": {
+        "link": "https://www.snapfitness.com/au/gyms/mayfield/voucher",
+        "share_text": "Hey Local Buiz!\n\nWe are giving out 50x 200 Gift Cards to get you started here at Snap Fitness Mayfield!\n\nThe $200 will cover you :\nFor all your sign-up costs\n3 weeks free off your membership & a FREE personal training session.\nClick the link to secure your spot!\n\nClick Here:\nhttps://www.snapfitness.com/au/gyms/mayfield/voucher\n\nPlease pass on to you and your staff!"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Snap Fitness 24/7 Mayfield",
+  "is_still_participant": true,
+  "thread_path": "inbox/snapfitness247mayfield_1045111820406281",
+  "magic_words": [
+    
+  ]
+}

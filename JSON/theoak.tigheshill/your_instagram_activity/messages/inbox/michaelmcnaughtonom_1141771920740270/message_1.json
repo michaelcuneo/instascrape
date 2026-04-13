@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Michael \u00f0\u009f\u00a6\u00a7 McNaughton \u00e0\u00a5\u0090"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael \u00f0\u009f\u00a6\u00a7 McNaughton \u00e0\u00a5\u0090",
+      "timestamp_ms": 1760783832222,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael \u00f0\u009f\u00a6\u00a7 McNaughton \u00e0\u00a5\u0090",
+      "timestamp_ms": 1738626443235,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael \u00f0\u009f\u00a6\u00a7 McNaughton \u00e0\u00a5\u0090",
+      "timestamp_ms": 1738626442286,
+      "content": "Thank ya kindly!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738625088755,
+      "content": "Hey mate, \n\nHit up our band booker Justan. \n\nOakbandbooking@gmail.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Michael \u00f0\u009f\u00a6\u00a7 McNaughton \u00e0\u00a5\u0090",
+          "timestamp": 1738626443
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael \u00f0\u009f\u00a6\u00a7 McNaughton \u00e0\u00a5\u0090",
+      "timestamp_ms": 1738392569487,
+      "content": "Gday, just looking to get in touch regarding potentially booking a gig for myself & William Alexander for march 7 or 9th. Is this page the best place of contact or is there an email address I can send off to? Cheers \u00f0\u009f\u00a4\u00a0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Michael \u00f0\u009f\u00a6\u00a7 McNaughton \u00e0\u00a5\u0090",
+  "is_still_participant": true,
+  "thread_path": "inbox/michaelmcnaughtonom_1141771920740270",
+  "magic_words": [
+    
+  ]
+}

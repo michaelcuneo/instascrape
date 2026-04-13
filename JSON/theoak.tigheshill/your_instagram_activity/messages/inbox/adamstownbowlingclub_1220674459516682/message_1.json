@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Adamstown Bowling Club"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adamstown Bowling Club",
+      "timestamp_ms": 1761357890882,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1761289749859,
+      "content": "Thanks guys! Will pass it on to the crew",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Adamstown Bowling Club"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adamstown Bowling Club",
+      "timestamp_ms": 1761282534721,
+      "content": "Hi Guys - We\u00e2\u0080\u0099re hosting our Hospo & Uni Night again!! \n7pm Every Monday incase silly season is getting too much for the crew - we\u00e2\u0080\u0099ve got $6 Vodkas, $6 Selected Schooners, $10 Hard Rated, $20 BaraMonday Bistro deal & FREE Karaoke with a $100 Best Performance Bar Tab prize. There will also be bonus drink vouchers for standout singers \u00f0\u009f\u008e\u00a4 \u00f0\u009f\u0092\u0099\u00f0\u009f\u008e\u00b6\u00f0\u009f\u008d\u00bb \nWe hope to see you there!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adamstown Bowling Club",
+      "timestamp_ms": 1747801608392,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1747799648609,
+      "content": "Thanks lords! Will pass it on to our crew",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Adamstown Bowling Club"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adamstown Bowling Club",
+      "timestamp_ms": 1747781595409,
+      "content": "Hey Legends!\nJust reaching out to invite you guys to our Monday Hospo Night on the 2nd of June! \u00f0\u009f\u008d\u00bb\nWe\u00e2\u0080\u0099ll have members happy hour ($5.50 schooners) from 2-5pm and then Hospo happy hour ($6 spirits + beers) from 5-8pm. \nOur staff will be attending so feel free to extend the invite to yours!! \nWe hope to see you then, \nLove team ABC \u00f0\u009f\u0092\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Adamstown Bowling Club",
+  "is_still_participant": true,
+  "thread_path": "inbox/adamstownbowlingclub_1220674459516682",
+  "magic_words": [
+    
+  ]
+}

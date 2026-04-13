@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "The Knighted"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1746685354090,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Knighted",
+  "is_still_participant": true,
+  "thread_path": "inbox/theknighted_1212200843697377",
+  "magic_words": [
+    
+  ]
+}

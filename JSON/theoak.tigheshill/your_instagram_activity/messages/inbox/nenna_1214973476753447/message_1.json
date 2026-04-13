@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Nenna"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nenna",
+      "timestamp_ms": 1748668999158,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nenna",
+      "timestamp_ms": 1747049118838,
+      "content": "Nenna sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DJjB7ccznhU/",
+        "share_text": "Supporting @jarrodgrant_ May 31st at the Royal Oak! \n\nPerforming alongside incredible musicians @benandjessii \n\nSet starts at 8:30pm! \n\nWould love to see you guys there xo",
+        "original_content_owner": "sienna__cross"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nenna",
+  "is_still_participant": true,
+  "thread_path": "inbox/nenna_1214973476753447",
+  "magic_words": [
+    
+  ]
+}

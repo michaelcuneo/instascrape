@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Liz Robb"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Liz Robb",
+      "timestamp_ms": 1739910446682,
+      "content": "Oh fab! What time does this start?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1739910394684,
+      "content": "Sure do!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1739910392644,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/lizrobb_1154000742850721/photos/485771871255420.jpg",
+          "creation_timestamp": 1739910391
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Liz Robb",
+      "timestamp_ms": 1739910210093,
+      "content": "Have you got music on Friday 28th February?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Liz Robb",
+  "is_still_participant": true,
+  "thread_path": "inbox/lizrobb_1154000742850721",
+  "magic_words": [
+    
+  ]
+}

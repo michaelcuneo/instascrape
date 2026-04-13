@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "erin"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "erin",
+      "timestamp_ms": 1763624181412,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3769628297270603661"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "erin",
+  "is_still_participant": true,
+  "thread_path": "inbox/erin_1366106938306766",
+  "magic_words": [
+    
+  ]
+}

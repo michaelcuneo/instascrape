@@ -1,0 +1,20 @@
+{
+  "account_history_account_privacy_history": [
+    {
+      "title": "Switched to private",
+      "string_list_data": [
+        {
+          "timestamp": 1481378952
+        }
+      ]
+    },
+    {
+      "title": "Switched to public",
+      "string_list_data": [
+        {
+          "timestamp": 1481378949
+        }
+      ]
+    }
+  ]
+}

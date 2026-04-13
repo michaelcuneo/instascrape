@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u008c\u0099"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u008c\u0099",
+      "timestamp_ms": 1703716967901,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u008c\u0099",
+      "timestamp_ms": 1703716859518,
+      "content": "Great, it\u00e2\u0080\u0099s 0415459783 \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1703716936
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1703715421674,
+      "content": "Of course. What\u00e2\u0080\u0099s your contact number?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009f\u008c\u0099",
+          "timestamp": 1703716967
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u008c\u0099",
+      "timestamp_ms": 1703715117908,
+      "content": "Hi, would it be possible to book a table for 4 pax on Friday at 5pm for an early dinner?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u008c\u0099",
+      "timestamp_ms": 1701757632071,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u008c\u0099",
+      "timestamp_ms": 1701757630494,
+      "content": "Lovely! Sounds good. Will keep an eye out.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1701764930
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1701754186588,
+      "content": "Hey Selly, we\u00e2\u0080\u0099re working on a full kids menu this week. We\u00e2\u0080\u0099ve been waiting on our deepfryer to be installed so we can offer chips too. \n\nWe\u00e2\u0080\u0099ve got 1/2 chicken schnitzel and a kids pasta available at the moment",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009f\u008c\u0099",
+          "timestamp": 1701757632
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u008c\u0099",
+      "timestamp_ms": 1701742659107,
+      "content": "Hey there, does the oak have a children\u00e2\u0080\u0099s menu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u008c\u0099",
+  "is_still_participant": true,
+  "thread_path": "inbox/881199500130848",
+  "magic_words": [
+    
+  ]
+}

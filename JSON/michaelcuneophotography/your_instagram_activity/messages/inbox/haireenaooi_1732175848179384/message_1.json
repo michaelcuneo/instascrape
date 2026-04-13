@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Haireena Ooi"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Haireena Ooi",
+      "timestamp_ms": 1746520468911,
+      "content": "Haireena sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Michael Cuneo Photography"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DGGaHYUPH5S/?id=3568654611092635218_14311306040",
+        "share_text": "I\u00e2\u0080\u0099d like to address some complaints.\n\nA gentleman scolded me on Facebook for not posting enough cooking videos. A woman complained that I don\u00e2\u0080\u0099t post enough ASMR eating videos and that\u00e2\u0080\u0099s the only reason she follows me. Here\u00e2\u0080\u0099s the thing, I have thousands of reels covering a variety of content. I keep things fresh and feed the algorithm accordingly.\n\nBearded dragons cannot eat bugs every day, it\u00e2\u0080\u0099s unhealthy. I film when it works out, but not every mealtime is a production. The dragons are reptiles and are treated as such. If they\u00e2\u0080\u0099re in the mood and I\u00e2\u0080\u0099m in the mood, we create something fun. But it\u00e2\u0080\u0099s never guaranteed.\n\nReminder: I\u00e2\u0080\u0099m just a girl doing my best. I\u00e2\u0080\u0099ll never make everyone 100% happy, and I wouldn\u00e2\u0080\u0099t even try, because that\u00e2\u0080\u0099s just silly.",
+        "original_content_owner": "whosagoodlizard"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Haireena Ooi",
+  "is_still_participant": true,
+  "thread_path": "inbox/haireenaooi_1732175848179384",
+  "magic_words": [
+    
+  ]
+}

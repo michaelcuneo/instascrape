@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Mel Filbey"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mel Filbey",
+      "timestamp_ms": 1725085696591,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1725085501344,
+      "content": "Hey sounds good mate. Feel free to book online here :)\n\nhttps://bookings.obeeapp.com/theoaktigheshill",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Mel Filbey",
+          "timestamp": 1725085696
+        }
+      ],
+      "share": {
+        "link": "https://bookings.obeeapp.com/theoaktigheshill",
+        "share_text": "Hey sounds good mate. Feel free to book online here :)\n\nhttps://bookings.obeeapp.com/theoaktigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mel Filbey",
+      "timestamp_ms": 1725070770094,
+      "content": "Hey there! \nJust wondering if you happen to have a table available for 4 people tomorrow at 12pm for lunch.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mel Filbey",
+      "timestamp_ms": 1714192720879,
+      "content": "Legend. Thanks heaps",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1714192676447,
+      "content": "No problem.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mel Filbey",
+      "timestamp_ms": 1714192645480,
+      "content": "Hi there, is it possible to book a table for dinner tonight at 6pm for 6 ppl. Inside please.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mel Filbey",
+      "timestamp_ms": 1704350402566,
+      "content": "Sure can. 0402281976. Thanks heaps!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1704357217
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1704350383257,
+      "content": "Not a problem. Can I get a contact number please?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mel Filbey",
+      "timestamp_ms": 1704350348141,
+      "content": "Can we make that 10pax",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mel Filbey",
+      "timestamp_ms": 1704348955752,
+      "content": "Hi, is it possible to book a table tomorrow for lunch at 12.30pm. 8pax. Outside if possible. Thanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mel Filbey",
+  "is_still_participant": true,
+  "thread_path": "inbox/melfilbey_851205823130216",
+  "magic_words": [
+    
+  ]
+}

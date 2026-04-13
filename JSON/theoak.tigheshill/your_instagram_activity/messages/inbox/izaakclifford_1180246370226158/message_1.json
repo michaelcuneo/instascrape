@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Izaak Clifford"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Izaak Clifford",
+      "timestamp_ms": 1743055262016,
+      "content": "Amazing, thanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1743055250924,
+      "content": "Hey mate, drop Justan our band booker an email\n\nOakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Izaak Clifford",
+      "timestamp_ms": 1743055009253,
+      "content": "Hey there! Just wanted to ask about booking a show here and who'd be best to contact. Thanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Izaak Clifford",
+  "is_still_participant": true,
+  "thread_path": "inbox/izaakclifford_1180246370226158",
+  "magic_words": [
+    
+  ]
+}

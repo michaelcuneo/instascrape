@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Infinite Skies"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Infinite Skies",
+      "timestamp_ms": 1723503077535,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1723498637903,
+      "content": "Oakbandbooking@gmail.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Infinite Skies",
+          "timestamp": 1723503077
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Infinite Skies",
+      "timestamp_ms": 1723467722135,
+      "content": "Hey there,\n\nMy name is Anna\u00c3\u00afs from Infinite Skies. We\u00e2\u0080\u0099re a funky, energetic synth-pop band from Sydney looking to tour to Newcastle later in the year  and I was wondering if you have an email where I could contact your booking agent to book a show with you guys? \n\nI couldn\u00e2\u0080\u0099t find any email online. \n\nCheers!\nAnna\u00c3\u00afs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Infinite Skies",
+  "is_still_participant": true,
+  "thread_path": "inbox/infiniteskies_1025539305696866",
+  "magic_words": [
+    
+  ]
+}

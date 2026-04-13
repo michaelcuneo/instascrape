@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u008c\u0099   \u00c5\u0086\u00c9\u00a8\u00ca\u008d  _   \u00f0\u009d\u0096\u009d\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u008e"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738648588419,
+      "content": "Ken\u00e2\u0080\u0099s doing a set and a few other peeps. \u00f0\u009f\u00a4\u009e",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738648573286,
+      "content": "Hey pal it\u00e2\u0080\u0099s Dunny. I\u00e2\u0080\u0099ve pulled this together for tonight if you wanna come jam.\n\nhttps://www.instagram.com/reel/DFo67wGSgOu/?igsh=MW5sdW45NTFoejBwaw==",
+      "share": {
+        "link": "https://www.instagram.com/reel/DFo67wGSgOu/?igsh=MW5sdW45NTFoejBwaw==",
+        "share_text": "Hey pal it\u00e2\u0080\u0099s Dunny. I\u00e2\u0080\u0099ve pulled this together for tonight if you wanna come jam.\n\nhttps://www.instagram.com/reel/DFo67wGSgOu/?igsh=MW5sdW45NTFoejBwaw=="
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u008c\u0099   \u00c5\u0086\u00c9\u00a8\u00ca\u008d  _   \u00f0\u009d\u0096\u009d\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/n_xiii_1143873037196825",
+  "magic_words": [
+    
+  ]
+}

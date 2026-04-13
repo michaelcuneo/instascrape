@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "SAMUEL THOMAS"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SAMUEL THOMAS",
+      "timestamp_ms": 1747881316503,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1747881289655,
+      "content": "Hey mate, Contact oakbandbooking@gmail.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "SAMUEL THOMAS"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SAMUEL THOMAS",
+      "timestamp_ms": 1747880298344,
+      "content": "Hi guys, \n\nMy name is Sam from \u00e2\u0080\u009cSamuel Thomas\u00e2\u0080\u009d. \n\nLooking to book a show for my band with other local artist when you guys had a free date available? \nI would organise the support acts for the show unless you guys wanted to. \n\nI\u00e2\u0080\u0099ve provided some links below of our socials and Spotify, hope I hear from you guys soon \n\nCheers, Sam \n\nInstagram: \nhttps://www.instagram.com/samuelthomasmusic?igsh=MTg2bGZtY2VwenZ6MQ%3D%3D&utm_source=qr\n\nSpotify: \nhttps://open.spotify.com/track/3DTrjqVD09QlVTjRcKibLm?si=AL23imn1TRiMdWujZPZiZA",
+      "share": {
+        "link": "https://www.instagram.com/_u/samuelthomasmusic",
+        "profile_share_username": "samuelthomasmusic",
+        "profile_share_name": "SAMUEL THOMAS"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SAMUEL THOMAS",
+  "is_still_participant": true,
+  "thread_path": "inbox/samuelthomas_1221474876103307",
+  "magic_words": [
+    
+  ]
+}

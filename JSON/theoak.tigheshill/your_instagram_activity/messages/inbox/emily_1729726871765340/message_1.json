@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "emily"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1766223586093,
+      "content": "Around 11:30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "emily",
+      "timestamp_ms": 1766223345926,
+      "content": "hey what time does it end?",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3791430778635870764"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "emily",
+  "is_still_participant": true,
+  "thread_path": "inbox/emily_1729726871765340",
+  "magic_words": [
+    
+  ]
+}

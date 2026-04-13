@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Paul Kelly"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1766313884772,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3792437886985543571"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Paul Kelly",
+  "is_still_participant": true,
+  "thread_path": "inbox/paulkelly_1389105656006894",
+  "magic_words": [
+    
+  ]
+}

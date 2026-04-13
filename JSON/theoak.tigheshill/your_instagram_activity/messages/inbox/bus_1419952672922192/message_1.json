@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "bus"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "bus",
+      "timestamp_ms": 1770774945336,
+      "content": "Legend mate cheers!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1770772429377,
+      "content": "Hey man it\u00e2\u0080\u0099s Dunny. I will pass this on to our dj booker",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "bus",
+      "timestamp_ms": 1769837160778,
+      "content": "Hey! I met Dunny last night and he said to reach out about Djing at The Oak. I\u00e2\u0080\u0099ve been playing professionally for over 4 years now and have a wide array of music tailored for lots of different crowds, my bread and butter being all forms of house music. My Dj account is @busxmusic. Happy to send through some mixes if you\u00e2\u0080\u0099d like as well. Thanks in advance!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "bus",
+  "is_still_participant": true,
+  "thread_path": "inbox/bus_1419952672922192",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Anita Amory"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anita Amory",
+      "timestamp_ms": 1702002154183,
+      "content": "You have pending appointment request",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1701932247679,
+      "content": "Won\u00e2\u0080\u0099t be a problem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anita Amory",
+      "timestamp_ms": 1701915750051,
+      "content": "You can now schedule and manage appointments in chat. Learn more.(https://help.instagram.com/1043402509628629)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anita Amory",
+      "timestamp_ms": 1701915749812,
+      "content": "Anita sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anita Amory",
+      "timestamp_ms": 1701915720060,
+      "content": "Hi, wasn\u00e2\u0080\u0099t sure if I needed to book a table, but can I please book a table for dinner for 4 at 6:30pm tonight?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anita Amory",
+  "is_still_participant": true,
+  "thread_path": "inbox/anitaamory_1315252726541988",
+  "magic_words": [
+    
+  ]
+}

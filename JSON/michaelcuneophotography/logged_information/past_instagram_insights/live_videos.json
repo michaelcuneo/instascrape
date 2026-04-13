@@ -1,0 +1,80 @@
+{
+  "organic_insights_live": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Start time": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Duration": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Accounts reached": {
+          "href": "",
+          "value": "--",
+          "timestamp": 0
+        },
+        "Peak concurrent viewers": {
+          "href": "",
+          "value": "--",
+          "timestamp": 0
+        },
+        "Comments": {
+          "href": "",
+          "value": "--",
+          "timestamp": 0
+        },
+        "Shares": {
+          "href": "",
+          "value": "--",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Start time": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Duration": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Accounts reached": {
+          "href": "",
+          "value": "--",
+          "timestamp": 0
+        },
+        "Peak concurrent viewers": {
+          "href": "",
+          "value": "--",
+          "timestamp": 0
+        },
+        "Comments": {
+          "href": "",
+          "value": "--",
+          "timestamp": 0
+        },
+        "Shares": {
+          "href": "",
+          "value": "--",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

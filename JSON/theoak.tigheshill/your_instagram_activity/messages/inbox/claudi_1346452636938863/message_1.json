@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "CLAUDI"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CLAUDI",
+      "timestamp_ms": 1762038907435,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762035631770,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1761817545420,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1761545145883,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3752434969838972316"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CLAUDI",
+      "timestamp_ms": 1761544495218,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "CLAUDI",
+  "is_still_participant": true,
+  "thread_path": "inbox/claudi_1346452636938863",
+  "magic_words": [
+    
+  ]
+}

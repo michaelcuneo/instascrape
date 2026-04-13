@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Linc"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1746665671774,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Linc",
+      "timestamp_ms": 1746665669894,
+      "content": "Hey guys! I\u00e2\u0080\u0099m on the lookout for some bar shifts. \nHave been in hospo for 15 years. Working as a barista right now but wanting some extra shifts. \nCompetent in all bar duties (I\u00e2\u0080\u0099m a gun) and looking to start sometime next week. \nValid RSA and but haven\u00e2\u0080\u0099t had an RCG for a while. Hard worker and sometimes hilarious. \nLet me know if you want me to come for a chat or call 0456 733 266. \n\nCheers \u00f0\u009f\u00a4\u0099\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Linc",
+  "is_still_participant": true,
+  "thread_path": "inbox/linc_1212058713711590",
+  "magic_words": [
+    
+  ]
+}

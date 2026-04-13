@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "jas \u00f0\u009f\u0092\u009b"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "jas \u00f0\u009f\u0092\u009b",
+      "timestamp_ms": 1747654423027,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "jas \u00f0\u009f\u0092\u009b",
+      "timestamp_ms": 1746448182890,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "jas \u00f0\u009f\u0092\u009b",
+  "is_still_participant": true,
+  "thread_path": "inbox/jas_1210291813888280",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Jessica Keegan"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jessica Keegan",
+      "timestamp_ms": 1701502627522,
+      "content": "Awesome. Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1701499432082,
+      "content": "We sure are. We just ask that dogs are kept out of the dining area while the kitchen is open.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jessica Keegan",
+      "timestamp_ms": 1701499353523,
+      "content": "Are you dog friendly?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jessica Keegan",
+  "is_still_participant": true,
+  "thread_path": "inbox/jessicakeegan_879708200279978",
+  "magic_words": [
+    
+  ]
+}

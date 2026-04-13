@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Kate Bowrey"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kate Bowrey",
+      "timestamp_ms": 1711778861700,
+      "content": "Only open for two hour?",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3334743431183984303"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kate Bowrey",
+  "is_still_participant": true,
+  "thread_path": "inbox/katebowrey_945272797056851",
+  "magic_words": [
+    
+  ]
+}

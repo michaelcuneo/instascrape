@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Callum Cramp"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1725040468428,
+      "content": "OakBandBooking@gmail.com\n\nJustin is the band Booker :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Callum Cramp",
+      "timestamp_ms": 1724936129400,
+      "content": "Hi oaks,\n\nI\u00e2\u0080\u0099ve heard Andrew Dune is booking for you guys now! Do you happen to have an email address or phone number I could reach him on about booking a band at the oaks?\n\nThank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Callum Cramp",
+  "is_still_participant": true,
+  "thread_path": "inbox/callumcramp_1441529837249112",
+  "magic_words": [
+    
+  ]
+}

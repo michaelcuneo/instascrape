@@ -1,0 +1,221 @@
+{
+  "participants": [
+    {
+      "name": "Josie Heffernan"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1734522696715,
+      "content": "Done mate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josie Heffernan",
+      "timestamp_ms": 1734521377235,
+      "content": "Hiya! Can I please book a table for 6 for triv tomorrow night? Andy directed bookings to here\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1734522692
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josie Heffernan",
+      "timestamp_ms": 1723102855572,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1723102326176,
+      "content": "Weird, someone might have been on the phone.\n\nI just called 02 4961 1977 to let the staff know to cancel your booking.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Josie Heffernan",
+          "timestamp": 1723102855
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josie Heffernan",
+      "timestamp_ms": 1723101699650,
+      "content": "P.s your phone line isn\u00e2\u0080\u0099t working hence the insta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josie Heffernan",
+      "timestamp_ms": 1723101678941,
+      "content": "Hiya, can you please cancel our booking for tonight? Under Josie. Everyone bailed \u00f0\u009f\u0098\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josie Heffernan",
+      "timestamp_ms": 1721198688453,
+      "content": "Good luck tonight \u00f0\u009f\u00ab\u00a1",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1721198836
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josie Heffernan",
+      "timestamp_ms": 1721198672495,
+      "content": "Sorry team! Okay I just booked a table for triv through the \u00e2\u0080\u0098book a table\u00e2\u0080\u0099 link",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1721198837
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1721198466870,
+      "content": "Soz we\u00e2\u0080\u0099re busy getting pumped for origin, come down",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1721198447929,
+      "content": "Link in bio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josie Heffernan",
+      "timestamp_ms": 1721195977434,
+      "content": "Hiya, can I please book a table of 7 for trivia tomorrow night? If you still do it through here?! \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josie Heffernan",
+      "timestamp_ms": 1716858679927,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1716857210569,
+      "content": "Can do",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Josie Heffernan",
+          "timestamp": 1716858679
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josie Heffernan",
+      "timestamp_ms": 1716812983126,
+      "content": "Can I grab a table for trivia this Thursday? Roughly 6 people \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josie Heffernan",
+      "timestamp_ms": 1712826132438,
+      "content": "Parking soz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josie Heffernan",
+      "timestamp_ms": 1712826125856,
+      "content": "No coming!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1712826006911,
+      "content": "Still in for trivia? Or should we resist the table?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josie Heffernan",
+      "timestamp_ms": 1712801700175,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1712798083542,
+      "content": "Of course.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Josie Heffernan",
+          "timestamp": 1712801700
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josie Heffernan",
+      "timestamp_ms": 1712797871584,
+      "content": "Hi there, can I please book a table for 8 for trivia tonight?!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josie Heffernan",
+      "timestamp_ms": 1705454064064,
+      "content": "0434783397 \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1705454042401,
+      "content": "Not a problem. Can I get a contact number please?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josie Heffernan",
+      "timestamp_ms": 1705450112738,
+      "content": "Hiya, can I book a table of 6 for trivia tomorrow night please? If you do it through here! \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Josie Heffernan",
+  "is_still_participant": true,
+  "thread_path": "inbox/josieheffernan_904945494422915",
+  "magic_words": [
+    
+  ]
+}

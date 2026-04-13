@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u0099\u00a1\u00ef\u00b8\u008e \u00f0\u009d\u0091\u00ac\u00f0\u009d\u0092\u008e\u00f0\u009d\u0092\u008e\u00f0\u009d\u0092\u0082 \u00e2\u0099\u00a1\u00ef\u00b8\u008e"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1747747870148,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3636695150967202303"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u0099\u00a1\u00ef\u00b8\u008e \u00f0\u009d\u0091\u00ac\u00f0\u009d\u0092\u008e\u00f0\u009d\u0092\u008e\u00f0\u009d\u0092\u0082 \u00e2\u0099\u00a1\u00ef\u00b8\u008e",
+      "timestamp_ms": 1747740070704,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u0099\u00a1\u00ef\u00b8\u008e \u00f0\u009d\u0091\u00ac\u00f0\u009d\u0092\u008e\u00f0\u009d\u0092\u008e\u00f0\u009d\u0092\u0082 \u00e2\u0099\u00a1\u00ef\u00b8\u008e",
+      "timestamp_ms": 1738490201403,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e2\u0099\u00a1\u00ef\u00b8\u008e \u00f0\u009d\u0091\u00ac\u00f0\u009d\u0092\u008e\u00f0\u009d\u0092\u008e\u00f0\u009d\u0092\u0082 \u00e2\u0099\u00a1\u00ef\u00b8\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/emma_1127697962153527",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Krystina Scotch"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1703191506460,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krystina Scotch",
+      "timestamp_ms": 1703166389669,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Krystina Scotch",
+  "is_still_participant": true,
+  "thread_path": "inbox/krystinascotch_890128285904636",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Florence-Daisy Diffey"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1750672917276,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3661232030912335255"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Florence-Daisy Diffey",
+      "timestamp_ms": 1750671052141,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Florence-Daisy Diffey",
+  "is_still_participant": true,
+  "thread_path": "inbox/florencedaisydiffey_1202549237995871",
+  "magic_words": [
+    
+  ]
+}

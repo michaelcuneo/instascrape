@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Caitlin Drew"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Caitlin Drew",
+      "timestamp_ms": 1731562479199,
+      "content": "Cheers for that \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1729729650892,
+      "content": "Hey mate, drop our band booker an email\u00e2\u0080\u00a6\n\nOakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Caitlin Drew",
+      "timestamp_ms": 1729505051725,
+      "content": "owdy\n\nI am a travelling musician and have been given your details by a fellow musician. I will be in the Newcastle region from February 1st to February 28th and was hoping you had some free dates in your venue? \n\nMy socials are below which will give you an look into my style\n\nPlease let me know if you are interested and I can forward you more information pricing etc :)\n\nI currently have the 2nd, 14th, 23rd and 28th already taken\n\nLook forward to hearing your response",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Caitlin Drew",
+  "is_still_participant": true,
+  "thread_path": "inbox/caitlindrew_1073335340917262",
+  "magic_words": [
+    
+  ]
+}

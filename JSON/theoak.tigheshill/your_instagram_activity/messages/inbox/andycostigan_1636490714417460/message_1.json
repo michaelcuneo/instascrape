@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Andy Costigan"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1765437747179,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1761190645409,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760416537317,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1746925470257,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3629796219155063124"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1745889669352,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3621107335306784280"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andy Costigan",
+      "timestamp_ms": 1732224827268,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andy Costigan",
+      "timestamp_ms": 1731995572342,
+      "content": "thanks. i'll check it out",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1731110438303,
+      "content": "https://www.captions.ai/blog-post/instagram-collab-posts",
+      "share": {
+        "link": "https://www.captions.ai/blog-post/instagram-collab-posts",
+        "share_text": "https://www.captions.ai/blog-post/instagram-collab-posts"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1731107905424,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DCIOHlFtEee/?id=3497107204164831134_29666268335",
+        "share_text": "Break out your best Hula or just come and bask in this beautiful pub, with some beautiful people, playing some beautiful Hawaiian jazz.\n\nSounds Beautiful, also beautiful.\n\n\u00e2\u0080\u009cSome of Newcastle most talented musicans, including the godfather of Newcastles music scene Mr. Andy Costigan (PS: I want his hat)\u00e2\u0080\u009d, Dunny.",
+        "original_content_owner": "theoak.tigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1727302265411,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andy Costigan",
+  "is_still_participant": true,
+  "thread_path": "inbox/andycostigan_1636490714417460",
+  "magic_words": [
+    
+  ]
+}

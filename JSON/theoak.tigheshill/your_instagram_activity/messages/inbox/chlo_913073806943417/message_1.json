@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "chlo"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "chlo",
+      "timestamp_ms": 1728891559571,
+      "content": "No worries!! I found it today and booked, sorry I couldn\u00e2\u0080\u0099t find the proper link to book through earlier",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1728891057451,
+      "content": "https://bookings.obeeapp.com/theoaktigheshill",
+      "share": {
+        "link": "https://bookings.obeeapp.com/theoaktigheshill",
+        "share_text": "https://bookings.obeeapp.com/theoaktigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1728891013139,
+      "content": "Hey mate can you try our online booking service:",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "chlo",
+      "timestamp_ms": 1728860028218,
+      "content": "May I pls book a table of 4 for trivia this Thursday :))",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "chlo",
+      "timestamp_ms": 1720503255019,
+      "content": "And this is why the oak is my fave",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1720503761
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "chlo",
+      "timestamp_ms": 1719371616976,
+      "content": "Ooooh that\u00e2\u0080\u0099s the stuff! Yeeha. Thanks heaps!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1719366434031,
+      "content": "Sure will! Schnitty night too. \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "chlo",
+      "timestamp_ms": 1719366404842,
+      "content": "Hello hello!! Will the oak be playing the second game of origin tonight?! \u00f0\u009f\u0091\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "chlo",
+  "is_still_participant": true,
+  "thread_path": "inbox/chlo_913073806943417",
+  "magic_words": [
+    
+  ]
+}

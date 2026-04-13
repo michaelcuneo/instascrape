@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Caitlin Robson"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Caitlin Robson",
+      "timestamp_ms": 1746869180491,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Caitlin Robson",
+  "is_still_participant": true,
+  "thread_path": "inbox/caitlinrobson_1213570553560406",
+  "magic_words": [
+    
+  ]
+}

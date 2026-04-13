@@ -1,0 +1,32 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Locations of interest",
+      "vec": [
+        {
+          "value": "Woodberry, New South Wales"
+        },
+        {
+          "value": "Boggabri, New South Wales"
+        },
+        {
+          "value": "Cessnock, New South Wales"
+        },
+        {
+          "value": "Newcastle, New South Wales"
+        },
+        {
+          "value": "New South Wales"
+        }
+      ]
+    },
+    {
+      "label": "Usage explanation",
+      "value": "Locations of interest are used to personalise your experience on Instagram and show you more relevant ads. Learn more about how Instagram uses location in Privacy Centre."
+    }
+  ],
+  "fbid": "17841403182670126"
+}

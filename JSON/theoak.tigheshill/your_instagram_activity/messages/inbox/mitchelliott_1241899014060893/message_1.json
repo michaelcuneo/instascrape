@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Mitch Elliott"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mitch Elliott",
+      "timestamp_ms": 1750379316604,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mitch Elliott",
+      "timestamp_ms": 1750370413144,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mitch Elliott",
+      "timestamp_ms": 1750296997589,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mitch Elliott",
+  "is_still_participant": true,
+  "thread_path": "inbox/mitchelliott_1241899014060893",
+  "magic_words": [
+    
+  ]
+}

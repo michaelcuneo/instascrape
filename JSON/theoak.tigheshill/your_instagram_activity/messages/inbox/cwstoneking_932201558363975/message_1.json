@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "C.W. Stoneking"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713955527019,
+      "content": "Hey mate, you left like 10 posters here after the gig. How can I get them back to you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "C.W. Stoneking",
+      "timestamp_ms": 1709678321389,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "C.W. Stoneking",
+  "is_still_participant": true,
+  "thread_path": "inbox/cwstoneking_932201558363975",
+  "magic_words": [
+    
+  ]
+}

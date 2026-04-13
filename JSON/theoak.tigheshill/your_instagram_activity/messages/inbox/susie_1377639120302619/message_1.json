@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Susie :)"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Susie :)",
+      "timestamp_ms": 1710038332601,
+      "content": "Reacted \u00f0\u009f\u0098\u00a2 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1710038321304,
+      "content": "Unfortunately our bistro closes at 4pm today",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Susie :)",
+          "timestamp": 1710038332
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Susie :)",
+      "timestamp_ms": 1710037580809,
+      "content": "We were thinking for tonight at 6:30? There are 8 of us and the best contact is\nSusie Webb on 0448265969",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1710037523598,
+      "content": "Sure do. When are you thinking? How many people, and can I get a contact name and number?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Susie :)",
+      "timestamp_ms": 1710037459242,
+      "content": "Hey do you guys take bookings?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Susie :)",
+  "is_still_participant": true,
+  "thread_path": "inbox/susie_1377639120302619",
+  "magic_words": [
+    
+  ]
+}

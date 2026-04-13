@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "KNEECAP"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1741427946350,
+      "content": "What are the chances of a secret gig at the oak?\n\nOur Irish owner Fkn loves you guys!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "KNEECAP",
+  "is_still_participant": true,
+  "thread_path": "inbox/kneecap_1166537564930372",
+  "magic_words": [
+    
+  ]
+}

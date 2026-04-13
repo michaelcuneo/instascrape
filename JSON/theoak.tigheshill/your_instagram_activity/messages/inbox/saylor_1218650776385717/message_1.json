@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Saylor"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Saylor",
+      "timestamp_ms": 1747535464876,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Saylor",
+  "is_still_participant": true,
+  "thread_path": "inbox/saylor_1218650776385717",
+  "magic_words": [
+    
+  ]
+}

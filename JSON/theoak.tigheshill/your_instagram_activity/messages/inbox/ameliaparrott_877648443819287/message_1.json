@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Amelia Parrott"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1701254202396,
+      "content": "Hey Amelia, I\u00e2\u0080\u0099ll get the guys to check",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amelia Parrott",
+      "timestamp_ms": 1701157051469,
+      "content": "Hi folks, has a black corduroy jacket made its way to your lost property by any chance?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amelia Parrott",
+  "is_still_participant": true,
+  "thread_path": "inbox/ameliaparrott_877648443819287",
+  "magic_words": [
+    
+  ]
+}

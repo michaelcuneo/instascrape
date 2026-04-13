@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Deb Nicholson"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Deb Nicholson",
+      "timestamp_ms": 1703283608476,
+      "content": "Roy would love that. Reminiscent of the Bay in the 80s!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1703284308
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3263371148577743736"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Deb Nicholson",
+  "is_still_participant": true,
+  "thread_path": "inbox/debnicholson_296054668645337",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Rudderless Records\u00f0\u009f\u00a4\u009e"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1753247601282,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3682830104331743065"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rudderless Records\u00f0\u009f\u00a4\u009e",
+      "timestamp_ms": 1753246571575,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rudderless Records\u00f0\u009f\u00a4\u009e",
+      "timestamp_ms": 1752283844224,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752282734188,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Rudderless Records\u00f0\u009f\u00a4\u009e"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rudderless Records\u00f0\u009f\u00a4\u009e",
+      "timestamp_ms": 1746856699581,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1746846244621,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Rudderless Records\u00f0\u009f\u00a4\u009e"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DJdQ1Auyzq7/?id=3629130886392003259_29666268335",
+        "share_text": "SPIN THIRST TRAP",
+        "original_content_owner": "theoak.tigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1739162118436,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rudderless Records\u00f0\u009f\u00a4\u009e",
+      "timestamp_ms": 1739153789504,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rudderless Records\u00f0\u009f\u00a4\u009e",
+  "is_still_participant": true,
+  "thread_path": "inbox/rudderlessrecords_1147731016811027",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "thee cha cha chas"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "thee cha cha chas",
+      "timestamp_ms": 1725665742351,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "thee cha cha chas",
+  "is_still_participant": true,
+  "thread_path": "inbox/theechachachas_1041814184069378",
+  "magic_words": [
+    
+  ]
+}

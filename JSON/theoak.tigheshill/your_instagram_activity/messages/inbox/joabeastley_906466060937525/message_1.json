@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Joab Eastley"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Joab Eastley",
+      "timestamp_ms": 1705672530680,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Joab Eastley",
+  "is_still_participant": true,
+  "thread_path": "inbox/joabeastley_906466060937525",
+  "magic_words": [
+    
+  ]
+}

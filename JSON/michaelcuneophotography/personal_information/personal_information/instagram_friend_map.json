@@ -1,0 +1,22 @@
+{
+  "profile_friend_map": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Incoming requests": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Outgoing requests": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

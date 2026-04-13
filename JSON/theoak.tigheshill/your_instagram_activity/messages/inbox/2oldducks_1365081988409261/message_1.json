@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "2 Old Ducks"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2 Old Ducks",
+      "timestamp_ms": 1764214512453,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/2oldducks_1365081988409261/photos/1341190503991545.jpg",
+          "creation_timestamp": 1764214510
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1763501524136,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2 Old Ducks",
+      "timestamp_ms": 1763501523075,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2 Old Ducks",
+      "timestamp_ms": 1763501522848,
+      "content": "Hi, I\u00e2\u0080\u0099m Ann and together with my husband Brett we are raising money for the Cancer Council in next years Mystery Box Rally!\nDo you have someone that collects your cans and bottles for recycling? Would you consider donating yours to us? 100% will go directly to the Cancer Council. I could pick them up as often as suits you. \nPlease message us here or call or text 0457008365. We\u00e2\u0080\u0099d be so grateful. \nAnn (one of the old ducks)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "2 Old Ducks",
+  "is_still_participant": true,
+  "thread_path": "inbox/2oldducks_1365081988409261",
+  "magic_words": [
+    
+  ]
+}

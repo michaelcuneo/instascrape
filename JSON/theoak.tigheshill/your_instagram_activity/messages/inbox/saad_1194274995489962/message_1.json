@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Saad"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Saad",
+      "timestamp_ms": 1744603099213,
+      "content": "Okay great, thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1744602867962,
+      "content": "Lunch only usually. Happy to sort one for dinner today though",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Saad",
+      "timestamp_ms": 1744602088426,
+      "content": "Is the roast beef roll available for dinner or lunch only?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Saad",
+  "is_still_participant": true,
+  "thread_path": "inbox/saad_1194274995489962",
+  "magic_words": [
+    
+  ]
+}

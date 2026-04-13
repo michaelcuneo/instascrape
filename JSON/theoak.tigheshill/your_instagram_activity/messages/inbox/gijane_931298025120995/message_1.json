@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "G I JANE"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "G I JANE",
+      "timestamp_ms": 1710051450799,
+      "content": "Great food and great atmosphere. Thanks for having us \u00f0\u009f\u008e\u00b8\u00f0\u009f\u008e\u00a4\u00f0\u009f\u008e\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1710054391
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1709613134812,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3316797360403133511"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "G I JANE",
+      "timestamp_ms": 1709533823814,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "G I JANE",
+  "is_still_participant": true,
+  "thread_path": "inbox/gijane_931298025120995",
+  "magic_words": [
+    
+  ]
+}

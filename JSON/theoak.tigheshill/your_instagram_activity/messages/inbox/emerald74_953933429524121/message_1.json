@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Emerald 74"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Emerald 74",
+      "timestamp_ms": 1737591716808,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3550882258485948765"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emerald 74",
+      "timestamp_ms": 1720517075700,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3408045912583834494"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emerald 74",
+      "timestamp_ms": 1713097256104,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3345651972160570958"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Emerald 74",
+  "is_still_participant": true,
+  "thread_path": "inbox/emerald74_953933429524121",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Adele Money - Money Mentor"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1696748555244,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3208881894513796282"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adele Money - Money Mentor",
+      "timestamp_ms": 1696748445077,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Adele Money - Money Mentor",
+  "is_still_participant": true,
+  "thread_path": "inbox/adelemoneymoneymentor_851152373135561",
+  "magic_words": [
+    
+  ]
+}

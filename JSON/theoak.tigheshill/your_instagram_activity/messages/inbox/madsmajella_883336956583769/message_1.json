@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "mads majella"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "mads majella",
+      "timestamp_ms": 1702103240122,
+      "content": "We\u00e2\u0080\u0099ll come and check it out anyway",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1702103784
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "mads majella",
+      "timestamp_ms": 1702103232124,
+      "content": "Ok \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1702102449396,
+      "content": "Hey Mads, we\u00e2\u0080\u0099re pretty full for bookings but we\u00e2\u0080\u0099ve generally got space at the bar for walk ins if you like",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "mads majella",
+      "timestamp_ms": 1702102240222,
+      "content": "Hi! Can I come for dinner tonight for 3 people around 7:20",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "mads majella",
+  "is_still_participant": true,
+  "thread_path": "inbox/madsmajella_883336956583769",
+  "magic_words": [
+    
+  ]
+}

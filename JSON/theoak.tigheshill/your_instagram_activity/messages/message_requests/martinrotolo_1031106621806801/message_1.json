@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Martin Rotolo"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Martin Rotolo",
+      "timestamp_ms": 1724228844525,
+      "content": "Is it on tonight?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Martin Rotolo",
+  "is_still_participant": true,
+  "thread_path": "message_requests/martinrotolo_1031106621806801",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

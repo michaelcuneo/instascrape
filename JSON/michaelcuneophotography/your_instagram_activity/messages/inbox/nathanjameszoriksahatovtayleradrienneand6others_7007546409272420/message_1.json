@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Nathan James"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    },
+    {
+      "name": "\u00d0\u0096\u00d0\u00be\u00d1\u0080\u00d0\u00b8\u00d0\u00ba \u00d0\u00a1\u00d0\u00b0\u00d1\u0085\u00d0\u00b0\u00d1\u0082\u00d0\u00be\u00d0\u00b2"
+    },
+    {
+      "name": "tayler adrienne"
+    },
+    {
+      "name": "Wilson Hugo Vizgarra"
+    },
+    {
+      "name": "Instagram user"
+    },
+    {
+      "name": "Charles Byrom Hamm III"
+    },
+    {
+      "name": "Rui Ferreira"
+    },
+    {
+      "name": "kamala 1234"
+    },
+    {
+      "name": "Manuel Abraham Su\u00c3\u00a1rez Victorino"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Efren Pascua",
+      "timestamp_ms": 1766375278047,
+      "content": "Efren Pascua left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wilson Hugo Vizgarra",
+      "timestamp_ms": 1686016579420,
+      "content": "hello send photo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "tayler adrienne",
+      "timestamp_ms": 1685985421149,
+      "content": "tayler created the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nathan James, \u00d0\u0096\u00d0\u00be\u00d1\u0080\u00d0\u00b8\u00d0\u00ba \u00d0\u00a1\u00d0\u00b0\u00d1\u0085\u00d0\u00b0\u00d1\u0082\u00d0\u00be\u00d0\u00b2, tayler adrienne and 6 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/nathanjameszoriksahatovtayleradrienneand6others_7007546409272420",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

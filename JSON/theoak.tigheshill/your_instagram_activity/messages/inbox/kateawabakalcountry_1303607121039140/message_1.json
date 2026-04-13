@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "Kate (Awabakal country)"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1702518109527,
+      "content": "Sorted",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kate (Awabakal country)",
+      "timestamp_ms": 1702518001170,
+      "content": "Kate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kate (Awabakal country)",
+      "timestamp_ms": 1702517745954,
+      "content": "That\u00e2\u0080\u0099s great! Thanks. 0413583517",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1702514906383,
+      "content": "Only available from 7pm though",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1702514864131,
+      "content": "Can I get a contact number please?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1702514852890,
+      "content": "Got a table of 6 for you.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kate (Awabakal country)",
+      "timestamp_ms": 1702500604914,
+      "content": "That would be great. Thanks.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1702500579652,
+      "content": "Not a problem. I\u00e2\u0080\u0099ll drop you a message if we have any cancellations. \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kate (Awabakal country)",
+      "timestamp_ms": 1702500432977,
+      "content": "Thanks so much for your quick response. Bit too hot tonight for the courtyard - we\u00e2\u0080\u0099ll catch you another time.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1702500079047,
+      "content": "Hey kate, unfortunately we\u00e2\u0080\u0099re fully booked inside for tonight. There may be a few spots in the beer garden if you\u00e2\u0080\u0099d like to try your chances later on though",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kate (Awabakal country)",
+      "timestamp_ms": 1702498452043,
+      "content": "Hi Oak. I\u00e2\u0080\u0099m sending a message via Instagram and FB. Can we book a table at 6:30pm for 6 people tonight please? Thanks. Kate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kate (Awabakal country)",
+  "is_still_participant": true,
+  "thread_path": "inbox/kateawabakalcountry_1303607121039140",
+  "magic_words": [
+    
+  ]
+}

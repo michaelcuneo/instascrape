@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Bob Log III"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bob Log III",
+      "timestamp_ms": 1760067828554,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760059465971,
+      "content": "Great show lastnight mate!\n\nWe would love it if you\u00e2\u0080\u0099d like to make some toast and music at the Oak sometime.\n\nCheers Dunny",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bob Log III"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bob Log III",
+  "is_still_participant": true,
+  "thread_path": "inbox/boblogiii_1331468728437254",
+  "magic_words": [
+    
+  ]
+}

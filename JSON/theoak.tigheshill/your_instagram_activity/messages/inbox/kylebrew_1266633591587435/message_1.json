@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Kyle Brew"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1753497192770,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3684923841396599948"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kyle Brew",
+      "timestamp_ms": 1753492184857,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kyle Brew",
+      "timestamp_ms": 1753157583575,
+      "content": "Kyle sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DMZW75CSppf/?carousel_share_child_media_id=3682075043066190431_6084081457",
+        "share_text": "Orrite!\n\nThis weekend we\u00e2\u0080\u0099ll be launching the album in NSW! \n\nFriday 25th @chucktrailers \nSaturday 26th @theoak.tigheshill \n\nI\u00e2\u0080\u0099ll have a limited amount of vinyl and shirts available at the shows!\n\nBoth night supported by the the good time\u00e2\u0080\u0099n @huckleberry_devilsdandruff \n\nWe\u00e2\u0080\u0099ll be in party mode so see ya there. Both shows FREE ENTRY\n\nSick x",
+        "original_content_owner": "kyle_brew"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kyle Brew",
+  "is_still_participant": true,
+  "thread_path": "inbox/kylebrew_1266633591587435",
+  "magic_words": [
+    
+  ]
+}

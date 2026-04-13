@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "oski"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "oski",
+      "timestamp_ms": 1746851812807,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "oski",
+  "is_still_participant": true,
+  "thread_path": "inbox/oski_1213446030239525",
+  "magic_words": [
+    
+  ]
+}

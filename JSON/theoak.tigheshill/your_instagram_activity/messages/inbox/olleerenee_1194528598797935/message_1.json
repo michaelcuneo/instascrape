@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Ollee & Renee"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ollee & Renee",
+      "timestamp_ms": 1744630910642,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ollee & Renee",
+  "is_still_participant": true,
+  "thread_path": "inbox/olleerenee_1194528598797935",
+  "magic_words": [
+    
+  ]
+}

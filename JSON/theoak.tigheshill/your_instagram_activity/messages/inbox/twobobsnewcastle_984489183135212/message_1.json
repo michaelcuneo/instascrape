@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Two Bobs Newcastle"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Two Bobs Newcastle",
+      "timestamp_ms": 1717626474235,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1717627344
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Two Bobs Newcastle",
+  "is_still_participant": true,
+  "thread_path": "inbox/twobobsnewcastle_984489183135212",
+  "magic_words": [
+    
+  ]
+}

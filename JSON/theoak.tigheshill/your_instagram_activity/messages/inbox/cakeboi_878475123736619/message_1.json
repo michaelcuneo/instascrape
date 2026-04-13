@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Cakeboi"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cakeboi",
+      "timestamp_ms": 1701300510771,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1701297673958,
+      "content": "Hey Reece, got a few vegan options we\u00e2\u0080\u0099re working on. If you mention it to our bar staff our chef Max can hook you up with a few special dishes",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Cakeboi",
+          "timestamp": 1701300510
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cakeboi",
+      "timestamp_ms": 1701293274300,
+      "content": "Hey team, is the only vegan options leek and greens? Is there any mains? We are all so excited to come give the place a try.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1701297678
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3246985923904473844"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cakeboi",
+  "is_still_participant": true,
+  "thread_path": "inbox/cakeboi_878475123736619",
+  "magic_words": [
+    
+  ]
+}

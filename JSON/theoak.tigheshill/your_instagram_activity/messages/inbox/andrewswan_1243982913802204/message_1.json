@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Andrew Swan"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andrew Swan",
+      "timestamp_ms": 1751894218086,
+      "share": {
+        "link": "https://www.instagram.com/stories/iamandrewswan/3671477001028214747"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andrew Swan",
+  "is_still_participant": true,
+  "thread_path": "inbox/andrewswan_1243982913802204",
+  "magic_words": [
+    
+  ]
+}

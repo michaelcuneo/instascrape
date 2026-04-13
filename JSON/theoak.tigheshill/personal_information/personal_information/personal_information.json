@@ -1,0 +1,74 @@
+{
+  "profile_user": [
+    {
+      "title": "User Information",
+      "media_map_data": {
+        "Profile Photo": {
+          "uri": "media/other/18041346146595189.jpg",
+          "creation_timestamp": 1740967242,
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "cross_post_source": {
+            "source_app": "FB"
+          }
+        }
+      },
+      "string_map_data": {
+        "Email": {
+          "href": "",
+          "value": "josh@joshnicholsoncatering.com",
+          "timestamp": 0
+        },
+        "Phone Confirmed": {
+          "href": "",
+          "value": "False",
+          "timestamp": 0
+        },
+        "Username": {
+          "href": "",
+          "value": "theoak.tigheshill",
+          "timestamp": 0
+        },
+        "Name": {
+          "href": "",
+          "value": "The Oak Tighes Hill",
+          "timestamp": 0
+        },
+        "Bio": {
+          "href": "",
+          "value": "YOUR LOCAL \u00e2\u0080\u00a2 7 DAYS A WEEK\nHEAPS GOOD FOOD \nHEAPS GOOD LIQUOR \nHEAPS GOOD COMPANY\nFOR ALL BAND BOOKING ENQUIRES \u00f0\u009f\u0091\u0087\u00f0\u009f\u008f\u00bb \noakbandbooking@gmail.com",
+          "timestamp": 0
+        },
+        "Gender": {
+          "href": "",
+          "value": "unspecified",
+          "timestamp": 0
+        },
+        "Date of birth": {
+          "href": "",
+          "value": "1990-07-04",
+          "timestamp": 0
+        },
+        "Website": {
+          "href": "",
+          "value": "https://linktr.ee/theoak.tigheshill",
+          "timestamp": 0
+        },
+        "Private Account": {
+          "href": "",
+          "value": "False",
+          "timestamp": 0
+        },
+        "Emoji Pong High Score": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

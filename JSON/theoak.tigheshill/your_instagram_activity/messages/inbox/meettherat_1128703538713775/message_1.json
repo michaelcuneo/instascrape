@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Meet The Rat"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Meet The Rat",
+      "timestamp_ms": 1739145000772,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meet The Rat",
+      "timestamp_ms": 1736732138796,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Meet The Rat",
+  "is_still_participant": true,
+  "thread_path": "inbox/meettherat_1128703538713775",
+  "magic_words": [
+    
+  ]
+}

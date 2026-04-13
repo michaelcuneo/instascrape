@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "brooke murphy"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1747553714154,
+      "content": "Thank you brooke!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "brooke murphy",
+      "timestamp_ms": 1747200666135,
+      "content": "Heads up - I clicked on your menu on your website. And it made me view it in Canva which meant I had to sign in and view it in my Canva app - so it takes you away from the website.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "brooke murphy",
+  "is_still_participant": true,
+  "thread_path": "inbox/brookemurphy_1216099216640873",
+  "magic_words": [
+    
+  ]
+}

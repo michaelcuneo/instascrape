@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Katie Brianna"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752370963207,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3675476462662460464"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katie Brianna",
+      "timestamp_ms": 1752369633591,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752321022102,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3675057377747355933"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katie Brianna",
+      "timestamp_ms": 1752319581131,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Katie Brianna",
+  "is_still_participant": true,
+  "thread_path": "inbox/katiebrianna_1259379708979490",
+  "magic_words": [
+    
+  ]
+}

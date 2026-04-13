@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "IZZY REBEL"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "IZZY REBEL",
+      "timestamp_ms": 1732102438853,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "IZZY REBEL",
+  "is_still_participant": true,
+  "thread_path": "inbox/izzyrebel_1093647078886088",
+  "magic_words": [
+    
+  ]
+}

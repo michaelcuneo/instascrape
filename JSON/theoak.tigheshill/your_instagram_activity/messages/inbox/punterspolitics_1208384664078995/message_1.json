@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Punter's Politics"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1746220882282,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3623830371273346041"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Punter's Politics",
+  "is_still_participant": true,
+  "thread_path": "inbox/punterspolitics_1208384664078995",
+  "magic_words": [
+    
+  ]
+}

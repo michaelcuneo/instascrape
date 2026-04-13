@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Annie Higgs"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Cuneo Photography",
+      "timestamp_ms": 1521806377690,
+      "content": "This is amazing!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Annie Higgs",
+      "timestamp_ms": 1521073584168,
+      "content": "They were so delicious!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Cuneo Photography",
+      "timestamp_ms": 1521028347450,
+      "content": "Bloody hell, those need to be inside me.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Annie Higgs",
+  "is_still_participant": true,
+  "thread_path": "inbox/anniehiggs_582647163135726",
+  "magic_words": [
+    
+  ]
+}

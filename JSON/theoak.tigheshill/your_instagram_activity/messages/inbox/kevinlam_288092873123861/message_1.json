@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Kevin Lam"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kevin Lam",
+      "timestamp_ms": 1696460583686,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1696461691
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3205965686723505960"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kevin Lam",
+  "is_still_participant": true,
+  "thread_path": "inbox/kevinlam_288092873123861",
+  "magic_words": [
+    
+  ]
+}

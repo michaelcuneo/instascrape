@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Milika Viti"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1714723115654,
+      "content": "Open until 4 this week. 8 next week",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Milika Viti",
+      "timestamp_ms": 1714722776715,
+      "content": "Hey, just wondering if the kitchen is open all arvo on Sunday w/ the high andies?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Milika Viti",
+      "timestamp_ms": 1702811459064,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1702811326108,
+      "content": "Yeah as long as the kitchen is operating the kids are fine to be in the front bar.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Milika Viti",
+          "timestamp": 1702811459
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Milika Viti",
+      "timestamp_ms": 1702783324408,
+      "content": "Hey, just wanted to see if kids can come to the poor Kelly gig, we'd be there early and can leave when the bistro closes...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Milika Viti",
+  "is_still_participant": true,
+  "thread_path": "inbox/milikaviti_887638412820290",
+  "magic_words": [
+    
+  ]
+}

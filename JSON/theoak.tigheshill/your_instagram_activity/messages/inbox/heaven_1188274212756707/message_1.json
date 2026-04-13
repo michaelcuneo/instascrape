@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Heaven"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Heaven",
+      "timestamp_ms": 1770593521771,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1770593179407,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3828335386847035596"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1770524417633,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1770507352828,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Heaven",
+      "timestamp_ms": 1770012374918,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1770010761243,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3823449784010758278"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1743933771594,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3604698983697883333"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Heaven",
+  "is_still_participant": true,
+  "thread_path": "inbox/heaven_1188274212756707",
+  "magic_words": [
+    
+  ]
+}

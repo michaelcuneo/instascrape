@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Bar Awards"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bar Awards",
+      "timestamp_ms": 1719184360000,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1719180973386,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bar Awards",
+          "timestamp": 1719184360
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3397058650861842168"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bar Awards",
+      "timestamp_ms": 1719180938119,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1718836171358,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3394166215159394503"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bar Awards",
+      "timestamp_ms": 1714706436419,
+      "content": "https://hunterhunter.typeform.com/bar-awards",
+      "share": {
+        "link": "https://hunterhunter.typeform.com/bar-awards",
+        "share_text": "https://hunterhunter.typeform.com/bar-awards"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bar Awards",
+      "timestamp_ms": 1714706431243,
+      "content": "Hey there,\n\nBar Awards have officially launched and we want to hear from you \u00e2\u0080\u0093 the bartenders, mixologists, brewers, and owners in Newcastle\u00e2\u0080\u0099s hospitality industry.\u00c2\u00a0\n\nPresented by HUNTERhunter, Bar Awards are about championing a standard of quality drinks and service anchored in talent, craftsmanship, and diversity, and celebrate those who have led the way, and those on the path to do so.\n\nWe\u00e2\u0080\u0099re now asking the local industry\u00c2\u00a0to register their interest to nominate in the upcoming Bar Awards and to go on the waitlist to attend the awards night happening on Monday August 5, 2024.\n\nTo register, click the link below.\u00c2\u00a0\n\nNominations will open on Tuesday May 7 \u00e2\u0080\u0093 stay tuned for more details!\n\n- Bar Awards",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bar Awards",
+  "is_still_participant": true,
+  "thread_path": "inbox/barawards_964552755128855",
+  "magic_words": [
+    
+  ]
+}

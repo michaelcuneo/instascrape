@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "E N A \u00e2\u0080\u00a2 M A L I B U"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "E N A \u00e2\u0080\u00a2 M A L I B U",
+      "timestamp_ms": 1768125858357,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "E N A \u00e2\u0080\u00a2 M A L I B U",
+      "timestamp_ms": 1768125596510,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "E N A \u00e2\u0080\u00a2 M A L I B U",
+  "is_still_participant": true,
+  "thread_path": "inbox/enamalibu_1404179824499477",
+  "magic_words": [
+    
+  ]
+}

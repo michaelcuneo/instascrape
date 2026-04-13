@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Kell"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kell",
+      "timestamp_ms": 1736289603187,
+      "content": "Cheers, thanks heaps! Will reach out today :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1736289775
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1736285708213,
+      "content": "Hey Kelly, drop an email to licensee@royaloaktigheshill.com.au\n\nIf you want to add the following details that\u00e2\u0080\u0099ll also help\u00e2\u0080\u00a6\n\nDate of event\nOccasion\nHow many people",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kell",
+      "timestamp_ms": 1736284859911,
+      "content": "Hi there \u00e2\u0080\u0094 happy new years to you all! Just wondering if there is a best contact email/ person for enquires regarding events? Thanks so much!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kell",
+  "is_still_participant": true,
+  "thread_path": "inbox/kell_1125385582378904",
+  "magic_words": [
+    
+  ]
+}

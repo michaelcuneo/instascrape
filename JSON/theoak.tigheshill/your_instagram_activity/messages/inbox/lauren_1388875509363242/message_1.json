@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Lauren \u00f0\u009f\u0096\u00a4"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lauren \u00f0\u009f\u0096\u00a4",
+      "timestamp_ms": 1766286889343,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lauren \u00f0\u009f\u0096\u00a4",
+  "is_still_participant": true,
+  "thread_path": "inbox/lauren_1388875509363242",
+  "magic_words": [
+    
+  ]
+}

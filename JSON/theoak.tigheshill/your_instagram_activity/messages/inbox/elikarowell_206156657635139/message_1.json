@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Elika Rowell"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Elika Rowell",
+      "timestamp_ms": 1701570380091,
+      "content": "Fuck this looks siiiiick",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1701571881
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3248651624129717876"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Elika Rowell",
+  "is_still_participant": true,
+  "thread_path": "inbox/elikarowell_206156657635139",
+  "magic_words": [
+    
+  ]
+}

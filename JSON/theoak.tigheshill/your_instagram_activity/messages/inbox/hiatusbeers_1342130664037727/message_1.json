@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "HIATUS BEERS"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "HIATUS BEERS",
+      "timestamp_ms": 1761125412756,
+      "content": "Hi Team, ive been meaning to send a note with some samples i dropped off. Jules@hiatusbeers.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "HIATUS BEERS",
+  "is_still_participant": true,
+  "thread_path": "inbox/hiatusbeers_1342130664037727",
+  "magic_words": [
+    
+  ]
+}

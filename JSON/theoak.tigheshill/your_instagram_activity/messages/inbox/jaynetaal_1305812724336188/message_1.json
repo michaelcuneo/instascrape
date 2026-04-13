@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Jayne Taal"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1757455477516,
+      "content": "Best to book online via this link\u00e2\u0080\u00a6\n\nhttps://bookings.obeeapp.com/theoaktigheshill",
+      "share": {
+        "link": "https://bookings.obeeapp.com/theoaktigheshill",
+        "share_text": "Best to book online via this link\u00e2\u0080\u00a6\n\nhttps://bookings.obeeapp.com/theoaktigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jayne Taal",
+      "timestamp_ms": 1757455008754,
+      "content": "Can I book a table for 4 people please",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jayne Taal",
+  "is_still_participant": true,
+  "thread_path": "inbox/jaynetaal_1305812724336188",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "C"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "C",
+      "timestamp_ms": 1750383188358,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1750379713682,
+      "content": "Meat Raffle - 6:30pm\nJoker Poker - 7pm",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "C"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "C",
+      "timestamp_ms": 1750379670599,
+      "content": "Hey what time is meat raffle?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "C",
+      "timestamp_ms": 1723708247472,
+      "content": "Sweet!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1723707548696,
+      "content": "Hey! Yeah we\u00e2\u0080\u0099ve got the autumn hearts on the Friday and Moot//space boozies on the Saturday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "C",
+  "is_still_participant": true,
+  "thread_path": "inbox/c_1344153313648445",
+  "magic_words": [
+    
+  ]
+}

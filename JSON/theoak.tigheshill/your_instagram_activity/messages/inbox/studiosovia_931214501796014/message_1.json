@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "STUDIO SOVIA"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1709518820172,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1709518806944,
+      "content": "We have a package for you at The Oak Tighes Hill.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "STUDIO SOVIA",
+  "is_still_participant": true,
+  "thread_path": "inbox/studiosovia_931214501796014",
+  "magic_words": [
+    
+  ]
+}

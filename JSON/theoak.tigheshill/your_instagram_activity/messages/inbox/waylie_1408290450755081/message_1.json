@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "WAY LIE"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1768689598834,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3812367065056255631"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "WAY LIE",
+      "timestamp_ms": 1768657077684,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1768604155883,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "WAY LIE",
+  "is_still_participant": true,
+  "thread_path": "inbox/waylie_1408290450755081",
+  "magic_words": [
+    
+  ]
+}

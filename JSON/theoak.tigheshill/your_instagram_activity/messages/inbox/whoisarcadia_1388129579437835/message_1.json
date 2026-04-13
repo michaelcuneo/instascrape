@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "who.is.arcadia"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1766211407030,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3791578509496986580"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1766201330473,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "who.is.arcadia",
+  "is_still_participant": true,
+  "thread_path": "inbox/whoisarcadia_1388129579437835",
+  "magic_words": [
+    
+  ]
+}

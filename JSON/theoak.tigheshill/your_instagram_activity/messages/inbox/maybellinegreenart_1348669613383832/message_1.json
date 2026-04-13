@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Maybelline Green Art"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maybelline Green Art",
+      "timestamp_ms": 1761779642886,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3753894003154724230"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maybelline Green Art",
+  "is_still_participant": true,
+  "thread_path": "inbox/maybellinegreenart_1348669613383832",
+  "magic_words": [
+    
+  ]
+}

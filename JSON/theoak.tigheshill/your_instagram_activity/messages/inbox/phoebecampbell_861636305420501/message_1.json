@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Phoebe Campbell"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Phoebe Campbell",
+      "timestamp_ms": 1698388934531,
+      "content": "thanks heaps for the info! \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1698396601
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1698388359790,
+      "content": "Yep front bar is open until late! Kitchen is still a work in progress.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Phoebe Campbell",
+      "timestamp_ms": 1698387096389,
+      "content": "yo! Are y\u00e2\u0080\u0099all open tonight?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Phoebe Campbell",
+  "is_still_participant": true,
+  "thread_path": "inbox/phoebecampbell_861636305420501",
+  "magic_words": [
+    
+  ]
+}

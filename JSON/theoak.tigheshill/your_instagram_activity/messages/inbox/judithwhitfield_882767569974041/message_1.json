@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Judith Whitfield"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Judith Whitfield",
+      "timestamp_ms": 1702010318547,
+      "content": "0413037431. Thanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1702010209956,
+      "content": "Not a problem! Can I get a contact number please?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Judith Whitfield",
+      "timestamp_ms": 1702010043717,
+      "content": "Table for 4 on Sunday at midday please? For Jude (rhymes with food).",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Judith Whitfield",
+  "is_still_participant": true,
+  "thread_path": "inbox/judithwhitfield_882767569974041",
+  "magic_words": [
+    
+  ]
+}

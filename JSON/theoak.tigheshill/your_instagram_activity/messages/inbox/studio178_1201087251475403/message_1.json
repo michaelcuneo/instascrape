@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Studio 178"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1745380441286,
+      "content": "Unfortunately we are booked for that date, in the future you can email our band booker at oakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Studio 178",
+      "timestamp_ms": 1745379263906,
+      "content": "Hey! I\u00e2\u0080\u0099m looking to book a show for a band from Melbourne called gnome on May 31st I was wondering if you had the date available?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Studio 178",
+  "is_still_participant": true,
+  "thread_path": "inbox/studio178_1201087251475403",
+  "magic_words": [
+    
+  ]
+}

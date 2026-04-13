@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Russ Jb"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1730753867141,
+      "content": "Hey Russ, yep we have a few vegan options to choose from",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Russ Jb",
+      "timestamp_ms": 1730527131232,
+      "content": "Hello, do you have any vegan food options?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Russ Jb",
+  "is_still_participant": true,
+  "thread_path": "inbox/russjb_1081409256776537",
+  "magic_words": [
+    
+  ]
+}

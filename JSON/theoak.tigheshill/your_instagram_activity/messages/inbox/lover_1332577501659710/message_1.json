@@ -1,0 +1,127 @@
+{
+  "participants": [
+    {
+      "name": "Lover"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lover",
+      "timestamp_ms": 1763361198278,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lover",
+      "timestamp_ms": 1763361181553,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1763361164150,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lover"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lover",
+      "timestamp_ms": 1760231809239,
+      "content": "Perfect, thank u!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lover",
+      "timestamp_ms": 1760231798159,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760231707835,
+      "content": "Not too sure, Hit up the email for that mate, our band booker knows all that sort of stuff (edited)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lover"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760231663769,
+      "content": "Hit up the email for that mate, our band booker knows all that sort of stuff",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lover"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lover",
+      "timestamp_ms": 1760231545479,
+      "content": "??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lover",
+      "timestamp_ms": 1760189050302,
+      "content": "Totally understand, thanks for the reply! Do you potentially know any of the bands that are playing from the 21st-23rd? Thinking we could hit them up to try jump on their lineup!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lover",
+      "timestamp_ms": 1760188911397,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760187694667,
+      "content": "Hey guys unfortunately we are all booked up until the new year, for any bookings hit our email oakbandbooking@gmail.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lover"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lover",
+      "timestamp_ms": 1760158504736,
+      "content": "Hey there, hope you\u00e2\u0080\u0099re doing well!\n\nWe are a two piece Naarm group called Lover, and are looking for a venue to play at for our final stop on our tour up the east coast which we are planning from 12th-(22nd?) of november. \nWe have been in contact with a few Newcastle bands who are down to put something together, is there any chance you have available slots on that week (friday 21st to sunday 23rd of november?) \n\nLooking forward to hearing back :)\n\nYoutube - https://www.youtube.com/@loverloverr\nSpotify - https://open.spotify.com/artist/6LmFqUjTbui4uj86QwO08z?si=54jEqQjdQZOWuX-4lwZkdw\n\nMuch love,\nWill and Johnny from Lover",
+      "share": {
+        "link": "https://www.youtube.com/@loverloverr",
+        "share_text": "Hey there, hope you\u00e2\u0080\u0099re doing well!\n\nWe are a two piece Naarm group called Lover, and are looking for a venue to play at for our final stop on our tour up the east coast which we are planning from 12th-(22nd?) of november. \nWe have been in contact with a few Newcastle bands who are down to put something together, is there any chance you have available slots on that week (friday 21st to sunday 23rd of november?) \n\nLooking forward to hearing back :)\n\nYoutube - https://www.youtube.com/@loverloverr\nSpotify - https://open.spotify.com/artist/6LmFqUjTbui4uj86QwO08z?si=54jEqQjdQZOWuX-4lwZkdw\n\nMuch love,\nWill and Johnny from Lover"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lover",
+  "is_still_participant": true,
+  "thread_path": "inbox/lover_1332577501659710",
+  "magic_words": [
+    
+  ]
+}

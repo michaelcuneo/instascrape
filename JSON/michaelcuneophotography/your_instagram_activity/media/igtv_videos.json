@@ -1,0 +1,38 @@
+{
+  "ig_igtv_media": [
+    {
+      "media": [
+        {
+          "uri": "media/other/17859492089680135.mp4",
+          "creation_timestamp": 1643420033,
+          "media_metadata": {
+            "video_metadata": {
+              "subtitles": {
+                "uri": "media/other/17948918489822094.srt",
+                "creation_timestamp": 1643420033
+              },
+              "exif_data": [
+                {
+                  "device_id": "687F94F2-9D8E-42B4-8966-2E0A5C521838"
+                }
+              ]
+            },
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "Happy Birthday big boy! You\u00e2\u0080\u0099re 1 today.",
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [
+            
+          ],
+          "media_variants": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

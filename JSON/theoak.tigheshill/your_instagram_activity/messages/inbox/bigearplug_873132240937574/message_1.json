@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "bigearplug"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1700867229388,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3243431753989029922"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "bigearplug",
+      "timestamp_ms": 1700867188768,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1700424861119,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3239720903684478663"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "bigearplug",
+      "timestamp_ms": 1700394734513,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "bigearplug",
+  "is_still_participant": true,
+  "thread_path": "inbox/bigearplug_873132240937574",
+  "magic_words": [
+    
+  ]
+}

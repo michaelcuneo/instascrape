@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Rainbird Farm"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Cuneo Photography",
+      "timestamp_ms": 1771570069570,
+      "content": "I\u00e2\u0080\u0099ll get back to you after I work out some stuff..",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Cuneo Photography",
+      "timestamp_ms": 1771569695702,
+      "content": "Yeah I research all my experiments fully, made a hot sauce last week for the first time ever\u00e2\u0080\u00a6 habanero, watermelon.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rainbird Farm",
+      "timestamp_ms": 1771569081676,
+      "content": "Really depends on how many jars you want to make!\nI\u00e2\u0080\u0099d start by finding a recipe you like the look of.\nI\u00e2\u0080\u0099d say 1kg of cucumbers might roughly make 2-3 of 500ml jars.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Cuneo Photography",
+      "timestamp_ms": 1771567057513,
+      "content": "For someone making pickles (I\u00e2\u0080\u0099ve never done it before) what amount would you recommend? \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rainbird Farm",
+      "timestamp_ms": 1771566812429,
+      "content": "Amazing! \nHow many Kgs would you like and when would you like to pick up?\nPickup will be from our Farm at Bobs Farm.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Cuneo Photography",
+      "timestamp_ms": 1771566177278,
+      "content": "Cucumbers! Sold! I\u00e2\u0080\u0099d love to make some pickles.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rainbird Farm",
+  "is_still_participant": true,
+  "thread_path": "inbox/rainbirdfarm_1975049953887935",
+  "magic_words": [
+    
+  ]
+}

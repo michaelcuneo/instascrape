@@ -1,0 +1,132 @@
+{
+  "participants": [
+    {
+      "name": "Nick"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1758931437905,
+      "content": "Tuffff",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3729871585440528967"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1746574740761,
+      "content": "Okay cheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1746573198842,
+      "content": "Definitely. Just jump to the link on gocsys Instagram/facebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1746530214521,
+      "content": "Hi just wondering if there\u00e2\u0080\u0099s tickets still available for the comedy show Thursday night?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1738389654476,
+      "content": "Cool beans",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738389642701,
+      "content": "Yep and yep",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738389523767,
+      "content": "Yep Both days!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1738389505560,
+      "content": "Free entry?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738387929424,
+      "content": "Dustins doubled down haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738387919886,
+      "content": "This is tomorrow!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738387913592,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/nick_1676388357091070/photos/3724764264451518.jpg",
+          "creation_timestamp": 1738387912
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738387908403,
+      "content": "This is tonight",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738387904798,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/nick_1676388357091070/photos/1295946521673590.jpg",
+          "creation_timestamp": 1738387903
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nick",
+      "timestamp_ms": 1738387873322,
+      "content": "Tonight or tomorrow?",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3558133038875989562"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nick",
+  "is_still_participant": true,
+  "thread_path": "inbox/nick_1676388357091070",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Blessy The DJ"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Blessy The DJ",
+      "timestamp_ms": 1711692633406,
+      "content": "If you want more pinballs/arcade games , I know a guy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Blessy The DJ",
+  "is_still_participant": true,
+  "thread_path": "inbox/blessythedj_944700287114102",
+  "magic_words": [
+    
+  ]
+}

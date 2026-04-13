@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u00a6\u00a6"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u00a6\u00a6",
+      "timestamp_ms": 1771737277031,
+      "content": "Reacted \u00f0\u009f\u0092\u0097 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u00a6\u00a6",
+      "timestamp_ms": 1771737276239,
+      "content": ":00 thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1771736994224,
+      "content": "5pm :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u0097",
+          "actor": "\u00f0\u009f\u00a6\u00a6"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u00a6\u00a6",
+      "timestamp_ms": 1771736697744,
+      "content": "Hi when is andie playing tonight?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u00a6\u00a6",
+  "is_still_participant": true,
+  "thread_path": "inbox/1438639191053540",
+  "magic_words": [
+    
+  ]
+}

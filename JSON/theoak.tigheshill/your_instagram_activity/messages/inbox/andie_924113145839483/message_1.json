@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "andie"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "andie",
+      "timestamp_ms": 1771747785797,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andie",
+      "timestamp_ms": 1771732751596,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andie",
+      "timestamp_ms": 1771229256884,
+      "content": "andie sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DUz75jcE65o/?id=3833671147628768872_36865163",
+        "share_text": "\u00f0\u009f\u00ab\u00b6 BAND GIGS THIS WEEKEND \u00f0\u009f\u00ab\u00b6\nSat 21st Feb @littlelostbookshop in Katoomba!\nw @knightizz \u00f0\u009f\u0092\u00a5 LIMITED TICKETS!!!\nSun 22nd Feb @theoak.tigheshill in Newcastle!\nw @knightizz and @auntyalan.wav \nNewcastle is free!!",
+        "original_content_owner": "andie.deee"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1771216222538,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andie",
+      "timestamp_ms": 1708325490450,
+      "content": "<3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andie",
+      "timestamp_ms": 1708325489316,
+      "content": "!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andie",
+      "timestamp_ms": 1708325487460,
+      "content": "awesome, thankyou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1708325478612,
+      "content": "Of course\u00e2\u0080\u00a6\n\nOakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andie",
+      "timestamp_ms": 1708325415859,
+      "content": "I spoke to someone at the bar on the phone the other day about booking Friday the 8th of March",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andie",
+      "timestamp_ms": 1708325387697,
+      "content": "Do you have an email address I could contact re booking a live music gig?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andie",
+      "timestamp_ms": 1708325366703,
+      "content": "Hey The Oak!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "andie",
+  "is_still_participant": true,
+  "thread_path": "inbox/andie_924113145839483",
+  "magic_words": [
+    
+  ]
+}

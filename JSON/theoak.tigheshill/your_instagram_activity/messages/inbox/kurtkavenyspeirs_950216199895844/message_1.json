@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Kurt Kaveny Speirs"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kurt Kaveny Speirs",
+      "timestamp_ms": 1712579727103,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kurt Kaveny Speirs",
+      "timestamp_ms": 1712579721027,
+      "content": "Thanks for circling back mate!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1712567568876,
+      "content": "Update.  \n\nDoors 6 \nHank 6.30 -7.00 \nCW 7.30 - end 60-90 min set",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kurt Kaveny Speirs",
+          "timestamp": 1712579727
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kurt Kaveny Speirs",
+      "timestamp_ms": 1712528509276,
+      "content": "Legends.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kurt Kaveny Speirs",
+      "timestamp_ms": 1712528504464,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1712525041460,
+      "content": "Rough times\u00e2\u0080\u00a6\n\nDoors at 6. \nDank Hank is on at 7. \nCW kicks off at 8.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kurt Kaveny Speirs",
+          "timestamp": 1712528504
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kurt Kaveny Speirs",
+      "timestamp_ms": 1712524002078,
+      "content": "Hey team, \nAny set times for CW stoneking yet?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kurt Kaveny Speirs",
+  "is_still_participant": true,
+  "thread_path": "inbox/kurtkavenyspeirs_950216199895844",
+  "magic_words": [
+    
+  ]
+}

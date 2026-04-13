@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0090\u008dHISS & CRACKLE RECORDS\u00f0\u009f\u00a7\u00a8"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1735339194237,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0090\u008dHISS & CRACKLE RECORDS\u00f0\u009f\u00a7\u00a8",
+      "timestamp_ms": 1723188305129,
+      "content": "\u00f0\u009f\u0090\u008dHISS sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-cM3miStlT/?id=3430673613656349011_8650282981",
+        "share_text": "Very late Friday update \u00e2\u0080\u00a6 but a bit of a weekend ahead ! Whatever you end up doing enjoy your weekend !",
+        "original_content_owner": "hiss_and_crackle_records"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0090\u008dHISS & CRACKLE RECORDS\u00f0\u009f\u00a7\u00a8",
+      "timestamp_ms": 1710966674877,
+      "content": "All good . Had a chat to Justan . Only in town for that night. Thanks \u00f0\u009f\u0099\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1710967432
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1710933886470,
+      "content": "Yeah sorry got powderworks playing. May be able to do the Friday?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0090\u008dHISS & CRACKLE RECORDS\u00f0\u009f\u00a7\u00a8",
+      "timestamp_ms": 1710898510747,
+      "content": "All good . Just saw you have an Oils cover band",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0090\u008dHISS & CRACKLE RECORDS\u00f0\u009f\u00a7\u00a8",
+      "timestamp_ms": 1710898201658,
+      "content": "Hey Justan , looking to book Oak for a Japanese punk band Budhadatta on April 20 as they are here for Record Store Day is it available?\nThanks Mitchell",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0090\u008dHISS & CRACKLE RECORDS\u00f0\u009f\u00a7\u00a8",
+  "is_still_participant": true,
+  "thread_path": "inbox/hisscracklerecords_939559430961521",
+  "magic_words": [
+    
+  ]
+}

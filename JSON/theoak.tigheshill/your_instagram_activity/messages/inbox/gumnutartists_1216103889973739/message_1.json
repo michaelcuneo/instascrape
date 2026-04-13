@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Gumnut Artists"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gumnut Artists",
+      "timestamp_ms": 1747201212428,
+      "content": "Gumnut sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DJn2EdTy2AH/",
+        "share_text": "\u00f0\u009f\u008c\u009f 31 MAY \u00f0\u009f\u008c\u009f\n\n@jarrodgrant_ is joined by full band line-up The Background Noise for a headliner show at the one and only @theoak.tigheshill , joined by the ethereal NENNA @sienna__cross \n\n\u00e2\u008f\u00b0 It all kicks off at 8:30pm and is completely FREE \u00f0\u009f\u00aa\u00bd\nSee you there \u00f0\u009f\u00a5\u0080",
+        "original_content_owner": "gumnutartists"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gumnut Artists",
+  "is_still_participant": true,
+  "thread_path": "inbox/gumnutartists_1216103889973739",
+  "magic_words": [
+    
+  ]
+}

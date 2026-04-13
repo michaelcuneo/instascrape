@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Sam Segrofsed"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sam Segrofsed",
+      "timestamp_ms": 1759913495709,
+      "content": "Meant to forward to a mate, but you get it \u00f0\u009f\u00a4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sam Segrofsed",
+      "timestamp_ms": 1759913444701,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1759913435727,
+      "content": "Cheeky beers 7 days a week",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sam Segrofsed"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sam Segrofsed",
+      "timestamp_ms": 1759913316036,
+      "content": "Could we move to a cheeky Wednesday beer?",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3738641374203986808"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sam Segrofsed",
+  "is_still_participant": true,
+  "thread_path": "inbox/samsegrofsed_1329891561928304",
+  "magic_words": [
+    
+  ]
+}

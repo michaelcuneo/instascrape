@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Gus Engler"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gus Engler",
+      "timestamp_ms": 1724201992989,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gusengler_1422353195832694/photos/481735458084726.jpg",
+          "creation_timestamp": 1724201990
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/gusengler_1422353195832694/photos/856050942781226.jpg",
+          "creation_timestamp": 1724201991
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/gusengler_1422353195832694/photos/1172834367170000.jpg",
+          "creation_timestamp": 1724201991
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gus Engler",
+      "timestamp_ms": 1724201990774,
+      "content": "Here we are :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1724201702478,
+      "content": "Can we get a copy of the beaut?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gus Engler",
+      "timestamp_ms": 1711707987079,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gus Engler",
+  "is_still_participant": true,
+  "thread_path": "inbox/gusengler_1422353195832694",
+  "magic_words": [
+    
+  ]
+}

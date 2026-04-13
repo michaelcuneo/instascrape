@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Mel Casey"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mel Casey",
+      "timestamp_ms": 1712727188687,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3342659850118697587"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mel Casey",
+  "is_still_participant": true,
+  "thread_path": "inbox/melcasey_951492723101525",
+  "magic_words": [
+    
+  ]
+}

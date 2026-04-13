@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "CHOP"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CHOP",
+      "timestamp_ms": 1762688739726,
+      "content": "Glassesricemegaman sent us!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CHOP",
+      "timestamp_ms": 1762688476742,
+      "content": "https://ch0p.bandcamp.com/album/chopjams1",
+      "share": {
+        "link": "https://ch0p.bandcamp.com/album/chopjams1",
+        "share_text": "https://ch0p.bandcamp.com/album/chopjams1"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CHOP",
+      "timestamp_ms": 1762688451662,
+      "content": "Hey The Oak,\nWe are chop, an Adelaide based noise band who are looking at playing in Newcastle 14/15/16 January\nWe are thinking madam sandler, robbie thunder or iggy clue to go on the bill\nHere's a link to our bandcamp:\nLet me know what you think\nTim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "CHOP",
+  "is_still_participant": true,
+  "thread_path": "inbox/chop_1357559222494871",
+  "magic_words": [
+    
+  ]
+}

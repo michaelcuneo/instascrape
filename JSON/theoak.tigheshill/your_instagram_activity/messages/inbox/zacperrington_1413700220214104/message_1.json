@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Zac Perrington"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1769650547930,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3820428089297574603"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zac Perrington",
+      "timestamp_ms": 1769647519246,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zac Perrington",
+      "timestamp_ms": 1769209566095,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Zac Perrington",
+  "is_still_participant": true,
+  "thread_path": "inbox/zacperrington_1413700220214104",
+  "magic_words": [
+    
+  ]
+}

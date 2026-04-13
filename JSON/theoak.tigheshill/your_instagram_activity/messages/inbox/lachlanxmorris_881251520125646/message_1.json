@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Lachlan X. Morris"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lachlan X. Morris",
+      "timestamp_ms": 1764940058238,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764567796184,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713174077981,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3346669165682925241"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lachlan X. Morris",
+      "timestamp_ms": 1713173939913,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lachlan X. Morris",
+      "timestamp_ms": 1702599810338,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lachlan X. Morris",
+      "timestamp_ms": 1701751728222,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lachlan X. Morris",
+  "is_still_participant": true,
+  "thread_path": "inbox/lachlanxmorris_881251520125646",
+  "magic_words": [
+    
+  ]
+}

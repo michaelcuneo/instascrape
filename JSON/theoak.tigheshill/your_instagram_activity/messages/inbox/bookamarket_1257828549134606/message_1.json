@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Book A Market"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Book A Market",
+      "timestamp_ms": 1752137830901,
+      "content": "Hi Oak Tighes Hill,\nI came across your Instagram and love your amazing product! I\u00e2\u0080\u0099d be thrilled to collaborate with you. We\u00e2\u0080\u0099ve partner up with three large markets 2 based in Newcastle area and 1 on the central coast, with more coming soon. If you\u00e2\u0080\u0099re interested, I can share more about what we do.\nHope to hear from you soon!\n\nBook a Market",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Book A Market",
+  "is_still_participant": true,
+  "thread_path": "inbox/bookamarket_1257828549134606",
+  "magic_words": [
+    
+  ]
+}

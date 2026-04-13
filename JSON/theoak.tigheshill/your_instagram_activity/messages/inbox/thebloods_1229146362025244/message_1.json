@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "The Bloods"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Bloods",
+      "timestamp_ms": 1752577207414,
+      "content": "Amazing! Thanks, we will reach out.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752575605372,
+      "content": "Our band Booker is Justan and his email is:\nOakBandBooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752575558283,
+      "content": "Hey sorry we didn\u00e2\u0080\u0099t get back",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Bloods",
+      "timestamp_ms": 1751703370595,
+      "content": "Hi Team,\n\nThank you for the follow! \n\nWe are currently onboarding a new drummer and cannot wait to get back to playing live!\n\nWe are really excited at the prospect of playing at The Oak, and I\u00e2\u0080\u0099m hoping that once we are ready to go, we could be lucky enough to play there. If possible, and if you are keen, do you have any dates from October onwards that we could look into? \n\nThanks again for the follow, and looking forward to your reply.\n\nCheers,\n\nThe Bloods",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Bloods",
+  "is_still_participant": true,
+  "thread_path": "inbox/thebloods_1229146362025244",
+  "magic_words": [
+    
+  ]
+}

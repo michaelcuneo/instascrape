@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Shacked!"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shacked!",
+      "timestamp_ms": 1728098155282,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1728098053800,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Shacked!",
+          "timestamp": 1728098155
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3471860532255456145"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shacked!",
+  "is_still_participant": true,
+  "thread_path": "inbox/shacked_1061656335418496",
+  "magic_words": [
+    
+  ]
+}

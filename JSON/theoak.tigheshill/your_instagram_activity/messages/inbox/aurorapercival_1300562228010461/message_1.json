@@ -1,0 +1,123 @@
+{
+  "participants": [
+    {
+      "name": "Aurora Percival"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aurora Percival",
+      "timestamp_ms": 1699233380567,
+      "content": "Thanks heaps :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1699235660
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aurora Percival",
+      "timestamp_ms": 1699233369835,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1699232164403,
+      "content": "Not a problem at all.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Aurora Percival",
+          "timestamp": 1699233369
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aurora Percival",
+      "timestamp_ms": 1699229319726,
+      "content": "Is there any chance we can do catering from 6:30? The group was planning on coming in around 5:30 but likely everyone will likely be late lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aurora Percival",
+      "timestamp_ms": 1699091780359,
+      "content": "6pm?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1699091839
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1699077383293,
+      "content": "Yep happy to organise that. What time did you want to front bar from?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aurora Percival",
+      "timestamp_ms": 1699076563450,
+      "content": "Hey, so there will be about 15-20 people to come in. We were thinking catering for about 15 pizzas? If that\u00e2\u0080\u0099s possibl",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aurora Percival",
+      "timestamp_ms": 1698989480465,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aurora Percival",
+      "timestamp_ms": 1698989468985,
+      "content": "That would be great. I\u00e2\u0080\u0099ll just chat to the boss and get back to u soon?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1698988209897,
+      "content": "Hey Aurora! Sorry for the slow reply. \n\nWe can sort you guys out no worries. Our kitchen will be closed but we\u00e2\u0080\u0099re happy to organise catering through Masa Madre if you\u00e2\u0080\u0099d like.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Aurora Percival",
+          "timestamp": 1698989480
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aurora Percival",
+      "timestamp_ms": 1698987537285,
+      "content": "Hey, I emailed about a week ago to book in for Cowper St Diner\u00e2\u0080\u0099s staff party on the 7th Nov. Just checking that booking is all good, said it\u00e2\u0080\u0099d be passed on to FOH manager but haven\u00e2\u0080\u0099t heard anything back :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aurora Percival",
+  "is_still_participant": true,
+  "thread_path": "inbox/aurorapercival_1300562228010461",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "OLD HOUSE"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "OLD HOUSE",
+      "timestamp_ms": 1747032346809,
+      "content": "OLD sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "OLD HOUSE",
+  "is_still_participant": true,
+  "thread_path": "inbox/oldhouse_1214845216766273",
+  "magic_words": [
+    
+  ]
+}

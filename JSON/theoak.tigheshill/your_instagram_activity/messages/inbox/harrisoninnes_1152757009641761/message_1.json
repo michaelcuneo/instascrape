@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Harrison Innes"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harrison Innes",
+      "timestamp_ms": 1739758929178,
+      "content": "Legend, thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1739758856222,
+      "content": "Gday Harrison\nAbsolutely\noakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Harrison Innes",
+      "timestamp_ms": 1739758767223,
+      "content": "Heya! Is there a best number or email to contact you by in regards to booking a gig at The Oak?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Harrison Innes",
+  "is_still_participant": true,
+  "thread_path": "inbox/harrisoninnes_1152757009641761",
+  "magic_words": [
+    
+  ]
+}

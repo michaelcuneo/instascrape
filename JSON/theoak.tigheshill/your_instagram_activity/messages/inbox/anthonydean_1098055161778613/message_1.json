@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Anthony Dean"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anthony Dean",
+      "timestamp_ms": 1750672287888,
+      "content": "Anthony sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DLPSoEJy9Lx/",
+        "share_text": "This weekend people, bonus free entry action, will be grand\u00f0\u009f\u0098\u008e",
+        "original_content_owner": "thenotnots"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anthony Dean",
+      "timestamp_ms": 1732675563668,
+      "content": "Anthony sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DC28mW2yLXd/",
+        "share_text": "Saturday night is going to be alright\u00f0\u009f\u0098\u008e @theoak.tigheshill",
+        "original_content_owner": "thenotnots"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anthony Dean",
+  "is_still_participant": true,
+  "thread_path": "inbox/anthonydean_1098055161778613",
+  "magic_words": [
+    
+  ]
+}

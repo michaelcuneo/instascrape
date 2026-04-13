@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "old folk"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "old folk",
+      "timestamp_ms": 1708423167543,
+      "content": "I did and didn't hear back but I shall persist\nThanks \u00f0\u009f\u0098\u00b6\u00e2\u0080\u008d\u00f0\u009f\u008c\u00ab\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1708423125941,
+      "content": "Drop our band booker an email\u00e2\u0080\u00a6\n\nOakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "old folk",
+      "timestamp_ms": 1708422173617,
+      "content": "Hey!\nAre you available for an old timey folkish band (us) to come play at the oaks the weekend of the 4th or 18th of may? We would really love to\nThanks!\nIzzy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "old folk",
+  "is_still_participant": true,
+  "thread_path": "inbox/oldfolk_924701869113944",
+  "magic_words": [
+    
+  ]
+}

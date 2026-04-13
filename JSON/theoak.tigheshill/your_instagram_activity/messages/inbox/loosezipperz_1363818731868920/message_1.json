@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Loose Zipperz"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Loose Zipperz",
+      "timestamp_ms": 1763700031046,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1763361164094,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1763361055330,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Loose Zipperz",
+  "is_still_participant": true,
+  "thread_path": "inbox/loosezipperz_1363818731868920",
+  "magic_words": [
+    
+  ]
+}

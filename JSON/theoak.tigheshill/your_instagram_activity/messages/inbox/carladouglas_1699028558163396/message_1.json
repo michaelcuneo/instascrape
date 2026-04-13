@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Carla Douglas"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carla Douglas",
+      "timestamp_ms": 1775452614683,
+      "content": "Hey, just checking in with your ANZAC day plans??? Free bacon and egg rolls and early 2-up? \nWe weally love it x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1741377171258,
+      "content": "We sure are! We\u00e2\u0080\u0099ll also have the first game of 2-up in town and a big lineup of bands and djs in the afternoon.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carla Douglas",
+      "timestamp_ms": 1741351539634,
+      "content": "Hey, what are you doing for ANZAC day? Are you still doing free bacon and egg rolls at 7am? Weally loved that x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carla Douglas",
+  "is_still_participant": true,
+  "thread_path": "inbox/carladouglas_1699028558163396",
+  "magic_words": [
+    
+  ]
+}

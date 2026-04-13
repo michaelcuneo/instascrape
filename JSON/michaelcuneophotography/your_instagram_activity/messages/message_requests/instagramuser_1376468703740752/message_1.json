@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Instagram user"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram user",
+      "timestamp_ms": 1726276409118,
+      "content": "Hello, nice to meet you! This is from Morgan Stanley Group in the United States. We are celebrating the 88th anniversary of Morgan Stanley Group. Congratulations on being selected as a special guest! We offer a limited number of free guest seats each year and invite you to participate in the international discussion group. You will receive cryptocurrency trading signals and insider investment news from Morgan Stanley's top analysts every day. We have a team of professional analysts who publish trading strategies in the group every day. The daily trading success rate is as high as over 90%, and there are lucky draws in our group every day. You can win a reward of 300-500 US dollars by opening a trading account. This is a free event and there are only 100 free seats left, so act quickly! This seat will only be reserved for 24 hours. Please click the link below to join the WhatsApp discussion group:https://chat.whatsapp.com/CQj3hQQeFa85UHX0Sid3cy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram user",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1376468703740752",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

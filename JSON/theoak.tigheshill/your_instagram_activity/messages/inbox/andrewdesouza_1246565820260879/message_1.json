@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Andrew de Souza"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andrew de Souza",
+      "timestamp_ms": 1751245328604,
+      "content": "Ahh sorry my bad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1751243570304,
+      "content": "You emailed on Thursday man. Perhaps give a week for Justan to reply. He isn\u00e2\u0080\u0099t on emails every day.\n\nDunny x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrew de Souza",
+      "timestamp_ms": 1751243305670,
+      "content": "Hey man,\n\nHaven\u00e2\u0080\u0099t heard back as to the show I\u00e2\u0080\u0099d like to put on. Is there any dates available for early august? Wanting to get a gig for a 7 piece funk band if possible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1750849179503,
+      "content": "Hey mate \nJustan\noakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrew de Souza",
+      "timestamp_ms": 1750847373998,
+      "content": "Hey just wondering who books the gigs at the royal oak? Interested in getting my band (spuz) a gig there?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andrew de Souza",
+  "is_still_participant": true,
+  "thread_path": "inbox/andrewdesouza_1246565820260879",
+  "magic_words": [
+    
+  ]
+}

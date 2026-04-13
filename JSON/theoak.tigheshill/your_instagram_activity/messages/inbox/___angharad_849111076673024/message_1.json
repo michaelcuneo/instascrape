@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "___angharad"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "___angharad",
+      "timestamp_ms": 1732911900767,
+      "content": "Yesss! That\u00e2\u0080\u0099s so good",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "___angharad",
+      "timestamp_ms": 1707631156524,
+      "content": "Will do but not today I too tired \u00f0\u009f\u0098\u00b4",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1707633448
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1707625612070,
+      "content": "Yeah the guys have nailed it! Come for a look.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "___angharad",
+      "timestamp_ms": 1707625246879,
+      "content": "Greenery looks great!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1707625596
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3300104974453416000"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "___angharad",
+      "timestamp_ms": 1699848897874,
+      "content": "\u00f0\u009f\u00a5\u00b3",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3234873611885828479"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "___angharad",
+  "is_still_participant": true,
+  "thread_path": "inbox/___angharad_849111076673024",
+  "magic_words": [
+    
+  ]
+}

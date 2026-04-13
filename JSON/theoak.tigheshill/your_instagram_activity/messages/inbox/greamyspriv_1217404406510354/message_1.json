@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "greamyspriv"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "greamyspriv",
+      "timestamp_ms": 1747378050027,
+      "content": "is the show +18",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "greamyspriv",
+  "is_still_participant": true,
+  "thread_path": "inbox/greamyspriv_1217404406510354",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Instagram user"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram user",
+      "timestamp_ms": 1744797360570,
+      "content": "Hi there,  \n\nYour photography is absolutely breathtaking! We\u00e2\u0080\u0099d love to showcase your work with a free feature in Quadro Magazine.  \n\nIf you\u00e2\u0080\u0099re interested, simply send the word INSTRUCTIONS in a DM to @quadro.magazine , and we\u00e2\u0080\u0099ll guide you through the submission process.  \n\nLooking forward to hearing from you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram user",
+      "timestamp_ms": 1744797354095,
+      "content": "Instagram user sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DDmenogM3Ii/?id=3523638423408833058_23166922528",
+        "share_text": "1. Subscribe to @quadro.magazine\n2. Send INSTRUCTIONS in dm to submit at no cost!\n\nModel: Lucie Jantacova\nVia @officialkavyar\n\nEditor-in-chief: @zzz_marina\n\n#quadromagazine #fashionmagazine #professionalphoto #professionalphotography #magazinecover",
+        "original_content_owner": "quadro.magazine"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram user",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1537446874309600",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

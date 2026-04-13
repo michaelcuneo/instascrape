@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Arugula"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Arugula",
+      "timestamp_ms": 1728107205026,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Arugula",
+          "timestamp": 1728108270
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1728098052954,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3471860532255456145"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1727753239601,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3468968036114480527"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1727695987135,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arugula",
+      "timestamp_ms": 1727689590528,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arugula",
+      "timestamp_ms": 1725437710707,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Arugula",
+  "is_still_participant": true,
+  "thread_path": "inbox/arugula_1040131497570980",
+  "magic_words": [
+    
+  ]
+}

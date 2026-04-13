@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Free Throw"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752675190688,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/freethrow_1262507965333331/photos/719435660842360.jpg",
+          "creation_timestamp": 1752675171
+        }
+      ],
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/freethrow_1262507965333331/videos/622416847545608.mp4",
+          "creation_timestamp": 1752675177
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/freethrow_1262507965333331/videos/728582106807459.mp4",
+          "creation_timestamp": 1752675178
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752675166712,
+      "content": "I emailed Destroy All Lines :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752672824450,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752672824134,
+      "content": "My mobile is 0411 541 887",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752672754430,
+      "content": "Hey legends. I\u00e2\u0080\u0099m super bummed your show at the newy got canceled let\u00e2\u0080\u0099s put it on at the oak!!!\n\nDunny\nCo Owner",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Free Throw",
+  "is_still_participant": true,
+  "thread_path": "inbox/freethrow_1262507965333331",
+  "magic_words": [
+    
+  ]
+}

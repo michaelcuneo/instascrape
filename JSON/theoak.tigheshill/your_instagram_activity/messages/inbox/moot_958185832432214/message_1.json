@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Moot"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1756941076079,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DOKHYztkx0G/?carousel_share_child_media_id=3713813333838863622_29666268335",
+        "share_text": "LIVE MUSIC LINEUP\n\nFriday\nMoot // The Antibodies // The Warts\nStart your Friday off with some good old fashioned Pub Rock!\n\nSaturday\nMyrtlesque // National Radio\nGet ya kicks on Saturday with Myrtlesque bringing their 'Abandoned Work of Art' Tour to The Oak\n\nSunday\nHunter Valley Ramblers are back in the Beergarden to treat you & and the Old Boy for Fathers Day, we\u00e2\u0080\u0099re putting on a Free BBQ, $10 Margs & $8 Coopers Longnecks because Dad deserves it!\n\nAquarium Vinyl Sessions\nFriday Night The BubbleGum Sound System will be spinning wax for you from 5pm!\nSaturday \nPC Dysco will get you warmed up for a belter from 3pm!\n\nLive. Local. Free.\n#ROAK",
+        "original_content_owner": "theoak.tigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1756714875810,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3711915845723718887"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Moot",
+      "timestamp_ms": 1756714564634,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Moot",
+      "timestamp_ms": 1724194451291,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713773212754,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3351695066787401486"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Moot",
+      "timestamp_ms": 1713771992706,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Moot",
+  "is_still_participant": true,
+  "thread_path": "inbox/moot_958185832432214",
+  "magic_words": [
+    
+  ]
+}

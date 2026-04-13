@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Dan"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1769126522909,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dan",
+      "timestamp_ms": 1768784160179,
+      "content": "Dan sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DTrERjIk2Bm/",
+        "share_text": "Looking forward to playing this Friday at the Oak. It\u00e2\u0080\u0099s going to be a great night of some weird electronic music.",
+        "original_content_owner": "funkydanmusic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dan",
+  "is_still_participant": true,
+  "thread_path": "inbox/dan_1409841523933307",
+  "magic_words": [
+    
+  ]
+}

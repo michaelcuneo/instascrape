@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Chantelle Shepherd"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chantelle Shepherd",
+      "timestamp_ms": 1717658776993,
+      "content": "We are running about 15mins late but we are still coming! Bad traffic/rain sorry!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chantelle Shepherd",
+      "timestamp_ms": 1717542997554,
+      "content": "Thank you!\n0438907939",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1717542957976,
+      "content": "Sure can, can i get a contact number please",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chantelle Shepherd",
+      "timestamp_ms": 1717542480062,
+      "content": "Hi! Can we book? Wanting a table for a group of four tomorrow at 5.30pm for food \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chantelle Shepherd",
+  "is_still_participant": true,
+  "thread_path": "inbox/chantelleshepherd_983928999857897",
+  "magic_words": [
+    
+  ]
+}

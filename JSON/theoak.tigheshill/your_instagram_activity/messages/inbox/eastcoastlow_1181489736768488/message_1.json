@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "East Coast Low"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "East Coast Low",
+      "timestamp_ms": 1743221017140,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "East Coast Low",
+      "timestamp_ms": 1743220691078,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "East Coast Low",
+      "timestamp_ms": 1743220624907,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1743199657730,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3598541845506817226"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "East Coast Low",
+  "is_still_participant": true,
+  "thread_path": "inbox/eastcoastlow_1181489736768488",
+  "magic_words": [
+    
+  ]
+}

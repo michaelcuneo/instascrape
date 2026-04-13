@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Whistle Dixie"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Whistle Dixie",
+      "timestamp_ms": 1741915684933,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Whistle Dixie",
+      "timestamp_ms": 1741750578871,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Whistle Dixie",
+      "timestamp_ms": 1741750575298,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1741749540165,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Whistle Dixie"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3586377505411847320"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1717762127252,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3385154154305084075"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Whistle Dixie",
+      "timestamp_ms": 1717718809407,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1717718776345,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3384792834183320310"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Whistle Dixie",
+  "is_still_participant": true,
+  "thread_path": "inbox/whistledixie_985095299741267",
+  "magic_words": [
+    
+  ]
+}

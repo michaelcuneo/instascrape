@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Samii Danielle Goodwin"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Samii Danielle Goodwin",
+      "timestamp_ms": 1632284650100,
+      "content": "If that's what makes you happy haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Cuneo Photography",
+      "timestamp_ms": 1632284542909,
+      "content": "I do not have any chickens nearby does it matter if it\u00e2\u0080\u0099s just a thigh piece from KFC?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Samii Danielle Goodwin",
+  "is_still_participant": true,
+  "thread_path": "inbox/samiidaniellegoodwin_890247501889019",
+  "magic_words": [
+    
+  ]
+}

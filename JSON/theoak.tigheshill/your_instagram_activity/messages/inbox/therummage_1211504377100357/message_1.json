@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "The Rummage"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Rummage",
+      "timestamp_ms": 1746595973603,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1746593606170,
+      "content": "Oakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Rummage",
+      "timestamp_ms": 1746593045796,
+      "content": "Hello. This is Noah from the rummage here. I\u00e2\u0080\u0099m just asking about how to contact you guys about gigs? Thanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Rummage",
+  "is_still_participant": true,
+  "thread_path": "inbox/therummage_1211504377100357",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "David Macmichael"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1767347455447,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3801108361592779994"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Macmichael",
+      "timestamp_ms": 1767346685960,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "David Macmichael",
+  "is_still_participant": true,
+  "thread_path": "inbox/davidmacmichael_1397733935144066",
+  "magic_words": [
+    
+  ]
+}

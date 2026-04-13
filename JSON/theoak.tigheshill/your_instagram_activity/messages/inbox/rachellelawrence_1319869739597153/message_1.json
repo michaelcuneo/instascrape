@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Rachelle Lawrence"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rachelle Lawrence",
+      "timestamp_ms": 1758939538659,
+      "content": "We are actually heading down now! 3 and a very friendly Dashhund",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1758939233726,
+      "content": "Hey Rachelle, what time would like to come and how many ppl?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rachelle Lawrence",
+      "timestamp_ms": 1758925181073,
+      "content": "Helloooo. Can I book a table for lunch today?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rachelle Lawrence",
+  "is_still_participant": true,
+  "thread_path": "inbox/rachellelawrence_1319869739597153",
+  "magic_words": [
+    
+  ]
+}

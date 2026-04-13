@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Hand walking queer"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hand walking queer",
+      "timestamp_ms": 1710579211931,
+      "content": "Oh that's great! She can get cranky at other dogs when she first meets them. So we'd keep her very close to us and would totally keep her out of the dining room! Thanks so much!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1710579235
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1710579106829,
+      "content": "Hey Cass! We are dog friendly we just ask that they\u00e2\u0080\u0099re not in the dining room during normal dinner service. That being said Theo the golden retriever runs our trivia on thursdays so your sausage dog is welcome then too.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hand walking queer",
+      "timestamp_ms": 1710578896018,
+      "content": "Hello! I've been told that The Oak is a lovely place to be. I just wanted to check what your policy on dogs is? I have a weird little dachsund that I take everywhere I go... Do you have a dog friendly beer garden? Or are they allowed inside? \nThanks! \nCass",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hand walking queer",
+  "is_still_participant": true,
+  "thread_path": "inbox/handwalkingqueer_937603931157071",
+  "magic_words": [
+    
+  ]
+}

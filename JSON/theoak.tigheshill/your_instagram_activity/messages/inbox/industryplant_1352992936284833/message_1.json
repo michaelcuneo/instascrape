@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Industry Plant"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Industry Plant",
+      "timestamp_ms": 1762228758084,
+      "content": "Hey, thanks for getting back to me. I have actually already reached out a while ago via email and haven't gotten a response, so I thought I'd try here. Would someone be able to put a word in for me that we are keen and have reached out?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762228501567,
+      "content": "Hey legend. Our band Booker is justan and his email is:\nOakBandBooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Industry Plant",
+      "timestamp_ms": 1762226304792,
+      "content": "Let me know if there are any available dates in December or early 2026",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Industry Plant",
+      "timestamp_ms": 1762226268807,
+      "content": "Hi, my name is Elijah. And I'm part of a 4-piece alternative rock band called Industry Plant, we're all 18 and over and would be super keen to play a gig at the Oak! We play high energy original music and would be a great fit for your venue!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Industry Plant",
+  "is_still_participant": true,
+  "thread_path": "inbox/industryplant_1352992936284833",
+  "magic_words": [
+    
+  ]
+}

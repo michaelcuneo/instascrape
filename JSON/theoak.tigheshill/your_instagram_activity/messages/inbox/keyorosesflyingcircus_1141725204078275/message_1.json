@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Keyo Rose\u00e2\u0080\u0099s Flying Circus"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Keyo Rose\u00e2\u0080\u0099s Flying Circus",
+      "timestamp_ms": 1738386276523,
+      "content": "Done \u00e2\u009c\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Keyo Rose\u00e2\u0080\u0099s Flying Circus",
+      "timestamp_ms": 1738386181491,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738386034426,
+      "content": "Hey guys! Throw an email out to @oakbandbooking@gmail.com it will put you onto our band booker Justan! Cheers",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Keyo Rose\u00e2\u0080\u0099s Flying Circus"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Keyo Rose\u00e2\u0080\u0099s Flying Circus",
+      "timestamp_ms": 1738385969074,
+      "content": "Hey The Oaks!! We are Keyos flying Circus- Melbourne rock 'n' roll band playing original tunes \nWe are organising our album tour through Feb and March and we would love to play Newcastle! wondering if you have Tuesday 4th, Wednesday 5th and Thursday 6 of march free? We will be able to sort a lineup out! We have 6 dates booked so far, 5 in Sydney and 2 on the goldy/brisi. Keen as to get something going if you\u00e2\u0080\u0099re keen!\nKeyo \u00f0\u009f\u008c\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Keyo Rose\u00e2\u0080\u0099s Flying Circus",
+  "is_still_participant": true,
+  "thread_path": "inbox/keyorosesflyingcircus_1141725204078275",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "kt"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "kt",
+      "timestamp_ms": 1734516607404,
+      "content": "Thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1734516585483,
+      "content": "Hey mate, email is oakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "kt",
+      "timestamp_ms": 1734516540270,
+      "content": "hi legends!! I'm hoping to follow up re a Whiskey Dram gig on 11 jan - is there an email address I can reach you on, please? (Or whatever works best for you?) \n\nsorry about this - our mate samara had been organising but is unwell and I'm not sure where things are at in her absence! \n\nthank you \u00f0\u009f\u0092\u0095",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "kt",
+  "is_still_participant": true,
+  "thread_path": "inbox/kt_1111889983728464",
+  "magic_words": [
+    
+  ]
+}

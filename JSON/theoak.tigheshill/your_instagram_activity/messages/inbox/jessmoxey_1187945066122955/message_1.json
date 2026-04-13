@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Jess Moxey"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jess Moxey",
+      "timestamp_ms": 1768569117526,
+      "content": "Haha shall do",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1768569038057,
+      "content": "Video chat ended",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1768569036921,
+      "content": "You started a video chat",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1768569008411,
+      "content": "No stress mate. Don\u00e2\u0080\u0099t forget to buy a margarita too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jess Moxey",
+      "timestamp_ms": 1768568962752,
+      "content": "Howdy. Just a note to say I\u00e2\u0080\u0099ll collect zee meat tray on Saturday. Cheers heaps",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jess Moxey",
+  "is_still_participant": true,
+  "thread_path": "inbox/jessmoxey_1187945066122955",
+  "magic_words": [
+    
+  ]
+}

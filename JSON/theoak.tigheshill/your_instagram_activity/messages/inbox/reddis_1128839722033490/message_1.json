@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Reddis"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Reddis",
+      "timestamp_ms": 1736751876287,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Reddis",
+  "is_still_participant": true,
+  "thread_path": "inbox/reddis_1128839722033490",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "/r.d.tv/"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "/r.d.tv/",
+      "timestamp_ms": 1759134376587,
+      "content": "\u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00e2\u0099\u00a5\u00ef\u00b8\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3732182091611390078"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "/r.d.tv/",
+      "timestamp_ms": 1748567013678,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1748565953539,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "/r.d.tv/"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3643557417264824312"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "/r.d.tv/",
+      "timestamp_ms": 1748517818330,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/rhys.dot.tv/3643153714889848773"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "/r.d.tv/",
+  "is_still_participant": true,
+  "thread_path": "inbox/rdtv_1226771948906933",
+  "magic_words": [
+    
+  ]
+}

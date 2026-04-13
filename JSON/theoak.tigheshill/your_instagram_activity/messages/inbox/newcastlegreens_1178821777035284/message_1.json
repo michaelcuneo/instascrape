@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Newcastle Greens"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Newcastle Greens",
+      "timestamp_ms": 1744792345486,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Newcastle Greens",
+      "timestamp_ms": 1744792316468,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Newcastle Greens",
+      "timestamp_ms": 1744791538022,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Newcastle Greens",
+      "timestamp_ms": 1744778363275,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Newcastle Greens",
+      "timestamp_ms": 1744778193842,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1744777828329,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Newcastle Greens"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Newcastle Greens",
+      "timestamp_ms": 1742882323454,
+      "content": "Newcastle sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DHnGbqhyFzQ/?carousel_share_child_media_id=3595871116847504592_1206150808",
+        "share_text": "\u00f0\u009f\u0094\u00a5\u00f0\u009f\u008c\u00bf It\u00e2\u0080\u0099s that time of year! Join NSW MLC @greencate & senator @davidshoebridge for an epic 420 celebration\u00e2\u0080\u0094updates, trivia, music & good vibes! \u00f0\u009f\u008e\u00b6\u00e2\u009c\u00a8 Event link in bio!\n\nLet\u00e2\u0080\u0099s be real: cannabis is everywhere. More than half of Aussie adults have tried it, yet politicians still act like it doesn\u00e2\u0080\u0099t exist \u00e2\u009b\u0094\u00f0\u009f\u0091\u0080 \n\nMeanwhile, the failed \u00e2\u0080\u009cwar on weed\u00e2\u0080\u009d just fuels organised crime & puts communities at risk.\n\nIt\u00e2\u0080\u0099s time for a legal, regulated cannabis market\u00e2\u0080\u0094safe products, quality jobs & millions in tax revenue for public services. The Greens are ready. The experts agree. Now we just need the major parties to roll up their w\u00cc\u00b6e\u00cc\u00b6e\u00cc\u00b6d\u00cc\u00b6 sleeves. \u00f0\u009f\u0092\u00aa \u00f0\u009f\u008c\u00b1 \n\nWednesday, April 16, 6pm at The (Royal) Oak Hotel, Tighes Hill. \n\n\u00f0\u009f\u0094\u0097 EVENT LINK IN BIO \n\n#420 #LegaliseIt #CannabisReform #TheGreens",
+        "original_content_owner": "newcastle_greens"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Newcastle Greens",
+  "is_still_participant": true,
+  "thread_path": "inbox/newcastlegreens_1178821777035284",
+  "magic_words": [
+    
+  ]
+}

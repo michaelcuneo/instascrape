@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Miranda Sharpe"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Miranda Sharpe",
+      "timestamp_ms": 1771316276387,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miranda Sharpe",
+      "timestamp_ms": 1700746817785,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3241878876733094097"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Miranda Sharpe",
+  "is_still_participant": true,
+  "thread_path": "inbox/mirandasharpe_875107287406736",
+  "magic_words": [
+    
+  ]
+}

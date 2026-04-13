@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Charlie & Jensen"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1753960721174,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3688812316646266968"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlie & Jensen",
+      "timestamp_ms": 1753956737516,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Charlie & Jensen",
+  "is_still_participant": true,
+  "thread_path": "inbox/charliejensen_1273982400852554",
+  "magic_words": [
+    
+  ]
+}

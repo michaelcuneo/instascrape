@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Small Acres Cyder"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764454347753,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3776838965132436315"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764034714782,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3773318833557833731"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762476292838,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Small Acres Cyder",
+  "is_still_participant": true,
+  "thread_path": "inbox/smallacrescyder_1355436872707106",
+  "magic_words": [
+    
+  ]
+}

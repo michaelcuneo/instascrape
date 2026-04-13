@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Stella Maris Oyster Co."
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1705053305362,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3278547173037214767"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stella Maris Oyster Co.",
+  "is_still_participant": true,
+  "thread_path": "inbox/stellamarisoysterco_902318581352273",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "benny_stoj"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "benny_stoj",
+      "timestamp_ms": 1738571656731,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738571569181,
+      "content": "Hey mate, hit up Justan our band booker. He\u00e2\u0080\u0099s got a work sheet with all details. \n\nOakbandbooking@gmail.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "benny_stoj",
+          "timestamp": 1738571656
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "benny_stoj",
+      "timestamp_ms": 1738571527465,
+      "content": "Also a bit of a rundown of what the oak provides already and what the bands would need to supply",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "benny_stoj",
+      "timestamp_ms": 1738571501399,
+      "content": "Hey Josh, we spoke yesterday at the show yesterday, was hoping to the best contract details for booking shows",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "benny_stoj",
+  "is_still_participant": true,
+  "thread_path": "inbox/benny_stoj_1143247287259400",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Brayden Stairmand"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brayden Stairmand",
+      "timestamp_ms": 1738624153614,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brayden Stairmand",
+      "timestamp_ms": 1738624074342,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brayden Stairmand",
+  "is_still_participant": true,
+  "thread_path": "inbox/braydenstairmand_1143680760549386",
+  "magic_words": [
+    
+  ]
+}

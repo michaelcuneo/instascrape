@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Klub Kongo"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1765581833104,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3786297229150719203"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klub Kongo",
+      "timestamp_ms": 1765575638139,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klub Kongo",
+      "timestamp_ms": 1747440141427,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/klubkongo_1216254379958690/photos/1834867283746598.jpg",
+          "creation_timestamp": 1747440140
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klub Kongo",
+      "timestamp_ms": 1747440137593,
+      "content": "Hey crew feel free to share our poster for tonight! Look forward to it.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Klub Kongo",
+      "timestamp_ms": 1747221727758,
+      "share": {
+        "link": "https://www.instagram.com/stories/klubkongo_piranhatamers/3632281076070009803"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Klub Kongo",
+  "is_still_participant": true,
+  "thread_path": "inbox/klubkongo_1216254379958690",
+  "magic_words": [
+    
+  ]
+}

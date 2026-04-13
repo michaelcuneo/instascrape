@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Millie Gant"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Millie Gant",
+      "timestamp_ms": 1768730525956,
+      "content": "Hey thanks so much for the reply! \nI\u00e2\u0080\u0099ll have a chat with my mate and get back to Josh if we want to go through with it\nAppreciate the response thanks!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1768715665190,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1768715664234,
+      "content": "Hey Millie, we currently have a function booked for the day who have booked the live music bar who will also be looking to use the beergarden, if you are happy to mingle with them we can offer you the sports lounge area as your own private spot and reserve a few tables in the beergarden if you like.\nIf you\u00e2\u0080\u0099re open to that please Give Josh (licensee) a call on 0455 400 668 to discuss minumum spend and so forth! Cheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Millie Gant",
+      "timestamp_ms": 1768687963749,
+      "content": "Good morning! I\u00e2\u0080\u0099m just wanting to enquire about a joint 30th birthday, me and a mate are trying to organise somewhere for the 21st February, for roughly 50 guests. Do you have capacity if we hire out the beer garden at all? \nThank you \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Millie Gant",
+  "is_still_participant": true,
+  "thread_path": "inbox/milliegant_1409025787348214",
+  "magic_words": [
+    
+  ]
+}

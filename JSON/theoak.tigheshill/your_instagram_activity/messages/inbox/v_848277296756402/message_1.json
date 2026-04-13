@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "V"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1710744042452,
+      "content": "That\u00e2\u0080\u0099s the one.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V",
+      "timestamp_ms": 1710743957229,
+      "content": "Sweet! Is that the spot with the lovely stage setup?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1710736729947,
+      "content": "We would look at booking the front bar for that number",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V",
+      "timestamp_ms": 1710730968437,
+      "content": "Great! I was hoping to inquire about a wedding reception of approx 60 guests in november this year. Do you have a separate space that can be used for functions or would it be the whole venue? Thanks \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V",
+      "timestamp_ms": 1710730843484,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1710728911377,
+      "content": "We sure do.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "V",
+          "timestamp": 1710730843
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V",
+      "timestamp_ms": 1710728401606,
+      "content": "Hi there! I was just wondering if you guys do private functions?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "V",
+  "is_still_participant": true,
+  "thread_path": "inbox/v_848277296756402",
+  "magic_words": [
+    
+  ]
+}

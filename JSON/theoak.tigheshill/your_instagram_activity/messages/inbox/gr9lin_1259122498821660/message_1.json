@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "gr9lin"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1755848911357,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3704651610359014943"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "gr9lin",
+      "timestamp_ms": 1755846991254,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "gr9lin",
+      "timestamp_ms": 1734834490007,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "gr9lin",
+  "is_still_participant": true,
+  "thread_path": "inbox/gr9lin_1259122498821660",
+  "magic_words": [
+    
+  ]
+}

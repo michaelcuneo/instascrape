@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Nathaniel James"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nathaniel James",
+      "timestamp_ms": 1706402145675,
+      "content": "Yeeee hawwwwww",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1706402192
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3289186334353976079"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nathaniel James",
+  "is_still_participant": true,
+  "thread_path": "inbox/nathanieljames_911360910448040",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "She_needa"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "She_needa",
+      "timestamp_ms": 1770805196472,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "She_needa",
+      "timestamp_ms": 1770805148667,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "She_needa",
+  "is_still_participant": true,
+  "thread_path": "inbox/she_needa_1429387005312092",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "montana_bandofficial"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "montana_bandofficial",
+      "timestamp_ms": 1754544563978,
+      "content": "sweet as will do thanks heaps! hope to see u soon",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1754544500261,
+      "content": "Best bet is to hit up Justan our band booker. Here\u00e2\u0080\u0099s his email\u00e2\u0080\u00a6\n\nOakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "montana_bandofficial",
+      "timestamp_ms": 1754543938754,
+      "content": "Hey guys, heard some heaps good things about the oak\u00e2\u0080\u00a6\nJust wanted to reach out to see if u have any gig opportunities for the next few months!\nLet us know, cheers \u00f0\u009f\u00a4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "montana_bandofficial",
+  "is_still_participant": true,
+  "thread_path": "inbox/montana_bandofficial_1279421816975279",
+  "magic_words": [
+    
+  ]
+}

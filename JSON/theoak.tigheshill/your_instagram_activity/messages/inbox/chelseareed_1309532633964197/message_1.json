@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Chelsea Reed"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chelsea Reed",
+      "timestamp_ms": 1767420269211,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chelsea Reed",
+      "timestamp_ms": 1763288798853,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chelsea Reed",
+      "timestamp_ms": 1757907091189,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1757847452564,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Chelsea Reed"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3721416463622409881"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chelsea Reed",
+      "timestamp_ms": 1757847406915,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chelsea Reed",
+  "is_still_participant": true,
+  "thread_path": "inbox/chelseareed_1309532633964197",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Ray Woollams"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ray Woollams",
+      "timestamp_ms": 1698992910365,
+      "content": "Awesome!  Thanks so much for getting back to me, little one was kicking off so had to make other plans, will try our luck tomorrow.\nCheers!\u00f0\u009f\u00a4\u0098",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1698993992
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1698991751058,
+      "content": "Open 5-8.30 today. Can book or there\u00e2\u0080\u0099s seats at the bar for small groups",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ray Woollams",
+      "timestamp_ms": 1698988484325,
+      "content": "Hey guys how\u00e2\u0080\u0099s it going? \nJust wondering if and what time the kitchen is open today? \nDo we need a booking for an early dinner?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ray Woollams",
+  "is_still_participant": true,
+  "thread_path": "inbox/raywoollams_865165621734236",
+  "magic_words": [
+    
+  ]
+}

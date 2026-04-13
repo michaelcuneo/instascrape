@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Chris Wash"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764567799631,
+      "content": "This account can't receive your message because they don't allow new message requests from everyone.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764567796585,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chris Wash",
+  "is_still_participant": true,
+  "thread_path": "inbox/chriswash_1374377137479746",
+  "magic_words": [
+    
+  ]
+}

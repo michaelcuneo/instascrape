@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Jose Bowie"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jose Bowie",
+      "timestamp_ms": 1746706185927,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jose Bowie",
+  "is_still_participant": true,
+  "thread_path": "inbox/josebowie_1212355437015251",
+  "magic_words": [
+    
+  ]
+}

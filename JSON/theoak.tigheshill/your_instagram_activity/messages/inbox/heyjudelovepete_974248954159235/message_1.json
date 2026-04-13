@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Hey Jude Love Pete"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hey Jude Love Pete",
+      "timestamp_ms": 1744793556430,
+      "content": "Sad. My local.  No longer \u00f0\u009f\u0098\u00ab. Was a Greens lover until they showed their true colours. Much of the community is feeling the same. This is NOT about 420. Far from it. I am all for it. However,  they have truly been SO APPALLING at supporting Our Community . Sorry for the verbal vomit. Just extremely disappointed",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1716104145562,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3371248300463852340"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hey Jude Love Pete",
+      "timestamp_ms": 1716097514906,
+      "share": {
+        "link": "https://www.instagram.com/stories/heyjudelovepete/3371192045623411277"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hey Jude Love Pete",
+  "is_still_participant": true,
+  "thread_path": "inbox/heyjudelovepete_974248954159235",
+  "magic_words": [
+    
+  ]
+}

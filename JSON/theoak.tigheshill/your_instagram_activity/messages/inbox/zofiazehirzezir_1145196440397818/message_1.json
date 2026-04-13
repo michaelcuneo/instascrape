@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0090\u0099\u00f0\u009d\u0090\u00a8\u00f0\u009d\u0090\u009f\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u009a (ze/hir) (ze/zir)"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0099\u00f0\u009d\u0090\u00a8\u00f0\u009d\u0090\u009f\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u009a (ze/hir) (ze/zir)",
+      "timestamp_ms": 1738828514804,
+      "content": "Thank you!!\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738828463703,
+      "content": "8:45pm!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0099\u00f0\u009d\u0090\u00a8\u00f0\u009d\u0090\u009f\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u009a (ze/hir) (ze/zir)",
+      "timestamp_ms": 1738828423404,
+      "content": "Just wondering what time the music set starts tomorrow? (Huckleberry) thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0090\u0099\u00f0\u009d\u0090\u00a8\u00f0\u009d\u0090\u009f\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u009a (ze/hir) (ze/zir)",
+  "is_still_participant": true,
+  "thread_path": "inbox/zofiazehirzezir_1145196440397818",
+  "magic_words": [
+    
+  ]
+}

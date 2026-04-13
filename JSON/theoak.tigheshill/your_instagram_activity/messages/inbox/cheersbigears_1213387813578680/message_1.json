@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "CHEERS BIG EARS"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CHEERS BIG EARS",
+      "timestamp_ms": 1746870671159,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1746846573171,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CHEERS BIG EARS"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3629134440880111677"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CHEERS BIG EARS",
+      "timestamp_ms": 1746844306059,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "CHEERS BIG EARS",
+  "is_still_participant": true,
+  "thread_path": "inbox/cheersbigears_1213387813578680",
+  "magic_words": [
+    
+  ]
+}

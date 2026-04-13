@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Ruby Cooke"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ruby Cooke",
+      "timestamp_ms": 1734154205837,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ruby Cooke",
+  "is_still_participant": true,
+  "thread_path": "inbox/rubycooke_1109143634003099",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "marleepez"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1750239420579,
+      "content": "Hey Marlee, are you still coming?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "marleepez",
+      "timestamp_ms": 1750228296513,
+      "content": "Awesome. Cannot wait thank you thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1750227843282,
+      "content": "We will be running it as a table service setup! Also with bar snacks for you aswell!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1750227682810,
+      "content": "Hey Marlee, so drinks pckage runs for a 2hr period, we will have the table ready you from 7pm! And can kickstart when you arrive!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "marleepez",
+      "timestamp_ms": 1750227511198,
+      "content": "Looking forward to tonight! Do we just arrive for kick off at 8?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "marleepez",
+      "timestamp_ms": 1750149733587,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "marleepez",
+      "timestamp_ms": 1750149551592,
+      "content": "Oh my god hell yeah! Thank you so much!!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1750149368959,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3656840148873921959"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "marleepez",
+  "is_still_participant": true,
+  "thread_path": "inbox/marleepez_1240678144182980",
+  "magic_words": [
+    
+  ]
+}

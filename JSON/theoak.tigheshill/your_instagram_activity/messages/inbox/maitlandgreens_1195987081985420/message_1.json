@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Maitland Greens"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maitland Greens",
+      "timestamp_ms": 1744797305968,
+      "content": "Maitland sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DIgM-68xhch/?carousel_share_child_media_id=3611944001613469473_70670398724",
+        "share_text": "@greencate @davidshoebridge @sinead_francis_coan @charlotte_mccabe_greens @pauljohns.greens having a bit of fun with trivia and some great discussion on Legalise Cannabis\n@theoak.tigheshill \n#LegaliseCannabis\n#MaitlandGreens #PatersonGreens #PortStephensGreens #FederalElection2025\n#AustralianGreens #NSWGreens #CostOfLivingCrisis #FreeGP #DentalIntoMedicare #WipeStudentDebt #50cPublicTransport \n#Vote1Greens",
+        "original_content_owner": "maitlandgreens"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maitland Greens",
+  "is_still_participant": true,
+  "thread_path": "inbox/maitlandgreens_1195987081985420",
+  "magic_words": [
+    
+  ]
+}

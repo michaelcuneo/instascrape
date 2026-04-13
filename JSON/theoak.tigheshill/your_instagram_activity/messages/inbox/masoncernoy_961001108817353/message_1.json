@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Mason Cernoy"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1714196276865,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3355243923043440911"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mason Cernoy",
+      "timestamp_ms": 1714196134918,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mason Cernoy",
+  "is_still_participant": true,
+  "thread_path": "inbox/masoncernoy_961001108817353",
+  "magic_words": [
+    
+  ]
+}

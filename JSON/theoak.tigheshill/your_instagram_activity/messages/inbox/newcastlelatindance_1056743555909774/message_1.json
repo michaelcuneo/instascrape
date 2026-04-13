@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Newcastle Latin Dance"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1775643675128,
+      "content": "Samba frog are playing the oak next Sun the 19th :)\n\nWe would love to see you all there dancing up a storm!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Newcastle Latin Dance",
+      "timestamp_ms": 1774778159369,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752572538924,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752572538585,
+      "content": "Hey Legends,\n\nIt\u00e2\u0080\u0099s Dunny from the Oak Tighes Hill.\n\nCan I confirm Salsa is on at the Oak, after school holidays starting back 29th of July?\n\nI\u00e2\u0080\u0099d love to have a chat with you about promoting this more for you and few other bits pieces.\n\nI hope you have a nice break!\n\nCheers Dunny\n0411541887\n\nAlso txted this to the number on my fb profile",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Newcastle Latin Dance",
+      "timestamp_ms": 1727523182437,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Newcastle Latin Dance",
+  "is_still_participant": true,
+  "thread_path": "inbox/newcastlelatindance_1056743555909774",
+  "magic_words": [
+    
+  ]
+}

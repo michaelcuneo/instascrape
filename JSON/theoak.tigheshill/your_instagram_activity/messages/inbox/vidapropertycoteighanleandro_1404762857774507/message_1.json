@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Vida Property Co. | Teighan & Leandro"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vida Property Co. | Teighan & Leandro",
+      "timestamp_ms": 1768198952203,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1768198451751,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Vida Property Co. | Teighan & Leandro"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3808246680990644764"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vida Property Co. | Teighan & Leandro",
+      "timestamp_ms": 1768198139073,
+      "share": {
+        "link": "https://www.instagram.com/stories/vidapropertyco/3808239725619388794"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vida Property Co. | Teighan & Leandro",
+  "is_still_participant": true,
+  "thread_path": "inbox/vidapropertycoteighanleandro_1404762857774507",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Dylan Egan"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dylan Egan",
+      "timestamp_ms": 1698987606547,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1698986221553,
+      "content": "I\u00e2\u0080\u0099ll let you know if we decide to open for lunch Sunday!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Dylan Egan",
+          "timestamp": 1698987606
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dylan Egan",
+      "timestamp_ms": 1698984818355,
+      "content": "Ah! Have family visiting Sunday, but we may still pop in for a beer before pizza.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1698986193
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1698959707857,
+      "content": "Kitchens Open 5pm to 8.30pm Friday and Saturday this week",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dylan Egan",
+      "timestamp_ms": 1698958915380,
+      "content": "What are the hours available for the dinner over the weekend?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dylan Egan",
+      "timestamp_ms": 1698958915031,
+      "content": "Dylan sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CzI7O5NvI_8/",
+        "share_text": "News just in\u00e2\u0080\u00a6 Our kitchen is ready and will be open for dinner this weekend! VERY limited bookings for our first couple of services. DM to book.",
+        "original_content_owner": "theoak.tigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dylan Egan",
+  "is_still_participant": true,
+  "thread_path": "inbox/dylanegan_1248607053208017",
+  "magic_words": [
+    
+  ]
+}

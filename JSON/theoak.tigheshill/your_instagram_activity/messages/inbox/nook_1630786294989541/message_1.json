@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "nook"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1753504528809,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3684985368933691118"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nook",
+      "timestamp_ms": 1753503915959,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "nook",
+  "is_still_participant": true,
+  "thread_path": "inbox/nook_1630786294989541",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sondar"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sondar",
+      "timestamp_ms": 1750375642302,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sondar",
+      "timestamp_ms": 1748340882579,
+      "content": "Sondar sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DKJz0WVSpm8/",
+        "share_text": "SONDAR \u00f0\u009f\u00a4\u009d MITCH ELLIOTT . free noisey show in muloobinba next month at the oak . save the date",
+        "original_content_owner": "sondarnoise"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sondar",
+      "timestamp_ms": 1716558030082,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sondar",
+  "is_still_participant": true,
+  "thread_path": "inbox/sondar_977484613835669",
+  "magic_words": [
+    
+  ]
+}

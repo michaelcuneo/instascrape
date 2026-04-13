@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "jo lynch"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "jo lynch",
+      "timestamp_ms": 1772107545977,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "jo lynch",
+  "is_still_participant": true,
+  "thread_path": "inbox/jolynch_1444726717097572",
+  "magic_words": [
+    
+  ]
+}

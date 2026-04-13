@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Kassy King |\u00e2\u009c\u00a8 Creative Crafty Hobbies \u00e2\u009c\u00a8"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kassy King |\u00e2\u009c\u00a8 Creative Crafty Hobbies \u00e2\u009c\u00a8",
+      "timestamp_ms": 1753775855086,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kassy King |\u00e2\u009c\u00a8 Creative Crafty Hobbies \u00e2\u009c\u00a8",
+  "is_still_participant": true,
+  "thread_path": "inbox/kassykingcreativecraftyhobbies_1272371224347005",
+  "magic_words": [
+    
+  ]
+}

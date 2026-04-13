@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Trashed Again"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Trashed Again",
+      "timestamp_ms": 1707806783725,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Trashed Again",
+  "is_still_participant": true,
+  "thread_path": "inbox/trashedagain_920757889508342",
+  "magic_words": [
+    
+  ]
+}

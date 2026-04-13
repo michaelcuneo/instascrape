@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Kaitlyn Callinan"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kaitlyn Callinan",
+      "timestamp_ms": 1706782614847,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kaitlyn Callinan",
+  "is_still_participant": true,
+  "thread_path": "inbox/kaitlyncallinan_906191270965004",
+  "magic_words": [
+    
+  ]
+}

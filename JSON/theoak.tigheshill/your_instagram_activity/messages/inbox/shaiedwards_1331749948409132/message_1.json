@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Shai Edwards"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760087368595,
+      "content": "Sorted. \n\n-Josh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760086721403,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shai Edwards",
+      "timestamp_ms": 1760086720505,
+      "content": "0413199828\n12pm Sunday 12th\n10 people (6 adults 4 kids)\n1x vegetarian \nUnder the Name Shai Edwards\n\nThank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760086068710,
+      "content": "I can take one here, will have a look at the link when I get the chance. \n\nCan you send me:\nPh number\nTime of booking \nSize of booking\nAny dietaries",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shai Edwards",
+      "timestamp_ms": 1760084402544,
+      "content": "Hey! I was wanting to book a table for Sunday but the link isn't working. Do you still take bookings?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shai Edwards",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaiedwards_1331749948409132",
+  "magic_words": [
+    
+  ]
+}

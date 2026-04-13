@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "manuel__rohrl"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1737413397589,
+      "content": "All g thx bruv",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "manuel__rohrl",
+      "timestamp_ms": 1737413384501,
+      "content": "Heya, not playing with goon gremlins anymore, good luck, hope the gig goes well :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1737432143
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1737348841325,
+      "content": "Hey man it\u00e2\u0080\u0099s Dunny, I sent goon gremlins a msg I\u00e2\u0080\u0099ve got a large last min gig I\u00e2\u0080\u0099m pulling together.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "manuel__rohrl",
+      "timestamp_ms": 1709346269205,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "manuel__rohrl",
+  "is_still_participant": true,
+  "thread_path": "inbox/manuel__rohrl_930182555232542",
+  "magic_words": [
+    
+  ]
+}

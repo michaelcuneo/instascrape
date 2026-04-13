@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Stella Ar Tois"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stella Ar Tois",
+      "timestamp_ms": 1713591311569,
+      "content": "Amazing thanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713590160795,
+      "content": "Head in with a resume and ask for Conor. We\u00e2\u0080\u0099ll sort you out with a trial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stella Ar Tois",
+      "timestamp_ms": 1713590006394,
+      "content": "Yeah :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713589628241,
+      "content": "For bar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stella Ar Tois",
+      "timestamp_ms": 1713588614681,
+      "content": "Are you guys hiring",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stella Ar Tois",
+  "is_still_participant": true,
+  "thread_path": "inbox/stellaartois_957048799212584",
+  "magic_words": [
+    
+  ]
+}

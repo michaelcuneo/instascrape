@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Jorde Baker"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jorde Baker",
+      "timestamp_ms": 1761991389411,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jorde Baker",
+  "is_still_participant": true,
+  "thread_path": "inbox/jordebaker_1350669046517222",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Mo's Desert Clubhouse"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mo's Desert Clubhouse",
+      "timestamp_ms": 1756119711180,
+      "content": "Will do mate cheers!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1756119143871,
+      "content": "Let Justan know you spoke to me and it\u00e2\u0080\u0099ll hit the top of his pile. \u00f0\u009f\u00a4\u0098\u00f0\u009f\u00a4\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mo's Desert Clubhouse",
+      "timestamp_ms": 1756119057882,
+      "content": "Ah wow mate cool.  Email incoming from my Booking agency Beats Cartel.  Glad you dig the space!  Have heard good things about your joint from some ex newy staff here.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mo's Desert Clubhouse",
+      "timestamp_ms": 1756118994641,
+      "content": "Hey theoak.tigheshill ! \nThanks for reaching out to Mo's, sometimes we miss these messages so best to get in touch with us directly:\n\nEvents - events@mosdesertclubhouse.com\n\nMusic - music@mosdesertclubhouse.com \n\nAll other enquiries or you ain't sure who you want contact\ninfo@mosdesertclubhouse.com\n\nIf you would like to know more about our spaces or upcoming events visit our website: www.mosdesertclubhouse.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1756118993221,
+      "content": "Hey mate, love your venue. Got onto you guys through Rollerball! Could definitely have some crossover with the bands we\u00e2\u0080\u0099ve both got coming through. \n\nBest contact for band booking is Justan Saunders \nOakbandbooking@gmail.com\n\nCheers, Josh (Licensee)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mo's Desert Clubhouse",
+      "timestamp_ms": 1756118783119,
+      "content": "Hey crew!  I have a touring booking agency and chasing best email contact for show bookings.  Have heard goog things.  Cheers.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mo's Desert Clubhouse",
+  "is_still_participant": true,
+  "thread_path": "inbox/mosdesertclubhouse_1293888522195275",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Ken"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ken",
+      "timestamp_ms": 1749605339791,
+      "content": "Reacted \u00f0\u009f\u0096\u00a4 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1749605139145,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/ken_1143866210530841/videos/1994685881060860.mp4",
+          "creation_timestamp": 1749605137
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/ken_1143866210530841/videos/2935941899919596.mp4",
+          "creation_timestamp": 1749605137
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0096\u00a4",
+          "actor": "Ken"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738648355237,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738647512148,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ken",
+  "is_still_participant": true,
+  "thread_path": "inbox/ken_1143866210530841",
+  "magic_words": [
+    
+  ]
+}

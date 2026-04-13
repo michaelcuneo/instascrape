@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Miller Roberts"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Miller Roberts",
+      "timestamp_ms": 1721200203635,
+      "content": "Thanks Dunny, I appreciate that!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1721200047458,
+      "content": "Lovely music!\n\nDunny\nOak co-owner",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miller Roberts",
+      "timestamp_ms": 1721199993931,
+      "content": "epic thank you!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1721200021
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1721198541874,
+      "content": "Hey legend our band Booker is justan and can be contacted via email here:\nOakBandBooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miller Roberts",
+      "timestamp_ms": 1721196555271,
+      "content": "Hey guys!\n\nMiller Roberts here, I'm a local musician.\n\nI'd love to chat about getting on your recommended supports list for any tours that come to Newy.\n\nI'm an indie folk/pop artist, about to support Jem Cassar-Daley in Sydney and have sold out 2 Sydney shows and 1 Newcastle show at 48 Watt Street (before it became Ravella).\n\nI've got a really solid fanbase in Newy so could definitely contribute to ticket sales of any artist!\n\nLet me know who is best to chat to about that.\n\nCheers!\n\nMill x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Miller Roberts",
+  "is_still_participant": true,
+  "thread_path": "inbox/millerroberts_1009325437318253",
+  "magic_words": [
+    
+  ]
+}

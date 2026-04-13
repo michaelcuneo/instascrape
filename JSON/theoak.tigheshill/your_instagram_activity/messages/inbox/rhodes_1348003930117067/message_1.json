@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Rhodes"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rhodes",
+      "timestamp_ms": 1762482247597,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762423433477,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rhodes",
+      "timestamp_ms": 1762144978483,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rhodes",
+      "timestamp_ms": 1762144927990,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762144760832,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Rhodes"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rhodes",
+      "timestamp_ms": 1761702541797,
+      "content": "Rhodes sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DQYBKWFgfAh/?carousel_share_child_media_id=3753755398369308705_76960648470",
+        "share_text": "Ello, next up we\u00e2\u0080\u0099re playing on FRIDAY the 7th of November @theoak.tigheshill with the legendary @whatasookylala_ and @lavjavband !! Sam and Thevan have been talking about it all gawdamn week so we\u00e2\u0080\u0099ll see all your smexy faces there \u00f0\u009f\u0098\u0089 starts at 8pm",
+        "original_content_owner": "rhodesrhodesrhodes"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rhodes",
+  "is_still_participant": true,
+  "thread_path": "inbox/rhodes_1348003930117067",
+  "magic_words": [
+    
+  ]
+}

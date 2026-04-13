@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "SATSUMAPOLO"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SATSUMAPOLO",
+      "timestamp_ms": 1761364862416,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SATSUMAPOLO",
+      "timestamp_ms": 1760342316254,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760340559472,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "SATSUMAPOLO"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3742330133332195820"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SATSUMAPOLO",
+      "timestamp_ms": 1760339485652,
+      "share": {
+        "link": "https://www.instagram.com/stories/satsumasupply/3742297399885996609"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SATSUMAPOLO",
+  "is_still_participant": true,
+  "thread_path": "inbox/satsumapolo_1876487267085181",
+  "magic_words": [
+    
+  ]
+}

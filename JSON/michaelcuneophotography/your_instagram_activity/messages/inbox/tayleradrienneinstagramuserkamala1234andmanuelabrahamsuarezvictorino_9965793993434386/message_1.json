@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Michael Cuneo Photography"
+    },
+    {
+      "name": "tayler adrienne"
+    },
+    {
+      "name": "Instagram user"
+    },
+    {
+      "name": "kamala 1234"
+    },
+    {
+      "name": "Manuel Abraham Su\u00c3\u00a1rez Victorino"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Efren Pascua",
+      "timestamp_ms": 1766375214918,
+      "content": "Efren Pascua left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00d0\u0096\u00d0\u00be\u00d1\u0080\u00d0\u00b8\u00d0\u00ba \u00d0\u00a1\u00d0\u00b0\u00d1\u0085\u00d0\u00b0\u00d1\u0082\u00d0\u00be\u00d0\u00b2",
+      "timestamp_ms": 1721643084211,
+      "content": "\u00d0\u0096\u00d0\u00be\u00d1\u0080\u00d0\u00b8\u00d0\u00ba \u00d0\u00a1\u00d0\u00b0\u00d1\u0085\u00d0\u00b0\u00d1\u0082\u00d0\u00be\u00d0\u00b2 left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shane Zammit",
+      "timestamp_ms": 1687544796305,
+      "content": "Shane Zammit left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "tayler adrienne, Instagram user, kamala 1234 and Manuel Abraham Su\u00c3\u00a1rez Victorino",
+  "is_still_participant": true,
+  "thread_path": "inbox/tayleradrienneinstagramuserkamala1234andmanuelabrahamsuarezvictorino_9965793993434386",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/Abb5QUtv77pAKhZz/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Chevy Taheyna"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chevy Taheyna",
+      "timestamp_ms": 1745240411502,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chevy Taheyna",
+      "timestamp_ms": 1728475623669,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chevy Taheyna",
+  "is_still_participant": true,
+  "thread_path": "inbox/chevytaheyna_1064634558454007",
+  "magic_words": [
+    
+  ]
+}

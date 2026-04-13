@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Rosie Ruwald"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rosie Ruwald",
+      "timestamp_ms": 1705283685778,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1705295010
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3279998196666739702"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rosie Ruwald",
+  "is_still_participant": true,
+  "thread_path": "inbox/rosieruwald_1325102152223166",
+  "magic_words": [
+    
+  ]
+}

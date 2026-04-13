@@ -1,0 +1,98 @@
+{
+  "participants": [
+    {
+      "name": "Bin Lids"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1774149528639,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1774149521658,
+      "content": "He legends it\u00e2\u0080\u0099s Dunny(ex Lass) from The Oak Tighes Hill.\n\nWe\u00e2\u0080\u0099ve had a 50th birthday function booked for our front live music bar on Saturday 23rd of May.\n\nThey have or will reach out to you as they\u00e2\u0080\u0099d love you to play for the night.\n\nThe best contact is Ash on 0490455404 or they said they msged you on Facebook and her name is Asher.\n\nLmk if you need anything further in my end.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bin Lids",
+      "timestamp_ms": 1764566237752,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764566229068,
+      "content": "Enjoy legends! Thx for getting back super quick!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bin Lids"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764566218583,
+      "content": "Yeah I think everyone is going to that lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bin Lids",
+      "timestamp_ms": 1764566189783,
+      "content": "Hey guys! Thanks heaps for thinking of us! We would normally have loved to play! But we\u00e2\u0080\u0099re all headed to good things festival in Sydney on Saturday!  \n\nBut thanks again for the call up! Hope we can link up again soon!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764566026496,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/binlids_973650730885724/videos/802919596057318.mp4",
+          "creation_timestamp": 1764566007
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764566001792,
+      "content": "Hey legends,\n\nThis is a very late call up\u00e2\u0080\u00a6\n\nWe are pulling together a gig this weekend for our annual \u00e2\u0080\u009cGoccsy\u00e2\u0080\u0099s Christmas Extravaganza\u00e2\u0080\u009d\n\nWe had a few bands pull out and we were wondering if you\u00e2\u0080\u0099d like to play?\n\nIt\u00e2\u0080\u0099s Saturday.\n\nThis is goccsy:\n\nhttps://www.instagram.com/aarongocs?igsh=NnpiaWozZHFzbTZx",
+      "share": {
+        "link": "https://www.instagram.com/_u/aarongocs",
+        "profile_share_username": "aarongocs",
+        "profile_share_name": "Aaron Gocs"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1716018380726,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3370528890027534053"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bin Lids",
+  "is_still_participant": true,
+  "thread_path": "inbox/binlids_973650730885724",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Lucas Robinson"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1729291438385,
+      "content": "No stress. Will be in the front bar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Robinson",
+      "timestamp_ms": 1729291392196,
+      "content": "12.30 please",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1729291079758,
+      "content": "What time?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1729291067717,
+      "content": "Sure can",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Robinson",
+      "timestamp_ms": 1729291047409,
+      "content": "Could you fit 17 (5 kids) in for lunch today?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucas Robinson",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucasrobinson_1071613281089468",
+  "magic_words": [
+    
+  ]
+}

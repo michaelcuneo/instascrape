@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Gail Lee"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gail Lee",
+      "timestamp_ms": 1767088451963,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1765361395433,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3784448085237775170"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gail Lee",
+      "timestamp_ms": 1765361258406,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gail Lee",
+  "is_still_participant": true,
+  "thread_path": "inbox/gaillee_974248830825914",
+  "magic_words": [
+    
+  ]
+}

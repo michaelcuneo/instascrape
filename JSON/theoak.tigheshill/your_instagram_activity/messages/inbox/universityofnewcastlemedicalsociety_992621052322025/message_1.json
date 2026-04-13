@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "University of Newcastle Medical Society"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "University of Newcastle Medical Society",
+      "timestamp_ms": 1718855802662,
+      "content": "Thank you heaps again, very grateful for your help \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1718855753361,
+      "content": "Perfect. I\u00e2\u0080\u0099ll set them aside out the back for you. \u00f0\u009f\u00a4\u0098\u00f0\u009f\u00a4\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "University of Newcastle Medical Society",
+      "timestamp_ms": 1718855722847,
+      "content": "Great, I can come past on Tuesday/Wednesday if that works with you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1718855580786,
+      "content": "Happy for someone to collect a physical copy. \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "University of Newcastle Medical Society",
+      "timestamp_ms": 1718855552086,
+      "content": "Thank you so much, that would be incredible! Would it be easier for one of the team to come collect a physical voucher or would you like our email address please? Again, we really appreciate your support.\n\n- Lyn",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1718855261357,
+      "content": "Hey Lyn,\n\nWe\u00e2\u0080\u0099d love to be involved. Happy to donate 3 x $100 food and bev vouchers.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "University of Newcastle Medical Society",
+      "timestamp_ms": 1718848777904,
+      "content": "Hi! I\u00e2\u0080\u0099m the queer representative for the University of Newcastle Medical Society. We\u00e2\u0080\u0099re hosting a raffle on July 25 to fundraise for Minus18, a charity that improves the life of LGBTQIA+ youth. I\u00e2\u0080\u0099m reaching out to see if you would possibly be interested in supporting the cause by contributing prizes for the raffle (or definitely open to any other ways you think that you could support us!). Items like vouchers, bar tabs, free tickets to events, etc would be hugely appreciated, as we would love to encourage patronage to businesses that show allyship with the queer community. Very keen to hear back from you, and happy Pride month! \u00f0\u009f\u008f\u00b3\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u008c\u0088\n\n- Lyn",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "University of Newcastle Medical Society",
+  "is_still_participant": true,
+  "thread_path": "inbox/universityofnewcastlemedicalsociety_992621052322025",
+  "magic_words": [
+    
+  ]
+}

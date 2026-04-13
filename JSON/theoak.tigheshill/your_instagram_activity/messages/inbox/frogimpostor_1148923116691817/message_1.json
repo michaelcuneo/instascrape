@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "FROG IMPOSTOR"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "FROG IMPOSTOR",
+      "timestamp_ms": 1739680378555,
+      "content": "Thanks boss",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1739673814497,
+      "content": "Hey mate! Management@royaloaktigheshill.com.au",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "FROG IMPOSTOR",
+      "timestamp_ms": 1739673558055,
+      "content": "Hello! What's the email for the invoice again? We got paid last night but I was meant to send an invoice in...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "FROG IMPOSTOR",
+  "is_still_participant": true,
+  "thread_path": "inbox/frogimpostor_1148923116691817",
+  "magic_words": [
+    
+  ]
+}

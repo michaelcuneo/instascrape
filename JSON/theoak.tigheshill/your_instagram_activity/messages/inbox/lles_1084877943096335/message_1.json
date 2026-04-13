@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u009c\u00a7 \u00c9\u0090ll\u00c7\u009d\u00ca\u0087s \u00e2\u009c\u00a7"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e2\u009c\u00a7 \u00c9\u0090ll\u00c7\u009d\u00ca\u0087s \u00e2\u009c\u00a7",
+      "timestamp_ms": 1748725362760,
+      "share": {
+        "link": "https://www.instagram.com/stories/clickhereforstella/3644894799238996438"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u009c\u00a7 \u00c9\u0090ll\u00c7\u009d\u00ca\u0087s \u00e2\u009c\u00a7",
+      "timestamp_ms": 1731020861962,
+      "content": "Reacted \u00e2\u009c\u00a8 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1730978937384,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009c\u00a8",
+          "actor": "\u00e2\u009c\u00a7 \u00c9\u0090ll\u00c7\u009d\u00ca\u0087s \u00e2\u009c\u00a7",
+          "timestamp": 1731020861
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3496026938748377092"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u009c\u00a7 \u00c9\u0090ll\u00c7\u009d\u00ca\u0087s \u00e2\u009c\u00a7",
+      "timestamp_ms": 1730977423261,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e2\u009c\u00a7 \u00c9\u0090ll\u00c7\u009d\u00ca\u0087s \u00e2\u009c\u00a7",
+  "is_still_participant": true,
+  "thread_path": "inbox/lles_1084877943096335",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Ashley Bacales"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ashley Bacales",
+      "timestamp_ms": 1733269157937,
+      "content": "Cool! Thanks very much. Will definitely have to pop down for dinner one night soon. \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f0\u009f\u0091\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1733283468
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1733267332508,
+      "content": "Hey ashley, we have 30 tickets we sell for each Ham, once all 30 are sold we then raffle of the ham, sometimes we do a couple a night sometimes none, just raffled once the tickets are sold!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ashley Bacales",
+      "timestamp_ms": 1733260942882,
+      "content": "Hey! What time do you do the ham raffles?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ashley Bacales",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashleybacales_1102538684663594",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Spencer Scott"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1768259782987,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Spencer Scott",
+  "is_still_participant": true,
+  "thread_path": "inbox/spencerscott_1405271614390298",
+  "magic_words": [
+    
+  ]
+}

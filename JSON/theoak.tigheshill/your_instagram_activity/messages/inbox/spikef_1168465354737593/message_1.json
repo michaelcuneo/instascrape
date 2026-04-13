@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Spike F"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Spike F",
+      "timestamp_ms": 1743950123157,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1743947381440,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3604814082843974902"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Spike F",
+      "timestamp_ms": 1743902970017,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1743635579398,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3602198746295688335"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Spike F",
+      "timestamp_ms": 1743634922442,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1741656787341,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3585599443150113644"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Spike F",
+      "timestamp_ms": 1741656683625,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Spike F",
+  "is_still_participant": true,
+  "thread_path": "inbox/spikef_1168465354737593",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Justin Teale"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738478196908,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3558935354235790347"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justin Teale",
+      "timestamp_ms": 1738475544189,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Justin Teale",
+  "is_still_participant": true,
+  "thread_path": "inbox/justinteale_1142434527340676",
+  "magic_words": [
+    
+  ]
+}

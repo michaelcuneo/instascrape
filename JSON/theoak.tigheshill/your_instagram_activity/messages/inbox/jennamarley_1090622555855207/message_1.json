@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Jenna Marley"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jenna Marley",
+      "timestamp_ms": 1731722606727,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u00a9\u00b9 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1731712993135,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u00a9\u00b9",
+          "actor": "Jenna Marley",
+          "timestamp": 1731722606
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3502184669826087555"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jenna Marley",
+      "timestamp_ms": 1731712936738,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jenna Marley",
+  "is_still_participant": true,
+  "thread_path": "inbox/jennamarley_1090622555855207",
+  "magic_words": [
+    
+  ]
+}

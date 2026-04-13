@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Haff"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Haff",
+      "timestamp_ms": 1775084950368,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1775084336401,
+      "content": "$9999",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1775084331637,
+      "content": "7pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1775084322352,
+      "content": "Joker still on for Friday!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Haff"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Haff",
+      "timestamp_ms": 1775083121867,
+      "content": "Joker draw!?!",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3865490875278799357"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Haff",
+  "is_still_participant": true,
+  "thread_path": "inbox/haff_1469746194609506",
+  "magic_words": [
+    
+  ]
+}

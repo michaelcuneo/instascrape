@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u00a4\u00b7\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u00a4\u00b7\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f",
+      "timestamp_ms": 1753501764938,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1753501601788,
+      "content": "Matt\u00e2\u0080\u0099s provided",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "\u00f0\u009f\u00a4\u00b7\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u00a4\u00b7\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f",
+      "timestamp_ms": 1753499929135,
+      "content": "Do we bring our own yoga mats? What's the vibe?",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3684923802641051655"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u00a4\u00b7\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/1269911371259657",
+  "magic_words": [
+    
+  ]
+}

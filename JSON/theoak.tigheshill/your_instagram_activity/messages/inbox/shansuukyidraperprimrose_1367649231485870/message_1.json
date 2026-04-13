@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Sh\u00c3\u00a2n Suu Kyi Draper Primrose"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sh\u00c3\u00a2n Suu Kyi Draper Primrose",
+      "timestamp_ms": 1763786068528,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sh\u00c3\u00a2n Suu Kyi Draper Primrose",
+  "is_still_participant": true,
+  "thread_path": "inbox/shansuukyidraperprimrose_1367649231485870",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "WinterHeat"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "WinterHeat",
+      "timestamp_ms": 1720333523098,
+      "content": "WinterHeat sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9HH-6nyB1_/?id=3406726753006656895_44790113822",
+        "share_text": "\u00f0\u009f\u008c\u00b6\u00ef\u00b8\u008f\u00f0\u009f\u0094\u00a5 SPOTS STILL OPEN \u00f0\u009f\u008c\u00b6\u00ef\u00b8\u008f\u00f0\u009f\u0094\u00a5 \n\nWe need more chilli sauce makers AND heat eaters to join the fun!\nWe're looking for the most exciting and flavourful chilli sauce or Oil in the Hunter, not just the spiciest!\n\nWe went to @theoak.tigheshill for some Hot & Spicy inspo! These bloody Mary's gave the perfect kick! Go try one for yourself and maybe plan your chilli sauce recipe while you're at it! \n\n20th July\nPacific Park \n\nDon't miss out on this sizzling event! \u00f0\u009f\u008c\u00b6\u00ef\u00b8\u008f\u00f0\u009f\u0094\u00a5\n\n#winterheat #bloodymary #festival \n#Newcastle #chillisauce #comp #madelocal",
+        "original_content_owner": "winterheatfestival"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "WinterHeat",
+      "timestamp_ms": 1720332534289,
+      "content": "WinterHeat sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "WinterHeat",
+  "is_still_participant": true,
+  "thread_path": "inbox/winterheat_1003461117904685",
+  "magic_words": [
+    
+  ]
+}

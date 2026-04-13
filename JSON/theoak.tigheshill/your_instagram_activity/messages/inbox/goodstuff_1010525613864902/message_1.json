@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "good stuff"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "good stuff",
+      "timestamp_ms": 1739485720243,
+      "content": "Get Alex and Roy to play imo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3567380282955532045"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "good stuff",
+      "timestamp_ms": 1721370043293,
+      "content": "Perfect, we'll be there",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1721370410
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1721369396945,
+      "content": "Nice. How\u00e2\u0080\u0099s tomorrow about 4.30? Our manager Josh will be in and can go through details with you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "good stuff",
+      "timestamp_ms": 1721367448113,
+      "content": "Anytime this weekend suits us fine but we're around weeknights too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1721367413665,
+      "content": "Hey mate, yes definitely a possibility. Want to tee up a time to come in for a chat?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "good stuff",
+      "timestamp_ms": 1721367266406,
+      "content": "Hey! I'm just wondering if the front bar is available for events? We love the pub and would love to have our engagement party there",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "good stuff",
+  "is_still_participant": true,
+  "thread_path": "inbox/goodstuff_1010525613864902",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Gerard Roebuck"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gerard Roebuck",
+      "timestamp_ms": 1743980121492,
+      "content": "Awesome, thanks so much!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1743980106316,
+      "content": "Hey mate, drop our band booker an email\n\nOakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1743980054167,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gerard Roebuck",
+      "timestamp_ms": 1743980047670,
+      "content": "https://www.instagram.com/hotwaterservice?igsh=MXExZGkxbDRsdzkxMA==\n\nMy number is 0480146054.\n\nThanks for your time, Gerard.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gerard Roebuck",
+      "timestamp_ms": 1743980047339,
+      "content": "https://open.spotify.com/track/5MuxWW5HPs0O7LQ8EzHypI?si=173Ag6dHR-2C6TMdWxr3UQ",
+      "share": {
+        "link": "https://open.spotify.com/track/5MuxWW5HPs0O7LQ8EzHypI?si=173Ag6dHR-2C6TMdWxr3UQ",
+        "share_text": "https://open.spotify.com/track/5MuxWW5HPs0O7LQ8EzHypI?si=173Ag6dHR-2C6TMdWxr3UQ"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gerard Roebuck",
+      "timestamp_ms": 1743980046077,
+      "content": "Hi,\n\nMy name is Gerard, I play in a local band here in Newy. I was wondering if you guys have any openings for my band?\n\nA little bit of info about us. We\u00e2\u0080\u0099re called Hot Water Service, we have gig experience and a full set of originals ready to go. We also have plenty of covers (we do cover gigs as a side hustle). Our aim is to release an album soon. Please see below a link for our Instagram and Spotify.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gerard Roebuck",
+  "is_still_participant": true,
+  "thread_path": "inbox/gerardroebuck_1188714086046053",
+  "magic_words": [
+    
+  ]
+}

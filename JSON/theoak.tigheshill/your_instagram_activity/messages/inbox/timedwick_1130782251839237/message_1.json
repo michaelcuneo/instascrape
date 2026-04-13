@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Tim Edwick"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tim Edwick",
+      "timestamp_ms": 1737012305146,
+      "content": "https://open.spotify.com/artist/3eoOpcyctsRxv7ExM1uK87?si=RqRyQZRgSySGYajL7OsZYw",
+      "share": {
+        "link": "https://open.spotify.com/artist/3eoOpcyctsRxv7ExM1uK87?si=RqRyQZRgSySGYajL7OsZYw",
+        "share_text": "https://open.spotify.com/artist/3eoOpcyctsRxv7ExM1uK87?si=RqRyQZRgSySGYajL7OsZYw"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tim Edwick",
+      "timestamp_ms": 1737012295953,
+      "content": "Hey Lu,\n\nJust a quick message to let you know that my old band will be in Newcastle on the 5th of November, and we're keen to jump up for a couple of tunes at the Creative Creature Open Mic Night if there's room!\n\nWe're a 4-piece\u00e2\u0080\u0094guitar, drums, bass, and keys. We might also use a mic for some random vocals. I'll attach a Spotify link below for you to check out.\n\nLet me know if you have any questions or if there's anything we need to sort out ahead of time.\n\nCheers, Tim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tim Edwick",
+  "is_still_participant": true,
+  "thread_path": "inbox/timedwick_1130782251839237",
+  "magic_words": [
+    
+  ]
+}

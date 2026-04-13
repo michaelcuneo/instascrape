@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Emma"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Emma",
+      "timestamp_ms": 1759817786965,
+      "content": "Just a heads up your menu on link tree goes straight to canva:)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Emma",
+  "is_still_participant": true,
+  "thread_path": "inbox/emma_1865892131477302",
+  "magic_words": [
+    
+  ]
+}

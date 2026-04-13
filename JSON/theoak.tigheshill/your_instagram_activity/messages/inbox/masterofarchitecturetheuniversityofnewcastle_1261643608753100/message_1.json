@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Master of Architecture, The University of Newcastle"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762574241971,
+      "content": "We can also host great trivia nights\u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Master of Architecture, The University of Newcastle",
+      "timestamp_ms": 1761701978593,
+      "content": "Hey! Sorry for the delayed response, currently working through the backend of the semester (all nighter territory)!! \n\nWe have had a chat collectively about utilising your venue however logistically we will have to decline on your very generous offer as our event (the exhibition) will end at 11pm. \n\nThank you for your offer and we will pass on your details to the crew next year!! All the best.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760314411116,
+      "content": "We can do catering or a bar tab. There is no charge for us hosting.\n\nWould you like the front bar to yourselves or are you happy for it to be accessible to all?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760314364930,
+      "content": "What time you thinking? As always I\u00e2\u0080\u0099d love to have you.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760314327636,
+      "content": "Only thing to be aware of is we shut at midnight. I\u00e2\u0080\u0099m not an all night partier like the 3am lass days :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760314295300,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/masterofarchitecturetheuniversityofnewcastle_1261643608753100/photos/2002358673846576.jpg",
+          "creation_timestamp": 1760314294
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760314290712,
+      "content": "I\u00e2\u0080\u0099ve currently got a band from 8:45 and a dj in the beer garden from 3 or 5pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Master of Architecture, The University of Newcastle",
+      "timestamp_ms": 1760314215649,
+      "content": "hey dunny, hope you\u00e2\u0080\u0099ve been well! as you may have seen this year we are hosting our end of year exhibition at modus on the 21st of november! we\u00e2\u0080\u0099re trying to organise an afterparty for the event and we\u00e2\u0080\u0099re interested in the oak, we were wondering what sort of info etc you would need from us and if there is a possibility of making this happen? look forward to hearing from you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Master of Architecture, The University of Newcastle",
+      "timestamp_ms": 1753142449931,
+      "content": "hi there! thanks for that dunny, we\u00e2\u0080\u0099ll organise some things for sure! we\u00e2\u0080\u0099ll keep you in the loop and update we really appreciate it :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752573251898,
+      "content": "Hey Legends,\n\nI\u00e2\u0080\u0099m Dunny, I used to work at SABE and ran the Lass for the last 5 years. I used to host the \u00e2\u0080\u0098Practice Matters\u00e2\u0080\u0099 Series at the Lass, but COVID did away with that.\n\n\nAnywho this is my new pub and I just thought I\u00e2\u0080\u0099d reach out to see if you ever wanted to do any events or cool archi stuff in our fine pub.\n\nWe have a full P/A and projector setup and a bunch of other lovely things all set in a beautiful art deco pub that we recently restored.\n\nCheers Dunny",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Master of Architecture, The University of Newcastle",
+  "is_still_participant": true,
+  "thread_path": "inbox/masterofarchitecturetheuniversityofnewcastle_1261643608753100",
+  "magic_words": [
+    
+  ]
+}

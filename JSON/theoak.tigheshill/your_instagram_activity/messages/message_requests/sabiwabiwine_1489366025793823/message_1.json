@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Sabi Wabi Wine"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sabi Wabi Wine",
+      "timestamp_ms": 1722839629036,
+      "content": "Hello! \nJust reaching out to see if you guys would be interested in pouring Sabi Wabi? I would love to chat more/show you the wines?  Let me know!\nCheers \nPeta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sabi Wabi Wine",
+  "is_still_participant": true,
+  "thread_path": "message_requests/sabiwabiwine_1489366025793823",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

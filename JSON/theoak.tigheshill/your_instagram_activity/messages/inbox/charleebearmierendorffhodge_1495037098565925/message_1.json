@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "charlee bear mierendorff hodge"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "charlee bear mierendorff hodge",
+      "timestamp_ms": 1730356950577,
+      "content": "Bloody goood Job",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3490784052598623453"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "charlee bear mierendorff hodge",
+  "is_still_participant": true,
+  "thread_path": "inbox/charleebearmierendorffhodge_1495037098565925",
+  "magic_words": [
+    
+  ]
+}

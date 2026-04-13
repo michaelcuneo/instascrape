@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Bald Boy"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bald Boy",
+      "timestamp_ms": 1743649998363,
+      "content": "Awesome!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1743649975595,
+      "content": "Hey legend!\noakbandbooking@gmail.com\nCheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bald Boy",
+      "timestamp_ms": 1743649855651,
+      "content": "Hey the Oak. Hope all is well. Could I possibly grab an email for live music? \n\nI am lucky enough to book for some Sydney based venues and manage some great bands. Would love to discuss hopefully having them come through for a show \n\nAll the best \nTalk soon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bald Boy",
+  "is_still_participant": true,
+  "thread_path": "inbox/baldboy_1185630323021096",
+  "magic_words": [
+    
+  ]
+}

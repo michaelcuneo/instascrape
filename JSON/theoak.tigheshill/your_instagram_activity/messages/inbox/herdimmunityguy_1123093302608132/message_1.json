@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Herd Immunity Guy"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Herd Immunity Guy",
+      "timestamp_ms": 1735980443508,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Herd Immunity Guy",
+  "is_still_participant": true,
+  "thread_path": "inbox/herdimmunityguy_1123093302608132",
+  "magic_words": [
+    
+  ]
+}

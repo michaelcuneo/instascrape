@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "William Alexander"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Alexander",
+      "timestamp_ms": 1738058332022,
+      "content": "Thanks for that mate",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1738060472
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738057434883,
+      "content": "Hey mate, drop our band booker Justan an email\u00e2\u0080\u00a6\n\nOakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "William Alexander",
+      "timestamp_ms": 1737966002854,
+      "content": "G'day folks how you going? I'm a country/western singer from Dubbo and I'm booking some tour dates for 2025. My hope is to get around Newy way on March 7. Wondering if you're available and interested to book a show?\nI'll be performing as a duo with another act doing a set as well",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "William Alexander",
+  "is_still_participant": true,
+  "thread_path": "inbox/williamalexander_1594211525313493",
+  "magic_words": [
+    
+  ]
+}

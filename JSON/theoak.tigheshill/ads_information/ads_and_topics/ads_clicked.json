@@ -1,0 +1,79 @@
+[
+  {
+    "timestamp": 1775609142,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Action",
+        "value": "Click"
+      },
+      {
+        "label": "Title",
+        "value": "Study Music Production At JMC \u00e2\u009c\u008f\u00ef\u00b8\u008f\u00f0\u009f\u008e\u00b5"
+      },
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DLyWuoeszYL/",
+        "href": "https://www.instagram.com/p/DLyWuoeszYL/"
+      }
+    ],
+    "fbid": "17841429650068283:1775609142976478:6887901956906:3:AdsHistoryData"
+  },
+  {
+    "timestamp": 1775609143,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Action",
+        "value": "Click"
+      },
+      {
+        "label": "Title",
+        "value": "Study Music Production At JMC \u00e2\u009c\u008f\u00ef\u00b8\u008f\u00f0\u009f\u008e\u00b5"
+      },
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DLyWuoeszYL/",
+        "href": "https://www.instagram.com/p/DLyWuoeszYL/"
+      }
+    ],
+    "fbid": "17841429650068283:1775609143752916:6887901956906:3:AdsHistoryData"
+  },
+  {
+    "timestamp": 1775649991,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Action",
+        "value": "Click"
+      },
+      {
+        "label": "Title",
+        "value": "James Conti"
+      },
+      {
+        "label": "Ad library public URL",
+        "value": "https://www.facebook.com/ads/library/?id=1922009432524999",
+        "href": "https://www.facebook.com/ads/library/?id=1922009432524999"
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DVRk5N_gLfZ/",
+        "href": "https://www.instagram.com/p/DVRk5N_gLfZ/"
+      }
+    ],
+    "fbid": "17841429650068283:1775649991444423:120240182705120243:3:AdsHistoryData"
+  }
+]

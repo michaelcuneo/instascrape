@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Tex Perkins"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1741952249383,
+      "content": "I grew up down in Victoria and moved up here after Covid. My main watering holes were The Retreat in Brunswick, Post Office in Coburg, The EC (years ago) and plenty of others.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1741952075272,
+      "content": "Hey Tex,\n\nWe\u00e2\u0080\u0099re an independently run live music pub in Newcastle. Wondering if you\u00e2\u0080\u0099d be keen to play a set or 2 following your cruel sea gig coming up at the uni. \n\nWe had Kim Salmon drop in on his way through in December and filled the front bar easily. Also had CW Stoneking and The Boondall Boys do the same since in the last 12 months. \n\nCan be a solo show and keep it pretty low key, or happy for full band. We\u00e2\u0080\u0099ve also got a pretty good network of local musos who could slip in too if needed.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tex Perkins",
+  "is_still_participant": true,
+  "thread_path": "inbox/texperkins_1170914871159308",
+  "magic_words": [
+    
+  ]
+}

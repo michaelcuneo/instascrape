@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Kim Churchill"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764582007801,
+      "content": "Hey Kim,\n\nIt\u00e2\u0080\u0099s Dunny who used to run the Lass. I\u00e2\u0080\u0099m just putting the feelers out to see if you would like to do a show at my new pub. The Oak.\n\nI hope your well :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kim Churchill",
+  "is_still_participant": true,
+  "thread_path": "inbox/kimchurchill_1860715135329058",
+  "magic_words": [
+    
+  ]
+}

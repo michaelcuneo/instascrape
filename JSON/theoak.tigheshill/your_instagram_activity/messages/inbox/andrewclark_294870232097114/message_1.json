@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Andrew Clark"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1707612338497,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andrew Clark",
+  "is_still_participant": true,
+  "thread_path": "inbox/andrewclark_294870232097114",
+  "magic_words": [
+    
+  ]
+}

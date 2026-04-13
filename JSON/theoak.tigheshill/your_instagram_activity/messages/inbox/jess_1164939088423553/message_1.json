@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "jess"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "jess",
+      "timestamp_ms": 1741234785349,
+      "content": "Thank you so much, it\u00e2\u0080\u0099s really appreciated \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1741234173902,
+      "content": "Hey Jess! No stress at all! Sorry to hear about his passing, feel free to come in and use it tonight :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "jess",
+      "timestamp_ms": 1741234090522,
+      "content": "Hi guys, \n\nI\u00e2\u0080\u0099m reaching out as my fianc\u00c3\u00a9 and I were planning on coming by for dinner tonight to use a voucher we won last year at one of your trivia nights with my fianc\u00c3\u00a9s fam. My fianc\u00c3\u00a9s dad was holding onto it so we could come back and use it when we were all together again but sadly, he passed away very unexpectedly 6 weeks ago. His mum gave us the voucher and told us to use it but I just looked at it and realised it\u00e2\u0080\u0099s passed the expiry date. I was wondering if it would be possible for us to still use it tonight? Sorry for the sob story, I just thought it couldn\u00e2\u0080\u0099t hurt to ask. We won\u00e2\u0080\u0099t be offended if the answer is no. \n\nThanks,\nJess",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "jess",
+  "is_still_participant": true,
+  "thread_path": "inbox/jess_1164939088423553",
+  "magic_words": [
+    
+  ]
+}

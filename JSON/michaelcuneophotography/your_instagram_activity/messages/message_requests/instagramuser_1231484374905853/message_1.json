@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Instagram user"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram user",
+      "timestamp_ms": 1708804986847,
+      "content": "Hey there! \u00f0\u009f\u0093\u00a3\r\n\r\nwe're thrilled to announce exciting opportunity from ETHEREAL-TREASURY! \r\nAs part of our Brand expansion, we\u00e2\u0080\u0099re on the lookout for Models to represent our Brand |\u00f0\u009f\u00a4\u008d\r\n\r\nINTERESTED? \r\n\r\nWe'd love to offer you 3 FREE Jewelry! \u00f0\u009f\u0092\u008e\r\n\r\nTo benefit from our brand limited offer, simply click the link above and DM \"AMBASSADOR\" to our main account | @ethereal_treasury, and Carla will reach out to you ASAP to explain you all the perks of our Deal! \r\n\r\nThank you! \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram user",
+      "timestamp_ms": 1708804985754,
+      "content": "Instagram user sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/etherealtreasury",
+        "profile_share_username": "etherealtreasury",
+        "profile_share_name": "Ethereal Treasury"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram user",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1231484374905853",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

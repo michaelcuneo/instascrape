@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Struthers Murray"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Struthers Murray",
+      "timestamp_ms": 1701607377560,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Struthers Murray",
+  "is_still_participant": true,
+  "thread_path": "inbox/struthersmurray_880362016881263",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Kate Wilson"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kate Wilson",
+      "timestamp_ms": 1735183579582,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1696755495370,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3208939995364581732"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kate Wilson",
+      "timestamp_ms": 1696752744240,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kate Wilson",
+  "is_still_participant": true,
+  "thread_path": "inbox/katewilson_1754116001443610",
+  "magic_words": [
+    
+  ]
+}

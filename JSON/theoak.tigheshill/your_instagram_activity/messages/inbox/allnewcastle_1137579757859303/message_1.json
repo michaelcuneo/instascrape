@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "ALL Newcastle"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ALL Newcastle",
+      "timestamp_ms": 1737596352210,
+      "content": "ALL sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DFJmIuoy0BD/?id=3551537506758115395_31210629588",
+        "share_text": "Part two of checking out @theoak.tigheshill \u00f0\u009f\u008d\u00bb \u00f0\u009f\u008e\u00b6 \u00f0\u009f\u00a6\u00bd\n\n#allnewcastle #accessablenewcastlecity #accesslivelocal #newcastlelive #livemusic #beer #accessabilityreview #vibe",
+        "original_content_owner": "all__newcastle"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "ALL Newcastle",
+  "is_still_participant": true,
+  "thread_path": "inbox/allnewcastle_1137579757859303",
+  "magic_words": [
+    
+  ]
+}

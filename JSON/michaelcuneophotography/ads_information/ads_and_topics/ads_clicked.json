@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1775478289,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Action",
+        "value": "Click"
+      },
+      {
+        "label": "Title",
+        "value": "For Those Who Demand Precision in Sound"
+      },
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DVMs-tmjGYr/",
+        "href": "https://www.instagram.com/p/DVMs-tmjGYr/"
+      }
+    ],
+    "fbid": "17841403182670126:1775478289606981:120241758767710478:3:AdsHistoryData"
+  },
+  {
+    "timestamp": 1776048776,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Action",
+        "value": "Click"
+      },
+      {
+        "label": "Title",
+        "value": "http://au.iherb.com/"
+      },
+      {
+        "label": "Ad library public URL",
+        "value": "https://www.facebook.com/ads/library/?id=25834971636156323",
+        "href": "https://www.facebook.com/ads/library/?id=25834971636156323"
+      },
+      {
+        "label": "URL"
+      }
+    ],
+    "fbid": "17841403182670126:1776048776662029:120242546435650745:3:AdsHistoryData"
+  },
+  {
+    "timestamp": 1776049052,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Action",
+        "value": "Click"
+      },
+      {
+        "label": "Title",
+        "value": "\"Can\u00e2\u0080\u0099t rate it highly enough\""
+      },
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DUp2rTRADpQ/",
+        "href": "https://www.instagram.com/p/DUp2rTRADpQ/"
+      }
+    ],
+    "fbid": "17841403182670126:1776049052660872:120240267504530433:3:AdsHistoryData"
+  }
+]

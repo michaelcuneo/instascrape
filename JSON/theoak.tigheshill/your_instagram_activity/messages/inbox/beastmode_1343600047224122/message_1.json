@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "beastmode"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1761270261172,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3750128868032338301"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "beastmode",
+      "timestamp_ms": 1761269644356,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "beastmode",
+  "is_still_participant": true,
+  "thread_path": "inbox/beastmode_1343600047224122",
+  "magic_words": [
+    
+  ]
+}

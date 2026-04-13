@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Ell Wynne | Newcastle Hormone Naturopath"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ell Wynne | Newcastle Hormone Naturopath",
+      "timestamp_ms": 1725327121820,
+      "content": "Hey! Do you take bookings for lunch?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ell Wynne | Newcastle Hormone Naturopath",
+  "is_still_participant": true,
+  "thread_path": "inbox/ellwynnenewcastlehormonenaturopath_1039345094316287",
+  "magic_words": [
+    
+  ]
+}

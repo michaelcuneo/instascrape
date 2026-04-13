@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "wartime."
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "wartime.",
+      "timestamp_ms": 1767338157751,
+      "content": "wartime. sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "wartime.",
+      "timestamp_ms": 1765931255362,
+      "content": "sweet, thankyou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1765930575996,
+      "content": "Hey mate\nHit up oakbandbooking@gmail.com for any gig enquiries",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "wartime.",
+      "timestamp_ms": 1765929100971,
+      "content": "Hi how are you? \nMy names Mackenzie and i was wondering what i would have to do or who i would need to speak to about possibly playing a gig at your venue next year?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "wartime.",
+  "is_still_participant": true,
+  "thread_path": "inbox/wartime_1385726649678128",
+  "magic_words": [
+    
+  ]
+}

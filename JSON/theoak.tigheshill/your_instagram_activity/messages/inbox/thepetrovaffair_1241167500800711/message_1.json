@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "The Petrov Affair"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Petrov Affair",
+      "timestamp_ms": 1772850831750,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1772835258016,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Petrov Affair",
+      "timestamp_ms": 1770364496321,
+      "content": "The Petrov sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DUaJqwfET0o/",
+        "share_text": "Bringing our show to Newcastle - March 7th. The Petrov Affair will be joined by the wonderful @drugs_in_sport @theoak.tigheshill as we launch our #newrecord Men Are A Luxury Item. #indirock #artrock #avantpop @julesian1 @dallasrogers101  @brucethomas895",
+        "original_content_owner": "thepetrovaffairband"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Petrov Affair",
+  "is_still_participant": true,
+  "thread_path": "inbox/thepetrovaffair_1241167500800711",
+  "magic_words": [
+    
+  ]
+}

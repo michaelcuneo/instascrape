@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Cantina Cebichera"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cantina Cebichera",
+      "timestamp_ms": 1744794048093,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cantina Cebichera",
+  "is_still_participant": true,
+  "thread_path": "inbox/cantinacebichera_757900618428262",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Luke McEnearney"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luke McEnearney",
+      "timestamp_ms": 1696746197882,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1696745952504,
+      "content": "10pm",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Luke McEnearney",
+          "timestamp": 1696746197
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luke McEnearney",
+      "timestamp_ms": 1696738580225,
+      "content": "What time are you frothers closing tonight?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luke McEnearney",
+  "is_still_participant": true,
+  "thread_path": "inbox/lukemcenearney_851091863141612",
+  "magic_words": [
+    
+  ]
+}

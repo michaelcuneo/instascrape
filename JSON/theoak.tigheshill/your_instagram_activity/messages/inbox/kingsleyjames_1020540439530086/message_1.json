@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Kingsley James"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kingsley James",
+      "timestamp_ms": 1724302417935,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kingsley James",
+      "timestamp_ms": 1722757776649,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kingsley James",
+  "is_still_participant": true,
+  "thread_path": "inbox/kingsleyjames_1020540439530086",
+  "magic_words": [
+    
+  ]
+}

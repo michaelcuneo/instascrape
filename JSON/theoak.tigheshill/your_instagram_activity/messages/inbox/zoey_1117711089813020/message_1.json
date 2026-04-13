@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Zoey"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Zoey",
+      "timestamp_ms": 1760673550761,
+      "content": "Heck yes! keen!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760673442298,
+      "content": "Hey Zoey, yep! That\u00e2\u0080\u0099s right. See you soon!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zoey",
+      "timestamp_ms": 1760673169026,
+      "content": "Hey hey! The joker draw is tonight? And you get tickets per drink purchase?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1735268527127,
+      "content": "7pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zoey",
+      "timestamp_ms": 1735268516169,
+      "content": "Amazing what time does it get drawn? :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1735268320013,
+      "content": "Hey zoey, we start taking names from 4pm, just need to buy a drink to get an entry, $5900 up for grabs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zoey",
+      "timestamp_ms": 1735268254256,
+      "content": "Hey how are you? :) do you have joker poker tonight/ what's it up to :) and what time do the tickets start getting handed out :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Zoey",
+  "is_still_participant": true,
+  "thread_path": "inbox/zoey_1117711089813020",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Luke William Wright - Mandocello"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luke William Wright - Mandocello",
+      "timestamp_ms": 1754034874183,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1754034218562,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3689428699843404582"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luke William Wright - Mandocello",
+      "timestamp_ms": 1753963365932,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luke William Wright - Mandocello",
+  "is_still_participant": true,
+  "thread_path": "inbox/lukewilliamwrightmandocello_1314902000062497",
+  "magic_words": [
+    
+  ]
+}

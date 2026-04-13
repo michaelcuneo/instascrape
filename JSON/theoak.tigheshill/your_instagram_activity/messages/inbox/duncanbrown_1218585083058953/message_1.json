@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Duncan Brown"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1747534533991,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3634905454838953653"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Duncan Brown",
+      "timestamp_ms": 1747526434681,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Duncan Brown",
+  "is_still_participant": true,
+  "thread_path": "inbox/duncanbrown_1218585083058953",
+  "magic_words": [
+    
+  ]
+}

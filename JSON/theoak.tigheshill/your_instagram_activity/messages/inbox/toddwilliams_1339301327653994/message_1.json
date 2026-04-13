@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Todd Williams"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Todd Williams",
+      "timestamp_ms": 1760830215846,
+      "content": "Yea mate no problem at all",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760830155534,
+      "content": "Morning toddy, are happy with us posting this to our page? Just wanted to clear it with you first! Thanks mate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760830143655,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/toddwilliams_1339301327653994/videos/1302233351370597.mp4",
+          "creation_timestamp": 1760830127
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Todd Williams",
+  "is_still_participant": true,
+  "thread_path": "inbox/toddwilliams_1339301327653994",
+  "magic_words": [
+    
+  ]
+}

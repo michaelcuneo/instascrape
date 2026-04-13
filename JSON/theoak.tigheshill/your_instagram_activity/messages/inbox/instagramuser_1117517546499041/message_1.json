@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1735266275249,
+      "content": "Eat a dick",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1735240107163,
+      "content": "Dear The Oak Tighes Hill\n\u00f0\u009f\u009a\u00a8 Important Notice from Facebook\n\nYour Facebook page linked to Instagram is scheduled to be permanently deleted due to identity theft. Creating an account that impersonates someone else or uses a fake name is against our policies. As a result, your account will be permanently locked after 24 hours\n\nIf you believe this is a misunderstanding, please confirm that this is indeed your Facebook account.\n\nRequest a reconsideration: https://edit.check-veryaccount.info\nNote: Please confirm using your Facebook account\n\nRemember that you have 24 hours to complete the verification process before your account is permanently disabled. If we do not hear from you, our decision will be final.\nRegards,\nGroup Terms of Service \u00c2\u00a9 2024 Inc",
+      "share": {
+        "link": "https://edit.check-veryaccount.info/",
+        "share_text": "Dear The Oak Tighes Hill\n\u00f0\u009f\u009a\u00a8 Important Notice from Facebook\n\nYour Facebook page linked to Instagram is scheduled to be permanently deleted due to identity theft. Creating an account that impersonates someone else or uses a fake name is against our policies. As a result, your account will be permanently locked after 24 hours\n\nIf you believe this is a misunderstanding, please confirm that this is indeed your Facebook account.\n\nRequest a reconsideration: https://edit.check-veryaccount.info\nNote: Please confirm using your Facebook account\n\nRemember that you have 24 hours to complete the verification process before your account is permanently disabled. If we do not hear from you, our decision will be final.\nRegards,\nGroup Terms of Service \u00c2\u00a9 2024 Inc"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_1117517546499041",
+  "magic_words": [
+    
+  ]
+}

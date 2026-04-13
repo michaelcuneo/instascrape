@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Mumma Fox"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mumma Fox",
+      "timestamp_ms": 1768472771939,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mumma Fox",
+      "timestamp_ms": 1715584486004,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mumma Fox",
+      "timestamp_ms": 1715584412449,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mumma Fox",
+  "is_still_participant": true,
+  "thread_path": "inbox/mummafox_970558931194904",
+  "magic_words": [
+    
+  ]
+}

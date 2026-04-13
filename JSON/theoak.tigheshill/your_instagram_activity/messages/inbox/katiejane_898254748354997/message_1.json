@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Katie-Jane"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Katie-Jane",
+      "timestamp_ms": 1711756295524,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1711756285130,
+      "content": "Yeah just a couple of hours to keep the locals happy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katie-Jane",
+      "timestamp_ms": 1711756238863,
+      "content": "Hi guys - so you open for 2hrs today ? 10-12noon? Cheers Kate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katie-Jane",
+      "timestamp_ms": 1704445220182,
+      "content": "Oh sure sorry - 0421415386 \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1704444092738,
+      "content": "Not a problem. Can I get a contact number please.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katie-Jane",
+      "timestamp_ms": 1704443924344,
+      "content": "Hi folks we\u00e2\u0080\u0099d love to book for 3 for Sat 6th about 7:15-7:30- name Hall please.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Katie-Jane",
+  "is_still_participant": true,
+  "thread_path": "inbox/katiejane_898254748354997",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Lindsey Lynn"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1735705705754,
+      "content": "No kitchen today sorry.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lindsey Lynn",
+      "timestamp_ms": 1735705672181,
+      "content": "Hi, are you open for food tonight?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lindsey Lynn",
+      "timestamp_ms": 1735609006403,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1735608994645,
+      "content": "Yep 7am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lindsey Lynn",
+      "timestamp_ms": 1735608950676,
+      "content": "Hi, are you open tomorrow?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lindsey Lynn",
+  "is_still_participant": true,
+  "thread_path": "inbox/lindseylynn_1120239679560161",
+  "magic_words": [
+    
+  ]
+}

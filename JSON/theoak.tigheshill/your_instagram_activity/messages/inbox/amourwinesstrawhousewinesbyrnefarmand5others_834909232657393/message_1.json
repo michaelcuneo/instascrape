@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Amour Wines"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    },
+    {
+      "name": "Strawhouse Wines"
+    },
+    {
+      "name": "Byrne Farm"
+    },
+    {
+      "name": "Matt Atallah"
+    },
+    {
+      "name": "Leigh W Dryden"
+    },
+    {
+      "name": "Colmar Estate"
+    },
+    {
+      "name": "Cargo Road Wines"
+    },
+    {
+      "name": "Small Acres Cyder"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leigh W Dryden",
+      "timestamp_ms": 1763786997443,
+      "content": "Leigh sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Matt Atallah"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DRVTpX-gejk/?id=3771006669119678692_1113311747",
+        "share_text": "",
+        "original_content_owner": "leigh_decantethis"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amour Wines",
+      "timestamp_ms": 1762477135178,
+      "content": "Did you need any other marketing details from amour mate?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leigh W Dryden",
+      "timestamp_ms": 1762476578995,
+      "content": "Leigh sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amour Wines, Strawhouse Wines, Byrne Farm and 5 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/amourwinesstrawhousewinesbyrnefarmand5others_834909232657393",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/AbZTiaqUNGa-4SLI/"
+  }
+}

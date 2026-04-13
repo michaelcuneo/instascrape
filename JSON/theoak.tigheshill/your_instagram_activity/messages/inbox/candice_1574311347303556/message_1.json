@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Candice"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Candice",
+      "timestamp_ms": 1734334882571,
+      "content": "Thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candice",
+      "timestamp_ms": 1734334877149,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1734334847122,
+      "content": "Hey Candace, its run as a rolling raffle, 30 tickets solds per ham, once the 30 tickets are sold we draw it",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Candice",
+          "timestamp": 1734334877
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candice",
+      "timestamp_ms": 1734309725878,
+      "content": "Hello the Oak! I\u00e2\u0080\u0099m wondering what time your daily ham raffles are on?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Candice",
+  "is_still_participant": true,
+  "thread_path": "inbox/candice_1574311347303556",
+  "magic_words": [
+    
+  ]
+}

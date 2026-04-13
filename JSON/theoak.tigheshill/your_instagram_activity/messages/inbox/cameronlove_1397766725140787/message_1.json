@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Cameron Love"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cameron Love",
+      "timestamp_ms": 1767364471450,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cameron Love",
+      "timestamp_ms": 1767364039357,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cameron Love",
+      "timestamp_ms": 1767351628225,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cameron Love",
+      "timestamp_ms": 1767350796846,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cameron Love",
+  "is_still_participant": true,
+  "thread_path": "inbox/cameronlove_1397766725140787",
+  "magic_words": [
+    
+  ]
+}

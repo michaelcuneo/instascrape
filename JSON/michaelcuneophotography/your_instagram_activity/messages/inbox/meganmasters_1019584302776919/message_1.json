@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Megan Masters"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Cuneo Photography",
+      "timestamp_ms": 1669526897699,
+      "content": "This is true.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Megan Masters",
+  "is_still_participant": true,
+  "thread_path": "inbox/meganmasters_1019584302776919",
+  "magic_words": [
+    
+  ]
+}

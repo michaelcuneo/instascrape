@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Original 3 Piece Feed Boondall Boys"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1719525672831,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Original 3 Piece Feed Boondall Boys",
+  "is_still_participant": true,
+  "thread_path": "inbox/original3piecefeedboondallboys_997658771818253",
+  "magic_words": [
+    
+  ]
+}

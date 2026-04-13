@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "I'll fly away"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1739869832218,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "I'll fly away",
+      "timestamp_ms": 1734852339313,
+      "content": "I'll sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DD30d1uT_QL/",
+        "share_text": "Newcastle \u00e2\u0080\u00a6 it\u00e2\u0080\u0099s not too late to get your Christmas booze sorted. I\u00e2\u0080\u0099ll happily deliver locally for any purchase over $50. Grab a Christmas pack or anything you want online via the link in my bio.\n\nJudging on how much Santa enjoyed Gravy Day at @theoak.tigheshill last night, Christmas will possibly be a little tardy this year anyway!!",
+        "original_content_owner": "timwardwines"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "I'll fly away",
+  "is_still_participant": true,
+  "thread_path": "inbox/illflyaway_1114502096800586",
+  "magic_words": [
+    
+  ]
+}

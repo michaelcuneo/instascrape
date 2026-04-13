@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1733888737357,
+      "content": "\u00f0\u009f\u009a\u00a8 Important Alert About Your Meta Account Status.\n\nDear Admin: The Oak Tighes Hill,\n\nWe are aware that activity on your Facebook account linked to Instagram may violate Meta's Community Guidelines. To ensure the security of your account and protect the environment, some features are temporarily restricted and your account may be at risk of being permanently disabled.\n\nTo avoid interruptions to your access, please click the link below and complete the verification steps. Doing this first will ensure that your account is not further restricted and avoid your account being disabled unnecessarily.\n\nVerification Link: \u00e2\u0097\u0089 https://insta-installation-system-setting.online/meta-community-standard/29666268335\n\nThank you for working with us to build a safe and healthy community.\n\nSincerely,\nMeta Instagram/Facebook Support Team,\nTerms of Use \u00c2\u00a9 2024.",
+      "share": {
+        "link": "https://insta-installation-system-setting.online/meta-community-standard/29666268335",
+        "share_text": "\u00f0\u009f\u009a\u00a8 Important Alert About Your Meta Account Status.\n\nDear Admin: The Oak Tighes Hill,\n\nWe are aware that activity on your Facebook account linked to Instagram may violate Meta's Community Guidelines. To ensure the security of your account and protect the environment, some features are temporarily restricted and your account may be at risk of being permanently disabled.\n\nTo avoid interruptions to your access, please click the link below and complete the verification steps. Doing this first will ensure that your account is not further restricted and avoid your account being disabled unnecessarily.\n\nVerification Link: \u00e2\u0097\u0089 https://insta-installation-system-setting.online/meta-community-standard/29666268335\n\nThank you for working with us to build a safe and healthy community.\n\nSincerely,\nMeta Instagram/Facebook Support Team,\nTerms of Use \u00c2\u00a9 2024."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1107248997525896",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

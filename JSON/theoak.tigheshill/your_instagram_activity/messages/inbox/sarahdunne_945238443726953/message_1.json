@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Sarah Dunne"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sarah Dunne",
+      "timestamp_ms": 1712031308857,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1712030513356,
+      "content": "We sure do",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sarah Dunne",
+          "timestamp": 1712031308
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sarah Dunne",
+      "timestamp_ms": 1711773255896,
+      "content": "Hi there \nDo you take table reservations?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sarah Dunne",
+  "is_still_participant": true,
+  "thread_path": "inbox/sarahdunne_945238443726953",
+  "magic_words": [
+    
+  ]
+}

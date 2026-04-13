@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "The Meanies"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764571488629,
+      "content": "All g mate. Thx for getting back!\n\nCheers Dunny",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Meanies",
+      "timestamp_ms": 1764567629553,
+      "content": "Hi, thanks for thinking of us but Wally is working on the Good Things tour so we are unavailable.\nHope the show goes well.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764566220700,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/themeanies_1374364087481051/videos/773147392408816.mp4",
+          "creation_timestamp": 1764566203
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764566198488,
+      "content": "Hey legends,\n\nThis is a very late call up\u00e2\u0080\u00a6\n\nWe are pulling together a gig this weekend for our annual \u00e2\u0080\u009cGoccsy\u00e2\u0080\u0099s Christmas Extravaganza\u00e2\u0080\u009d\n\nWe had a few bands pull out and we were wondering if you\u00e2\u0080\u0099d like to play?\n\nIt\u00e2\u0080\u0099s Saturday.\n\nThis is goccsy:\n\nhttps://www.instagram.com/aarongocs?igsh=NnpiaWozZHFzbTZx",
+      "share": {
+        "link": "https://www.instagram.com/_u/aarongocs",
+        "profile_share_username": "aarongocs",
+        "profile_share_name": "Aaron Gocs"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Meanies",
+  "is_still_participant": true,
+  "thread_path": "inbox/themeanies_1374364087481051",
+  "magic_words": [
+    
+  ]
+}

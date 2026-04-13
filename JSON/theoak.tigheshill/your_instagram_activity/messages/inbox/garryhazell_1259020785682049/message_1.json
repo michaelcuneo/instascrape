@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Garry Hazell"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Garry Hazell",
+      "timestamp_ms": 1752277796508,
+      "content": "Cheers, thanks for that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752277766900,
+      "content": "8.30 Ben leece \n9.30 Dave flavour \n\nU18s are ok as long as closely supervised and well behaved. Just come see Josh at the bar when you arrive",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Garry Hazell",
+      "timestamp_ms": 1752277537395,
+      "content": "Hi - can you share set times for tonight - Ben Leece and Dave Flavor? Also what\u00e2\u0080\u0099s the go with kids - I\u00e2\u0080\u0099ve got a 10 &12 yr old that are Big Ben Leece fans - can they watch? Cheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Garry Hazell",
+  "is_still_participant": true,
+  "thread_path": "inbox/garryhazell_1259020785682049",
+  "magic_words": [
+    
+  ]
+}

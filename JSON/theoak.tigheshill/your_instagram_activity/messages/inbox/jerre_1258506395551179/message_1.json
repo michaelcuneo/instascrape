@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "jerre"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "jerre",
+      "timestamp_ms": 1699153030634,
+      "content": "You have pending appointment request",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1699067353688,
+      "content": "Nah that\u00e2\u0080\u0099s fine.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "jerre",
+      "timestamp_ms": 1699067039985,
+      "content": "For*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "jerre",
+      "timestamp_ms": 1699067025896,
+      "content": "Actually, we\u00e2\u0080\u0099ll just come a drink - did we need to book that in?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1699066976486,
+      "content": "6 people at 6?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "jerre",
+      "timestamp_ms": 1699066625314,
+      "content": "You can now schedule and manage appointments in chat. Learn more.(https://help.instagram.com/1043402509628629)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "jerre",
+      "timestamp_ms": 1699066624561,
+      "content": "Dinner for 6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "jerre",
+  "is_still_participant": true,
+  "thread_path": "inbox/jerre_1258506395551179",
+  "magic_words": [
+    
+  ]
+}

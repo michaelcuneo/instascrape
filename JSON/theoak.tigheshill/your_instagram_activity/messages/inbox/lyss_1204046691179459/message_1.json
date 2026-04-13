@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "lyss"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "lyss",
+      "timestamp_ms": 1774404725852,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "lyss",
+      "timestamp_ms": 1745719213568,
+      "content": "Amazing thank you!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1745718970101,
+      "content": "Sure is! Starts at 5.30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "lyss",
+      "timestamp_ms": 1745716423286,
+      "content": "Hey! Is Hank Green playing this eve? Just wondering what time etc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "lyss",
+  "is_still_participant": true,
+  "thread_path": "inbox/lyss_1204046691179459",
+  "magic_words": [
+    
+  ]
+}

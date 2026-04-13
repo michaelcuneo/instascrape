@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Bank Corner"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bank Corner",
+      "timestamp_ms": 1742088419233,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1742086761850,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bank Corner"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3589206329648515068"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1742080122059,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3589150630323432402"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bank Corner",
+      "timestamp_ms": 1742080051120,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bank Corner",
+  "is_still_participant": true,
+  "thread_path": "inbox/bankcorner_1172022704381858",
+  "magic_words": [
+    
+  ]
+}

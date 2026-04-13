@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "MK"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760869027666,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3746763364962859283"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MK",
+      "timestamp_ms": 1760863091111,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MK",
+      "timestamp_ms": 1753535835843,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1753517013649,
+      "content": "8.30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MK",
+      "timestamp_ms": 1753516904606,
+      "content": "What time is this kicking off guys?",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3684923841396599948"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "MK",
+  "is_still_participant": true,
+  "thread_path": "inbox/mk_1270057207911740",
+  "magic_words": [
+    
+  ]
+}

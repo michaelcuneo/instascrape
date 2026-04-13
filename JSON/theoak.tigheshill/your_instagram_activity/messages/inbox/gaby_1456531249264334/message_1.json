@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Gaby"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gaby",
+      "timestamp_ms": 1773711689353,
+      "content": "Yewww",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3853996361812891191"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gaby",
+  "is_still_participant": true,
+  "thread_path": "inbox/gaby_1456531249264334",
+  "magic_words": [
+    
+  ]
+}

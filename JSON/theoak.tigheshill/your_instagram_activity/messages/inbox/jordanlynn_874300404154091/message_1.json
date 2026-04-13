@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Jordan Lynn"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1758234131261,
+      "content": "Unfortunately not",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jordan Lynn",
+      "timestamp_ms": 1758234081912,
+      "content": "Hey, do you show premier league? I'm looking for somewhere that's showing Everton vs Liverpool on Saturday. Thanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jordan Lynn",
+  "is_still_participant": true,
+  "thread_path": "inbox/jordanlynn_874300404154091",
+  "magic_words": [
+    
+  ]
+}

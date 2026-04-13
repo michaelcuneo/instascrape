@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "sel \u00f0\u009f\u008c\u00ba"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "sel \u00f0\u009f\u008c\u00ba",
+      "timestamp_ms": 1727955094512,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sel \u00f0\u009f\u008c\u00ba",
+      "timestamp_ms": 1725692635180,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "sel \u00f0\u009f\u008c\u00ba",
+  "is_still_participant": true,
+  "thread_path": "inbox/sel_1042004214050375",
+  "magic_words": [
+    
+  ]
+}

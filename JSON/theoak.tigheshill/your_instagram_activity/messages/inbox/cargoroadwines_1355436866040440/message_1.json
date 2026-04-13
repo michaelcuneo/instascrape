@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Cargo Road Wines"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764454347763,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3776838965132436315"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1764034714774,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3773318833557833731"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1762476292809,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cargo Road Wines",
+  "is_still_participant": true,
+  "thread_path": "inbox/cargoroadwines_1355436866040440",
+  "magic_words": [
+    
+  ]
+}

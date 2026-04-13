@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Tim Castle"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tim Castle",
+      "timestamp_ms": 1740194008298,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1740193511778,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tim Castle",
+      "timestamp_ms": 1740188018093,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tim Castle",
+      "timestamp_ms": 1696671205607,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3208206929239026100"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tim Castle",
+  "is_still_participant": true,
+  "thread_path": "inbox/timcastle_850648209852644",
+  "magic_words": [
+    
+  ]
+}

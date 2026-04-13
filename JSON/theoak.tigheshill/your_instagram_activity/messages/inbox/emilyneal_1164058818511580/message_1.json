@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Emily Neal"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1757549497614,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1757549495981,
+      "content": "Please call the pub on 02 4961 1977",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emily Neal",
+      "timestamp_ms": 1757497013376,
+      "content": "Hii, can I please good a table for 4 for trivia tomorrow night?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emily Neal",
+      "timestamp_ms": 1741204907195,
+      "content": "Sorry change if plans unfortunately no longer need the table \u00e2\u0098\u00b9\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1741124061576,
+      "content": "Yeah can do! Whats your best contact number",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emily Neal",
+      "timestamp_ms": 1741123871691,
+      "content": "Hi! Have you got space for 3 for trivia tomorrow night? (Thurs 6/3)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Emily Neal",
+  "is_still_participant": true,
+  "thread_path": "inbox/emilyneal_1164058818511580",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Natalie Edwards"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Natalie Edwards",
+      "timestamp_ms": 1760352609644,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3742330133332195820"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Natalie Edwards",
+  "is_still_participant": true,
+  "thread_path": "message_requests/natalieedwards_1334539998130127",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

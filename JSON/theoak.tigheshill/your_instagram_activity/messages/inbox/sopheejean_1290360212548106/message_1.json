@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Sophee Jean"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sophee Jean",
+      "timestamp_ms": 1755732023687,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sophee Jean",
+      "timestamp_ms": 1755732020964,
+      "content": "Will do, thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1755731906216,
+      "content": "Hey mate, sounds great! Best bet is to email our band booker Justan. \n\nOakbandbooking@gmail.com\n\nI believe he\u00e2\u0080\u0099s pretty booked up for the rest of the year but see how you go.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sophee Jean"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sophee Jean",
+      "timestamp_ms": 1755731800054,
+      "content": "Hi there,\n\nI\u00e2\u0080\u0099m Sophee Jean, a Newcastle singer-songwriter blending indie pop with a cinematic, Old Hollywood-inspired edge. I\u00e2\u0080\u0099ve just come back from Nashville where I recorded my debut EP Calm Before the Storm with Grammy-nominated musicians, and I\u00e2\u0080\u0099m now starting to share these songs live at home.\n\nI\u00e2\u0080\u0099d love the chance to play a show at The Oak \u00e2\u0080\u0094 I think my sound would fit really well with the vibe of your venue. Do you have any upcoming spots for live music?\n\nI\u00e2\u0080\u0099m happy to send through links to my live performances as well as my EPK for your reference. \n\nThanks so much,\nSophee Jean",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sophee Jean",
+  "is_still_participant": true,
+  "thread_path": "inbox/sopheejean_1290360212548106",
+  "magic_words": [
+    
+  ]
+}

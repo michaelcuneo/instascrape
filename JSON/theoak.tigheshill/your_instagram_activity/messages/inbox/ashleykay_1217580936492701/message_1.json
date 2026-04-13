@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Ashley Kay"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ashley Kay",
+      "timestamp_ms": 1747400885732,
+      "content": "Heyyy Josh. It's ashley, i worked at bannisters for a bit. Its been a while. I've re-gained my passion in the kitchen, for the past year I have been working at a wedding catering company based in Newcastle. I haven't yet started any training or TAFE and i thought that was odd, I was wanting to see if you could give me another chance. I have been speaking to Greg and he told me you opened your own pub so CONGRATULATIONS, on that!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ashley Kay",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashleykay_1217580936492701",
+  "magic_words": [
+    
+  ]
+}

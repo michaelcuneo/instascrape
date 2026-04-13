@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "citizenfire"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "citizenfire",
+      "timestamp_ms": 1775472167698,
+      "content": "citizenfire sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DWyX0LhEdZ-/",
+        "share_text": "Next show, at the Royal oak hotel , Tighes Hill, April 24.\nAlso featuring our mates SMD and The General Aroma.\nIt's going to be a banger!!!!!",
+        "original_content_owner": "citizenfireau"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "citizenfire",
+      "timestamp_ms": 1775472048058,
+      "content": "Ill tag you in our post  \u00f0\u009f\u0098\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "citizenfire",
+      "timestamp_ms": 1775472035988,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/citizenfire_1464379641812828/photos/780714404862413.jpg",
+          "creation_timestamp": 1775472034
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1774513400348,
+      "content": "Hey crew, can i please get a poster from you for the 24th April please! \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "citizenfire",
+  "is_still_participant": true,
+  "thread_path": "inbox/citizenfire_1464379641812828",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Gardens Music Band"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gardens Music Band",
+      "timestamp_ms": 1718528313475,
+      "content": "Awesome cheers cheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1718527329976,
+      "content": "Hey mate, drop our band booker an email\u00e2\u0080\u00a6\nOakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gardens Music Band",
+      "timestamp_ms": 1718527251590,
+      "content": "Hey hey, just chasing some date for live music. \nWe\u00e2\u0080\u0099ve been apart of the newy music scene for a while and being a pretty decent crowd. \nHoping we can work something out\n\nCheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gardens Music Band",
+  "is_still_participant": true,
+  "thread_path": "inbox/gardensmusicband_990419492542181",
+  "magic_words": [
+    
+  ]
+}

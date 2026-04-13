@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Jonathon Chapman"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jonathon Chapman",
+      "timestamp_ms": 1766739138868,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jonathon Chapman",
+  "is_still_participant": true,
+  "thread_path": "inbox/jonathonchapman_1392668492317277",
+  "magic_words": [
+    
+  ]
+}

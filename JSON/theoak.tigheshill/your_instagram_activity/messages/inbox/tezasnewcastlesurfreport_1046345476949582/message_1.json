@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Teza\u00e2\u0080\u0099s Newcastle Surf Report"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1726274252981,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Teza\u00e2\u0080\u0099s Newcastle Surf Report",
+  "is_still_participant": true,
+  "thread_path": "inbox/tezasnewcastlesurfreport_1046345476949582",
+  "magic_words": [
+    
+  ]
+}

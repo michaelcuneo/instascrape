@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Tony Langford"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1702444512584,
+      "content": "Not a problem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tony Langford",
+      "timestamp_ms": 1702266103219,
+      "content": "Can I please make a booking for Saturday night 6:30pm for 7 people + a babies high chair.\nCheers\nTony",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tony Langford",
+  "is_still_participant": true,
+  "thread_path": "inbox/tonylangford_884314163152715",
+  "magic_words": [
+    
+  ]
+}

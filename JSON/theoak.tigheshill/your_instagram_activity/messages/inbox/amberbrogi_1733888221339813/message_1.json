@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Amber Brogi"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1753502334650,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amber Brogi",
+      "timestamp_ms": 1753501221753,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amber Brogi",
+  "is_still_participant": true,
+  "thread_path": "inbox/amberbrogi_1733888221339813",
+  "magic_words": [
+    
+  ]
+}

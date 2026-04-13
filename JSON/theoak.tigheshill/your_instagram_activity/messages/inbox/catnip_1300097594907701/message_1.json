@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "CATNIP"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760147107701,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CATNIP",
+      "timestamp_ms": 1759992282553,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1759989760045,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CATNIP",
+      "timestamp_ms": 1756811761173,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "CATNIP",
+  "is_still_participant": true,
+  "thread_path": "inbox/catnip_1300097594907701",
+  "magic_words": [
+    
+  ]
+}

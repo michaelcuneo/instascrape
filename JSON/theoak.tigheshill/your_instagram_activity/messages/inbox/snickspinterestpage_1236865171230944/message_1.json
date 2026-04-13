@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "'snicks pinterest page"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1772192892475,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3841754687799920501"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "'snicks pinterest page",
+      "timestamp_ms": 1772192840744,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "'snicks pinterest page",
+      "timestamp_ms": 1751508704614,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "'snicks pinterest page",
+      "timestamp_ms": 1749706605325,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1749704817798,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "'snicks pinterest page"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3653111052600370641"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "'snicks pinterest page",
+      "timestamp_ms": 1749704756881,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "'snicks pinterest page",
+  "is_still_participant": true,
+  "thread_path": "inbox/snickspinterestpage_1236865171230944",
+  "magic_words": [
+    
+  ]
+}

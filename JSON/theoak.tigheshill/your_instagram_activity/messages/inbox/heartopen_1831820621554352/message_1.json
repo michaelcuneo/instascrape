@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Heart Open"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1771757749534,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3838104589316488126"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Heart Open",
+      "timestamp_ms": 1771738033300,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Heart Open",
+      "timestamp_ms": 1771737787101,
+      "content": "Heart sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DVDF3pCj_mu/?carousel_share_child_media_id=3837937121319975342_5901104068",
+        "share_text": "It\u00e2\u0080\u0099s International Women\u00e2\u0080\u0099s Day on Sunday 8 March, and in Newcastle that means it\u00e2\u0080\u0099s time for women\u00e2\u0080\u0099s poetry.\nThe IWD Poetry Salon is on again and women and non-binary poets and readers are invited to nominate to read at the event.\nWe\u00e2\u0080\u0099ll be holding it at the Oak from 2pm.\nAs in previous years, readers are encouraged to bring along favourite poems by women and non-binary poets to read. In past years we\u00e2\u0080\u0099ve heard poetry from the 17th century to the present day, from women from diverse backgrounds and experiences, young and old.\nYou are welcome to read your own poetry, too, of course!\nCome and hear your old favourites and new poems you\u00e2\u0080\u0099ve never heard before. It\u00e2\u0080\u0099s bound to be a beautiful afternoon.\nWe usually get a lot of interest in reading, so the time slots will likely be short.\nPlease contact Alex (editingal@gmail.com) to express your interest in reading! PS the incredible George Woods (OG Organiser) is coming too! <3 <3",
+        "original_content_owner": "her_art_open"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Heart Open",
+  "is_still_participant": true,
+  "thread_path": "inbox/heartopen_1831820621554352",
+  "magic_words": [
+    
+  ]
+}

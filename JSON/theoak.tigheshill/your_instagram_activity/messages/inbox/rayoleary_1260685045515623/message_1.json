@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Ray O'Leary"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752466633246,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3676278907021414824"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ray O'Leary",
+  "is_still_participant": true,
+  "thread_path": "inbox/rayoleary_1260685045515623",
+  "magic_words": [
+    
+  ]
+}

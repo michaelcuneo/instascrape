@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Meegan McHugh"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Meegan McHugh",
+      "timestamp_ms": 1702677249253,
+      "content": "Hi there\nWould you have a table for two tonight at 6pm for us to have dinner? \nThanks\nMeegan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Meegan McHugh",
+  "is_still_participant": true,
+  "thread_path": "inbox/meeganmchugh_886904709560327",
+  "magic_words": [
+    
+  ]
+}

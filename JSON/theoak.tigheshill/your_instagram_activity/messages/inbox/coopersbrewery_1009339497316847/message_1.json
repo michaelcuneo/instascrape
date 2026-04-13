@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Coopers Brewery"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1721198835567,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3413985692031171773"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Coopers Brewery",
+  "is_still_participant": true,
+  "thread_path": "inbox/coopersbrewery_1009339497316847",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Hawke's Brewing Co."
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1696668095158,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3208206929239026100"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1696400941436,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3205965686723505960"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hawke's Brewing Co.",
+  "is_still_participant": true,
+  "thread_path": "inbox/hawkesbrewingco_849111073339691",
+  "magic_words": [
+    
+  ]
+}

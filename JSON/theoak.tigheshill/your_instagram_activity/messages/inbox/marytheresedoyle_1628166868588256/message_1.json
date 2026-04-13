@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Mary Therese Doyle"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mary Therese Doyle",
+      "timestamp_ms": 1759132917732,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3731499056913024312"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mary Therese Doyle",
+  "is_still_participant": true,
+  "thread_path": "inbox/marytheresedoyle_1628166868588256",
+  "magic_words": [
+    
+  ]
+}

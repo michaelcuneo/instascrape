@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Instagram user"
+    },
+    {
+      "name": "sina06"
+    },
+    {
+      "name": "Michael Cuneo Photography"
+    },
+    {
+      "name": "Vict\u00c3\u00b8r."
+    },
+    {
+      "name": "Angie Smith"
+    },
+    {
+      "name": "Instagram user"
+    },
+    {
+      "name": "Andrei Andrei"
+    },
+    {
+      "name": "Maura Farini"
+    },
+    {
+      "name": "Kevin Hoare"
+    },
+    {
+      "name": "Lieutenant Guillaume"
+    },
+    {
+      "name": "Mauricio Meneses"
+    },
+    {
+      "name": "artikov"
+    },
+    {
+      "name": "sdileni_okamzite"
+    },
+    {
+      "name": "\u00d0\u009d\u00d0\u00be\u00d0\u00b6\u00d0\u00b8 \u00d0\u009a\u00d0\u00b8\u00d0\u00b7\u00d0\u00bb\u00d1\u008f\u00d1\u0080\u00d1\u0081\u00d0\u00ba\u00d0\u00b8\u00d0\u00b5 \u00f0\u009f\u0092\u00af Kizlyar"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "VikAs SirAwAg",
+      "timestamp_ms": 1648658647422,
+      "content": "VikAs SirAwAg left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram user, sina06, Vict\u00c3\u00b8r. and 10 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramusersina06victorand10others_427617591780941",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

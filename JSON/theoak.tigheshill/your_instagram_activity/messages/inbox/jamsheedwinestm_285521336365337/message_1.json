@@ -1,0 +1,122 @@
+{
+  "participants": [
+    {
+      "name": "Jamsheed Wines \u00e2\u0084\u00a2"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713918799022,
+      "content": "No problem. I\u00e2\u0080\u0099ll just link you guys and you can go from there",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jamsheed Wines \u00e2\u0084\u00a2",
+      "timestamp_ms": 1713918774941,
+      "content": "Maybe just say no promises, just need to check what space we have",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jamsheed Wines \u00e2\u0084\u00a2",
+      "timestamp_ms": 1713918744201,
+      "content": "elika@jamsheed.com.au",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713918731920,
+      "content": "Yep can do. What\u00e2\u0080\u0099s your Jamsheed one again?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jamsheed Wines \u00e2\u0084\u00a2",
+      "timestamp_ms": 1713918691434,
+      "content": "Oh yeah! Let me have a chat to Gary and see if he reckons we have enough space. Do you want to shoot him my email?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713918580817,
+      "content": "In broadsheet the other week and has some good stockists",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713918552160,
+      "content": "Tasty caffeinated Yerba tea. He\u00e2\u0080\u0099s getting good press and is a good bloke.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713918518959,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/jamsheedwinestm_285521336365337/photos/422904870681062.jpg",
+          "creation_timestamp": 1713918517
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jamsheed Wines \u00e2\u0084\u00a2",
+      "timestamp_ms": 1713918446696,
+      "content": "What\u00e2\u0080\u0099s the go?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jamsheed Wines \u00e2\u0084\u00a2",
+      "timestamp_ms": 1713918403232,
+      "content": "Oooh can\u00e2\u0080\u0099t see. They\u00e2\u0080\u0099re private",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713918381827,
+      "content": "You guys know Oli?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1713918381460,
+      "share": {
+        "original_content_owner": "oli_ver_ford"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1707612338583,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jamsheed Wines \u00e2\u0084\u00a2",
+  "is_still_participant": true,
+  "thread_path": "inbox/jamsheedwinestm_285521336365337",
+  "magic_words": [
+    
+  ]
+}

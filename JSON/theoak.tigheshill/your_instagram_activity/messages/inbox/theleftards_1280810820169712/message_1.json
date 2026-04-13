@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "The Leftards"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Leftards",
+      "timestamp_ms": 1754698655567,
+      "content": "The Leftards sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DNHST1JyCvv/",
+        "share_text": "Been a while since we hit Newcastle! Heading up soon with our shiny new rhythm section for this killer lineup, with @thegeneralaroma and @bardvarkk ready to tear @theoak.tigheshill a new one! #punk #rock #aussiebands #nodickheads #newcastle #independentmusic #party",
+        "original_content_owner": "theleftards"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Leftards",
+  "is_still_participant": true,
+  "thread_path": "inbox/theleftards_1280810820169712",
+  "magic_words": [
+    
+  ]
+}

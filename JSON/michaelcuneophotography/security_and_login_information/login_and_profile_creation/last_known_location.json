@@ -1,0 +1,37 @@
+{
+  "account_history_imprecise_last_known_location": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Imprecise latitude": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Imprecise longitude": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Precise latitude": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Precise longitude": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "GPS time uploaded": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

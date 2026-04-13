@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Alyssa"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alyssa",
+      "timestamp_ms": 1743547193481,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3600947796045623487"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alyssa",
+      "timestamp_ms": 1714211293759,
+      "content": "No Nancy and the Jam Fancys tonight?",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3355243923043440911"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alyssa",
+  "is_still_participant": true,
+  "thread_path": "inbox/alyssa_961098398807624",
+  "magic_words": [
+    
+  ]
+}

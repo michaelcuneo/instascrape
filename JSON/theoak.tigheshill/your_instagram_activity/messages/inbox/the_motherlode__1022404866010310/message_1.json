@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "The_Motherlode_"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The_Motherlode_",
+      "timestamp_ms": 1724408461687,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The_Motherlode_",
+      "timestamp_ms": 1724147647863,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The_Motherlode_",
+      "timestamp_ms": 1723155369598,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1723072230976,
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "The_Motherlode_",
+          "timestamp": 1723155369
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3429700798069108732"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The_Motherlode_",
+      "timestamp_ms": 1723025486663,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The_Motherlode_",
+  "is_still_participant": true,
+  "thread_path": "inbox/the_motherlode__1022404866010310",
+  "magic_words": [
+    
+  ]
+}

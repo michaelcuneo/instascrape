@@ -1,0 +1,91 @@
+{
+  "participants": [
+    {
+      "name": "Sam McCrossin"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sam McCrossin",
+      "timestamp_ms": 1738198193279,
+      "content": "No worries. Will do",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sam McCrossin",
+      "timestamp_ms": 1738198171476,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1738197725245,
+      "content": "Looking pretty stacked at the moment. Can try your luck at a spot at the bar. Should be sweet",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sam McCrossin",
+          "timestamp": 1738198171
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sam McCrossin",
+      "timestamp_ms": 1738197217234,
+      "content": "Anything left for triv tonight? Think we've got five.",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3556125652052550458"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sam McCrossin",
+      "timestamp_ms": 1729661889997,
+      "content": "Done, tah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sam McCrossin",
+      "timestamp_ms": 1729661813659,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1729661450796,
+      "content": "Best bet is to book via the link in our bio",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sam McCrossin",
+          "timestamp": 1729661813
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sam McCrossin",
+      "timestamp_ms": 1729661372424,
+      "content": "Hello. Can I reserve a table for 6 for trivia tomorrow?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sam McCrossin",
+  "is_still_participant": true,
+  "thread_path": "inbox/sammccrossin_1074556044128525",
+  "magic_words": [
+    
+  ]
+}

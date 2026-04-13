@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "REGIKAY"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "REGIKAY",
+      "timestamp_ms": 1733448464697,
+      "content": "Legend, thank heaps!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1733446910116,
+      "content": "I will give them a heads up that your going to contact them! Cheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1733446860872,
+      "content": "Gday for any music enquiries just send an email through to oakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "REGIKAY",
+      "timestamp_ms": 1733446432890,
+      "content": "Hey there, just reaching out as I\u00e2\u0080\u0099d love to have my band play at your venue! How do I go about that?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "REGIKAY",
+  "is_still_participant": true,
+  "thread_path": "inbox/regikay_1103894424528020",
+  "magic_words": [
+    
+  ]
+}

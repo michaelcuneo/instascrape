@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Good Pash"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Good Pash",
+      "timestamp_ms": 1730073342389,
+      "content": "Thanks Dunny we\u00e2\u0080\u0099ll let our manager know",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1730032378255,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f Dunny",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1730032360116,
+      "content": "management@royaloaktigheshill.com.au",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1730032345034,
+      "content": "Hey legends, well done tonight. I hope you got back home ok.\n\nWe usually pay on the night but we missed ya.\n\nDo you want to shoot us an invoice for $150 with your abn on it and pass on bank details and I will transfer you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Good Pash",
+  "is_still_participant": true,
+  "thread_path": "inbox/goodpash_1077525103831619",
+  "magic_words": [
+    
+  ]
+}

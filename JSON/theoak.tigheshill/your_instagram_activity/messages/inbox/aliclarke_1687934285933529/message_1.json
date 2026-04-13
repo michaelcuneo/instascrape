@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Ali Clarke"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ali Clarke",
+      "timestamp_ms": 1751368506224,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1751368484388,
+      "content": "$69/person. \n\nJust book via our regular booking link\n\nhttps://obee.com.au/theoaktigheshill/",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ali Clarke"
+        }
+      ],
+      "share": {
+        "link": "https://obee.com.au/theoaktigheshill/",
+        "share_text": "Book your seat online today. We serve delicious food in Tighes Hill, NSW"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ali Clarke",
+      "timestamp_ms": 1751368370188,
+      "content": "I couldn\u00e2\u0080\u0099t find the link",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ali Clarke",
+      "timestamp_ms": 1751368366058,
+      "content": "How much are tix?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ali Clarke",
+      "timestamp_ms": 1751368350788,
+      "content": "Ok great",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ali Clarke",
+      "timestamp_ms": 1751368345907,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1751368317889,
+      "content": "We can definitely accommodate with a pescatarian menu.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ali Clarke"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ali Clarke",
+      "timestamp_ms": 1751367342111,
+      "content": "Hey guys! I just wanted to ask about this Bastille day lunch next Sunday 13th. I want to go but will there be veggie or pescatarian options? :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ali Clarke",
+  "is_still_participant": true,
+  "thread_path": "inbox/aliclarke_1687934285933529",
+  "magic_words": [
+    
+  ]
+}

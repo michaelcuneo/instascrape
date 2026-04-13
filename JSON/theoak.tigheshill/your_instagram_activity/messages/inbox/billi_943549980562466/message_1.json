@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "BILLI"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "BILLI",
+      "timestamp_ms": 1739578988143,
+      "content": "Thank you !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1739577603469,
+      "content": "Hey Billi, got you covered, i have updated your booking as confirmed!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "BILLI",
+      "timestamp_ms": 1739504644837,
+      "content": "can you please squeeze 4 of us in for trivia on Thursday?? Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "BILLI",
+  "is_still_participant": true,
+  "thread_path": "inbox/billi_943549980562466",
+  "magic_words": [
+    
+  ]
+}

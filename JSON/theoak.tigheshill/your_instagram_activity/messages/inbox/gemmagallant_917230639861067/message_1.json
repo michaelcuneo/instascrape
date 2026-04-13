@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Gemma Gallant"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gemma Gallant",
+      "timestamp_ms": 1707291760238,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill",
+          "timestamp": 1707291827
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gemma Gallant",
+  "is_still_participant": true,
+  "thread_path": "inbox/gemmagallant_917230639861067",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Justine Cogan"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justine Cogan",
+      "timestamp_ms": 1733562695465,
+      "content": "Oh just thought you guys would know a heap \u00f0\u009f\u00a4\u00b7\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1733561833767,
+      "content": "We would absolutely love that! If you\u00e2\u0080\u0099ve got any in mind get them to send an email to oakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Justine Cogan",
+      "timestamp_ms": 1733561360279,
+      "content": "This weekend of music looks awesome. Will there be a weekend full of 100% older female musicians playing some time? \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Justine Cogan",
+  "is_still_participant": true,
+  "thread_path": "inbox/justinecogan_1104748997775896",
+  "magic_words": [
+    
+  ]
+}

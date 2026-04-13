@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Vandoll"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1750540216033,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3660118874961867921"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vandoll",
+      "timestamp_ms": 1750527569585,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vandoll",
+      "timestamp_ms": 1750527553439,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vandoll",
+      "timestamp_ms": 1750527542207,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vandoll",
+      "timestamp_ms": 1750527533624,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vandoll",
+      "timestamp_ms": 1750527518480,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vandoll",
+      "timestamp_ms": 1750527514192,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vandoll",
+      "timestamp_ms": 1750527454731,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vandoll",
+  "is_still_participant": true,
+  "thread_path": "inbox/vandoll_1243872773863517",
+  "magic_words": [
+    
+  ]
+}

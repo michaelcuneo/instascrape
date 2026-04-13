@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Kim Salmon"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1734854978622,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3528541633824866119"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kim Salmon",
+  "is_still_participant": true,
+  "thread_path": "inbox/kimsalmon_1114519796798816",
+  "magic_words": [
+    
+  ]
+}

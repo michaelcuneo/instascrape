@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Celina"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752212335557,
+      "content": "Under 18 must be accompanied by a guardian and come see us at the bar on entry",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Celina",
+      "timestamp_ms": 1752210749540,
+      "content": "Is this 18+ ?",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3673429517357401349"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Celina",
+  "is_still_participant": true,
+  "thread_path": "inbox/celina_1258445832406211",
+  "magic_words": [
+    
+  ]
+}

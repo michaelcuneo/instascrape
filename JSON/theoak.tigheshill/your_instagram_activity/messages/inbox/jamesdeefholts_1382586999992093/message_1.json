@@ -1,0 +1,138 @@
+{
+  "participants": [
+    {
+      "name": "James Deefholts"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "James Deefholts",
+      "timestamp_ms": 1768868287799,
+      "content": "Hey thanks so much for the Sunday sesh event. \nAs it was my first event that I\u00e2\u0080\u0099ve organised by myself I was hoping that you could leave me a short review that I can add to my resume. Let me know your thoughts.\nThanks, all the best and I look forward to further events.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "James Deefholts",
+      "timestamp_ms": 1765693222844,
+      "content": "I\u00e2\u0080\u0099ll continue to text you on the LADAS account",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "James Deefholts",
+      "timestamp_ms": 1765693194639,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1765690396163,
+      "content": "Happy to lock in 18th?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "James Deefholts",
+      "timestamp_ms": 1765686840862,
+      "content": "Samba frog would be amazing",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "James Deefholts",
+      "timestamp_ms": 1765685350752,
+      "content": "18th would work well",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "James Deefholts",
+      "timestamp_ms": 1765684714081,
+      "content": "I\u00e2\u0080\u0099ll get back to you ASAP",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "James Deefholts",
+      "timestamp_ms": 1765684701326,
+      "content": "A band would be good but not essential",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1765675438885,
+      "content": "Got the 18th and 25th free if you\u00e2\u0080\u0099re keen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1765675244441,
+      "content": "Hey mate, yeah keen on getting something going. You thinking a band?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "James Deefholts",
+      "timestamp_ms": 1765549857344,
+      "content": "https://www.instagram.com/ladas_uon?igsh=N3JpNW81d2YyanNy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "James Deefholts",
+      "timestamp_ms": 1765549856787,
+      "content": "James sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/ladas_uon",
+        "profile_share_username": "ladas_uon",
+        "profile_share_name": "Latin American Dance Society (LADAS)"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "James Deefholts",
+      "timestamp_ms": 1765549787841,
+      "content": "Hey mate, it\u00e2\u0080\u0099s James, I\u00e2\u0080\u0099m from the Latin American dance association of Newcastle Uni! A mouthful I know! \nWe chatted when you hosted a Latin dance night there a few months back  and was wondering if there was a Sunday free in Jan to host an arvo sesh of margs, tacos and Latin dance. \nI can see much of the community getting behind it so it should be fun! \nI\u00e2\u0080\u0099ll send our insta account for reference",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "James Deefholts",
+  "is_still_participant": true,
+  "thread_path": "inbox/jamesdeefholts_1382586999992093",
+  "magic_words": [
+    
+  ]
+}

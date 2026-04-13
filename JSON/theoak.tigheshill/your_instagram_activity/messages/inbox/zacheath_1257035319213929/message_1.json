@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Zac Heath"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Zac Heath",
+      "timestamp_ms": 1769931786706,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1766287407846,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3792216032890976229"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zac Heath",
+      "timestamp_ms": 1766286157662,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752050911075,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3672791667750723011"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752043253074,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3672727429980348817"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zac Heath",
+      "timestamp_ms": 1752042006530,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Zac Heath",
+  "is_still_participant": true,
+  "thread_path": "inbox/zacheath_1257035319213929",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Sarah Bone"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1703031491138,
+      "content": "Great! We\u00e2\u0080\u0099ll see you Thursday. \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sarah Bone",
+      "timestamp_ms": 1703031410698,
+      "content": "All good I called up last week and booked",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1703030973808,
+      "content": "We\u00e2\u0080\u0099re looking pretty full at the moment but always have space for walk ins.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sarah Bone",
+      "timestamp_ms": 1702463762435,
+      "content": "Can I make a dinner booking? For thurs 21st",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sarah Bone",
+  "is_still_participant": true,
+  "thread_path": "inbox/sarahbone_885463593037772",
+  "magic_words": [
+    
+  ]
+}

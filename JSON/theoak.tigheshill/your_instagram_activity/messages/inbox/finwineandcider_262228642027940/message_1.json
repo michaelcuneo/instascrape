@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "FIN WINE AND CIDER"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "FIN WINE AND CIDER",
+      "timestamp_ms": 1719457105124,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3398899327673534118"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "FIN WINE AND CIDER",
+      "timestamp_ms": 1715243970832,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1715243848923,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3364031663805368192"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1715083719332,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C6qq0SLydjl/",
+        "share_text": "drop by on Friday 5 pm - 7 pm to taste the new drop from our pals at @fin.wines - snacks will be provided!",
+        "original_content_owner": "theoak.tigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "FIN WINE AND CIDER",
+  "is_still_participant": true,
+  "thread_path": "inbox/finwineandcider_262228642027940",
+  "magic_words": [
+    
+  ]
+}

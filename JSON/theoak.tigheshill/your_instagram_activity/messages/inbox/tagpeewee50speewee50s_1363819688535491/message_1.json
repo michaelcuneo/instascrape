@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Tag #peewee50s @peewee50s"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1763685958900,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1763361165068,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tag #peewee50s @peewee50s",
+  "is_still_participant": true,
+  "thread_path": "inbox/tagpeewee50speewee50s_1363819688535491",
+  "magic_words": [
+    
+  ]
+}

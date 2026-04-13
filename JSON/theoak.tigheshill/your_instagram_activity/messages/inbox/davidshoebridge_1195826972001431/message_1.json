@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "David Shoebridge"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1744777829077,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "David Shoebridge",
+  "is_still_participant": true,
+  "thread_path": "inbox/davidshoebridge_1195826972001431",
+  "magic_words": [
+    
+  ]
+}

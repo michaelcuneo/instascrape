@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "petronziblonde"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "petronziblonde",
+      "timestamp_ms": 1711696027957,
+      "content": "Hey what time do you guys close tonight?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "petronziblonde",
+  "is_still_participant": true,
+  "thread_path": "message_requests/petronziblonde_944721920445272",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

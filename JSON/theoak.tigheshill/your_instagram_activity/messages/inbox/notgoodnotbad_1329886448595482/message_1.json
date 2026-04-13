@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Not Good, Not Bad"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760673577303,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3745123836811669001"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Not Good, Not Bad",
+      "timestamp_ms": 1760672750592,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760671091072,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760670932269,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Not Good, Not Bad",
+      "timestamp_ms": 1760612085671,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760589776365,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760589688891,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1759912777412,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DPiq8iWgcsE/?id=3738739518677830404_29666268335",
+        "share_text": "If your monthly gig roster doesn\u00e2\u0080\u0099t include Splodge, Spuz and Squelch, can you really call yourself a venue? Here\u00e2\u0080\u0099s who you can catch at the pub this October!\n\nCover \u00f0\u009f\u0093\u00b8 @_duncanng_",
+        "original_content_owner": "theoak.tigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Not Good, Not Bad",
+  "is_still_participant": true,
+  "thread_path": "inbox/notgoodnotbad_1329886448595482",
+  "magic_words": [
+    
+  ]
+}

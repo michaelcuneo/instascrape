@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Ben Stockton"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ben Stockton",
+      "timestamp_ms": 1760987098669,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1760964300963,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ben Stockton"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3747562474782699589"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ben Stockton",
+      "timestamp_ms": 1760964031968,
+      "share": {
+        "link": "https://www.instagram.com/stories/benstocko/3747560250660711362"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ben Stockton",
+  "is_still_participant": true,
+  "thread_path": "inbox/benstockton_1340598204190973",
+  "magic_words": [
+    
+  ]
+}

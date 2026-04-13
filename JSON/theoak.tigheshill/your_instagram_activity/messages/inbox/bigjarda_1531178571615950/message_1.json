@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Big Jarda"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Big Jarda",
+      "timestamp_ms": 1729730541909,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Big Jarda",
+  "is_still_participant": true,
+  "thread_path": "inbox/bigjarda_1531178571615950",
+  "magic_words": [
+    
+  ]
+}

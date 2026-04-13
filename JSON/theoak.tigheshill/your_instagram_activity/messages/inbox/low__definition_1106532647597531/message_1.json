@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "low__definition"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "low__definition",
+      "timestamp_ms": 1733794571117,
+      "content": "Thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1733794532262,
+      "content": "yo! \nOakbandbooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "low__definition",
+      "timestamp_ms": 1733794200588,
+      "content": "Hey dunni\n\nHave you got an email to hit you up on for booking a show?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "low__definition",
+  "is_still_participant": true,
+  "thread_path": "inbox/low__definition_1106532647597531",
+  "magic_words": [
+    
+  ]
+}

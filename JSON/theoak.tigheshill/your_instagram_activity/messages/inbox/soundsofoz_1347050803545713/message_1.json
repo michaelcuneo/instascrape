@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sounds of Oz"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sounds of Oz",
+      "timestamp_ms": 1761629785517,
+      "content": "Please don't click the link - I have been hacked. If you have, I recommend changing your passwords. So sorry!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sounds of Oz",
+      "timestamp_ms": 1761604846255,
+      "content": "Hey! can I ask a favor to vote for me? I am applying to be a co-host for a podcast organized by Spotify in collaboration with Google. The maximum number of eligible votes is 450 and every vote counts. I\u00e2\u0080\u0099ve reached 312, just 138 more to reach the milestone. I would really appreciate it if you voted for me. here is the voting link: https://spotifyseries.ct.ws/en",
+      "share": {
+        "link": "https://spotifyseries.ct.ws/en",
+        "share_text": "Hey! can I ask a favor to vote for me? I am applying to be a co-host for a podcast organized by Spotify in collaboration with Google. The maximum number of eligible votes is 450 and every vote counts. I\u00e2\u0080\u0099ve reached 312, just 138 more to reach the milestone. I would really appreciate it if you voted for me. here is the voting link: https://spotifyseries.ct.ws/en"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sounds of Oz",
+  "is_still_participant": true,
+  "thread_path": "inbox/soundsofoz_1347050803545713",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Georgia Hardcastle"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Georgia Hardcastle",
+      "timestamp_ms": 1761611253318,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1761606186964,
+      "content": "Yeah no worries that will be fine! Let us know if there is anything else you need",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Georgia Hardcastle"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Georgia Hardcastle",
+      "timestamp_ms": 1761523548451,
+      "content": "Maybe between like 20 and 30?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Georgia Hardcastle",
+      "timestamp_ms": 1761523540356,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1761521013221,
+      "content": "Hey Georgia, how many people would we be looking at? We can definitely sort it out!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Georgia Hardcastle"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Georgia Hardcastle",
+      "timestamp_ms": 1761520743908,
+      "content": "Hello!! I was hoping to have my 30th in the back area of your pub on 29th November, do you guys have any capacity for me to reserve a bunch of tables from 5pm?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Georgia Hardcastle",
+  "is_still_participant": true,
+  "thread_path": "inbox/georgiahardcastle_1827520391983110",
+  "magic_words": [
+    
+  ]
+}

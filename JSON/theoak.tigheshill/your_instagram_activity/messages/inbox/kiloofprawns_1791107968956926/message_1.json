@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "Kilo of Prawns"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kilo of Prawns",
+      "timestamp_ms": 1770886430060,
+      "content": "Kilo sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DUpt0tREe6G/?carousel_share_child_media_id=3830794492165877382_251672081",
+        "share_text": "",
+        "original_content_owner": "_duncanng_"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1759923042300,
+      "content": "Hahaha. We\u00e2\u0080\u0099ll let you two sort that one!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kilo of Prawns",
+      "timestamp_ms": 1759919061201,
+      "content": "Or at least rig the meat raffle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kilo of Prawns",
+      "timestamp_ms": 1759918994021,
+      "content": "Few photos in there, surely Dunny hooks us up with a kilo of prawns for these",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kilo of Prawns",
+      "timestamp_ms": 1759918956802,
+      "content": "https://drive.google.com/drive/folders/1B2C-R-rBZzWQeWyj2uAyGsJNG7TvhdR8",
+      "share": {
+        "link": "https://drive.google.com/drive/folders/1B2C-R-rBZzWQeWyj2uAyGsJNG7TvhdR8",
+        "share_text": "https://drive.google.com/drive/folders/1B2C-R-rBZzWQeWyj2uAyGsJNG7TvhdR8"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1759891634358,
+      "content": "Hey Duncan, Hope you\u00e2\u0080\u0099re good! I\u00e2\u0080\u0099m helping out the Oak with their socials and noticed you have so many epic pics of bands/ vibe. I was wondering if I could share a couple and credit you. Let me know. \nThanks so much! \nClaire",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kilo of Prawns",
+      "timestamp_ms": 1757579456189,
+      "content": "Kilo sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DOdIw7WEmXk/?carousel_share_child_media_id=3719167413905941988_251672081",
+        "share_text": "Last few rolls",
+        "original_content_owner": "_duncanng_"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kilo of Prawns",
+  "is_still_participant": true,
+  "thread_path": "inbox/kiloofprawns_1791107968956926",
+  "magic_words": [
+    
+  ]
+}

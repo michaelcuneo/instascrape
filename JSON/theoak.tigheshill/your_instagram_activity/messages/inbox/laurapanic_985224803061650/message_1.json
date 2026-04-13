@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "laurapanic"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1758669214743,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DO9ni-hE3CZ/?carousel_share_child_media_id=3728309993935696025_29666268335",
+        "share_text": "GIG GUIDE\nWe\u00e2\u0080\u0099re gearing up for yet another big weekend at The Oak!\n\nFRIDAY\nThe newest instalment of Bloakes At The Oak with @benjaminfrasermckenzie joined by @auntyalan.wav. Joker Draw sits at $9900\n\nSATURDAY\n@nunchukkasuperfly return for another show for their \"of you go down, i go down too\" EP Launch with @_laurapanicband \nAFL Grand Final being shown of the Big screen in the Sports Lounge\n\nSUNDAY\nThe Oak Seafood Lunch, 4 Course Seafood special curated by @josh_cale_nicholson $69pp, Link in Bio for bookings\nTo go along with our lunch we\u00e2\u0080\u0099ve got @huntervalleyramblers last Residency Gig\n\nVINYLS\n@just.bonnie.anne, @mistahdux & @pc___dysco will be turning tables and heads all weekend! \n\nLive.Local.Free #ROAK",
+        "original_content_owner": "theoak.tigheshill"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "laurapanic",
+      "timestamp_ms": 1746260391838,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "laurapanic",
+      "timestamp_ms": 1746179864910,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "laurapanic",
+      "timestamp_ms": 1717739659895,
+      "content": "Hey !!! One of us will be in tomorrow arvo. Thank you so much :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1717738970712,
+      "content": "Hey guys, i have you pay awaiting pick up at the pub whenever your ready!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "laurapanic",
+  "is_still_participant": true,
+  "thread_path": "inbox/laurapanic_985224803061650",
+  "magic_words": [
+    
+  ]
+}

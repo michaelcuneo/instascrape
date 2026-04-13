@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "sophie o\u00e2\u0080\u0099sullivan"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "sophie o\u00e2\u0080\u0099sullivan",
+      "timestamp_ms": 1713319512210,
+      "content": "2 for triv pretty please!! \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sophie o\u00e2\u0080\u0099sullivan",
+      "timestamp_ms": 1696668246258,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3208206929239026100"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "sophie o\u00e2\u0080\u0099sullivan",
+  "is_still_participant": true,
+  "thread_path": "inbox/sophieosullivan_848627856721346",
+  "magic_words": [
+    
+  ]
+}

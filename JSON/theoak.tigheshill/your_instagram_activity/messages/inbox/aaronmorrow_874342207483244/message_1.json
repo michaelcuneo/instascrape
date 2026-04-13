@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Aaron Morrow"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aaron Morrow",
+      "timestamp_ms": 1740804542101,
+      "content": "Whats going on at Ben\u00e2\u0080\u0099s party. Watch out for the gimps.",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3578444724878279611"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aaron Morrow",
+      "timestamp_ms": 1739779571945,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aaron Morrow",
+      "timestamp_ms": 1733646810400,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aaron Morrow",
+  "is_still_participant": true,
+  "thread_path": "inbox/aaronmorrow_874342207483244",
+  "magic_words": [
+    
+  ]
+}

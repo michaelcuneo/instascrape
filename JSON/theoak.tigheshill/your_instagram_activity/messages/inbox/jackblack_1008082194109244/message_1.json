@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Jack Black"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1721119706860,
+      "content": "This account can't receive your message because they don't allow new message requests from everyone.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1721119706715,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jack Black",
+  "is_still_participant": true,
+  "thread_path": "inbox/jackblack_1008082194109244",
+  "magic_words": [
+    
+  ]
+}

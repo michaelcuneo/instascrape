@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Front Of House"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Front Of House",
+      "timestamp_ms": 1722897550254,
+      "content": "Not a problem, thanks.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1722894895055,
+      "content": "Not at the moment. Thank you though.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Front Of House",
+      "timestamp_ms": 1722850108128,
+      "content": "Hi, my name is Georgey and I wanted to reach out to see if you would be interested in social media marketing or content creation. I run a social media marketing agency based in Alexandria and we help hospitality businesses with their social media presence, covering content creation, ads and creative.\n\nHere are some of the businesses that we have worked with:\n@sydneyrestaurantgroup\n@brooklynboybagels\n@170grammi\n@vianapolipizzeria\n@marcelbarandbistro\n@capopizza_au\n@lastellalatticini\n@barquattro_waverton\n@olivetoristorante\n@souldining\n\n I'd love to discuss this further if you are interested.\n\nThanks Georgey,",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Front Of House",
+  "is_still_participant": true,
+  "thread_path": "inbox/frontofhouse_1021208639463266",
+  "magic_words": [
+    
+  ]
+}

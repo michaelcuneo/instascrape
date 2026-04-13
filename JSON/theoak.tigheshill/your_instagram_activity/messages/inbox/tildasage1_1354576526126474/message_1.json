@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "tilda sage \u00e2\u0098\u0086\u00ef\u00be\u009f\u00e2\u0081\u00a0\u00ef\u00bd\u00a1\u00e2\u0097\u008e*\u00e2\u0081\u00a0.\u00ef\u00bd\u00a5\u00e0\u00b9\u0091\u00e2\u0081\u00a0"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "tilda sage \u00e2\u0098\u0086\u00ef\u00be\u009f\u00e2\u0081\u00a0\u00ef\u00bd\u00a1\u00e2\u0097\u008e*\u00e2\u0081\u00a0.\u00ef\u00bd\u00a5\u00e0\u00b9\u0091\u00e2\u0081\u00a0",
+      "timestamp_ms": 1762382888266,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/tildasage1_1354576526126474/photos/24746564718372387.jpg",
+          "creation_timestamp": 1762382887
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "tilda sage \u00e2\u0098\u0086\u00ef\u00be\u009f\u00e2\u0081\u00a0\u00ef\u00bd\u00a1\u00e2\u0097\u008e*\u00e2\u0081\u00a0.\u00ef\u00bd\u00a5\u00e0\u00b9\u0091\u00e2\u0081\u00a0",
+  "is_still_participant": true,
+  "thread_path": "inbox/tildasage1_1354576526126474",
+  "magic_words": [
+    
+  ]
+}

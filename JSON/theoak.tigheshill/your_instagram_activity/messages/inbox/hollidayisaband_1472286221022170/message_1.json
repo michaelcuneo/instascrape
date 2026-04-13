@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "hollidayisaband"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "hollidayisaband",
+      "timestamp_ms": 1775356274650,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "hollidayisaband",
+  "is_still_participant": true,
+  "thread_path": "inbox/hollidayisaband_1472286221022170",
+  "magic_words": [
+    
+  ]
+}

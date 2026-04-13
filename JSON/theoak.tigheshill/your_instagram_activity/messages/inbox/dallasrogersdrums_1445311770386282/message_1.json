@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Dallas Rogers ~ Drums"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dallas Rogers ~ Drums",
+      "timestamp_ms": 1772430323540,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dallas Rogers ~ Drums",
+      "timestamp_ms": 1772426370097,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dallas Rogers ~ Drums",
+  "is_still_participant": true,
+  "thread_path": "inbox/dallasrogersdrums_1445311770386282",
+  "magic_words": [
+    
+  ]
+}

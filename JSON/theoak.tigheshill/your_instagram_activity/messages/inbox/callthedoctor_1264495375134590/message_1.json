@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Call The Doctor"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1752906558785,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3679969363123584119"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Call The Doctor",
+      "timestamp_ms": 1752906526617,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Call The Doctor",
+  "is_still_participant": true,
+  "thread_path": "inbox/callthedoctor_1264495375134590",
+  "magic_words": [
+    
+  ]
+}

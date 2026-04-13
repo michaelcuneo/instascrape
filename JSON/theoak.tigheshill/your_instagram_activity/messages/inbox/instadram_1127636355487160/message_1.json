@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "instadram"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "instadram",
+      "timestamp_ms": 1736591022752,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "instadram",
+  "is_still_participant": true,
+  "thread_path": "inbox/instadram_1127636355487160",
+  "magic_words": [
+    
+  ]
+}

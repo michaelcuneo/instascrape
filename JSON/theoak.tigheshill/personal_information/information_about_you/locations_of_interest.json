@@ -1,0 +1,44 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Locations of interest",
+      "vec": [
+        {
+          "value": "Salamander Bay, New South Wales"
+        },
+        {
+          "value": "Whitebridge, New South Wales"
+        },
+        {
+          "value": "Soldiers Point, New South Wales"
+        },
+        {
+          "value": "Sydney, New South Wales"
+        },
+        {
+          "value": "Melbourne, Victoria"
+        },
+        {
+          "value": "Brisbane, Queensland"
+        },
+        {
+          "value": "New South Wales"
+        },
+        {
+          "value": "Queensland"
+        },
+        {
+          "value": "Victoria"
+        }
+      ]
+    },
+    {
+      "label": "Usage explanation",
+      "value": "Locations of interest are used to personalize your experience on Instagram and show you more relevant ads. Learn more about how Instagram uses location in Privacy Center."
+    }
+  ],
+  "fbid": "17841429650068283"
+}

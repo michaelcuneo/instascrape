@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Trip, Lex & Bam"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1729493469399,
+      "content": "OakBandBooking@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Trip, Lex & Bam",
+      "timestamp_ms": 1729411301453,
+      "content": "https://open.spotify.com/artist/1Ap3ZuXD2BJRTtVtpYCveQ?si=HYcJAfRMQnK7XKiDjxobeg",
+      "share": {
+        "link": "https://open.spotify.com/artist/1Ap3ZuXD2BJRTtVtpYCveQ?si=HYcJAfRMQnK7XKiDjxobeg",
+        "share_text": "https://open.spotify.com/artist/1Ap3ZuXD2BJRTtVtpYCveQ?si=HYcJAfRMQnK7XKiDjxobeg"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Trip, Lex & Bam",
+      "timestamp_ms": 1729411256827,
+      "content": "Hiya, \n\nWe are Soundstroke. We are interested in playing at your venue, if you have any time slots available for a smaller band. We are happy to be an opening/supporting band if needed and we are able to bring all our own gear (amps, leads, mixing board, drumkit etc - if needed). \n\nOur drummer is a Seventh Day Adventist and so will not be able to play any gigs from Friday sunset to Saturday sunset, but Saturday nights are completely okay, even if set up/prep happens during the day. We also have members who are 17 if that needs to be considered. \n\nWe truly appreciate your consideration and your help to establish our presence as a band in the Newcastle area. \n\nCheers, \nSoundstroke",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Trip, Lex & Bam",
+  "is_still_participant": true,
+  "thread_path": "inbox/triplexbam_1072585327658930",
+  "magic_words": [
+    
+  ]
+}

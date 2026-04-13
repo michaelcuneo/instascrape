@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Wade"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Wade",
+      "timestamp_ms": 1768549534993,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3811133302933364058"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wade",
+      "timestamp_ms": 1754203921641,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3690763615457600081"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wade",
+  "is_still_participant": true,
+  "thread_path": "inbox/wade_1276298447287616",
+  "magic_words": [
+    
+  ]
+}

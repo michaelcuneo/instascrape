@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Kate Higgon"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kate Higgon",
+      "timestamp_ms": 1743489575321,
+      "content": "Hahahahhahaha how did he get up there \u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3600947796045623487"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kate Higgon",
+  "is_still_participant": true,
+  "thread_path": "inbox/katehiggon_1184096099841185",
+  "magic_words": [
+    
+  ]
+}

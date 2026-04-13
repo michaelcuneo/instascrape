@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Spicy Rim Reviews"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Spicy Rim Reviews",
+      "timestamp_ms": 1773483843490,
+      "content": "Spicy sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Spicy Rim Reviews",
+  "is_still_participant": true,
+  "thread_path": "inbox/spicyrimreviews_1454459462804846",
+  "magic_words": [
+    
+  ]
+}

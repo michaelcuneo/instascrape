@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Em \u00f0\u009f\u00aa\u00b4"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Em \u00f0\u009f\u00aa\u00b4",
+      "timestamp_ms": 1708221988090,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1708212214299,
+      "content": "Yep got\u00e2\u0080\u00a6\nhunter valley ramblers 1-4\nWashy and mick Daley 5-7",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Em \u00f0\u009f\u00aa\u00b4",
+          "timestamp": 1708221988
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Em \u00f0\u009f\u00aa\u00b4",
+      "timestamp_ms": 1708211983424,
+      "content": "Hey guys! \nDo you have any live music this afternoon?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Em \u00f0\u009f\u00aa\u00b4",
+  "is_still_participant": true,
+  "thread_path": "inbox/em_923428025907995",
+  "magic_words": [
+    
+  ]
+}

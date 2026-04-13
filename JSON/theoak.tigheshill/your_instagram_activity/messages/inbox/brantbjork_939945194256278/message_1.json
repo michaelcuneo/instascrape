@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Brant Bjork"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1710962785670,
+      "content": "Hey Mate,\n\nWe\u00e2\u0080\u0099re a fairly new, independently owned pub in Newcastle. We have a front bar that can fit 120ish comfortably. We also have accommodation we can provide as part of any deal. \n\nYou interested in doing a show on your run through? We just sold out CW Stoneking in 7 days. 120 tix @ $65. \n\nAlso, we\u00e2\u0080\u0099re all obviously big fans and would be honoured if you were interested.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brant Bjork",
+  "is_still_participant": true,
+  "thread_path": "inbox/brantbjork_939945194256278",
+  "magic_words": [
+    
+  ]
+}

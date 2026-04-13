@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "BARDVARKK"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1765772870614,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "BARDVARKK",
+      "timestamp_ms": 1759214615711,
+      "content": "BARDVARKK sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DPN30jREUWI/?carousel_share_child_media_id=3732885169998218632_63210537115",
+        "share_text": "ALSO you should be spending the October long weekend the right way\u00e2\u0080\u00a6check out ALL that we\u00e2\u0080\u0099ve got going on!\n\n\u00f0\u009f\u0097\u0093\u00ef\u00b8\u008f Friday 3rd Oct @ The Oak w/ The General Aroma + The Leftards\n\u00f0\u009f\u0097\u0093\u00ef\u00b8\u008f Sunday 5th Oct @ West Best Block Fest 2025\n\nHopefully catch y\u00e2\u0080\u0099all there \u00f0\u009f\u0091\u0080\n\n\u00f0\u009f\u0093\u00b8 @zoeyjsimpson",
+        "original_content_owner": "bardvarkk"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1755350414926,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3700469463083942085"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "BARDVARKK",
+      "timestamp_ms": 1755349800597,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "BARDVARKK",
+      "timestamp_ms": 1755346859703,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "BARDVARKK",
+      "timestamp_ms": 1755226952571,
+      "content": "BARDVARKK sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DNXB9QwRt0n/?carousel_share_child_media_id=3699434226832563495_63210537115",
+        "share_text": "Tomorrow night we send off @midway.band !\nCome boogie and celebrate the end of an era w/ us and @feign_au \u00e2\u0080\u00a6.\nSee you there \u00f0\u009f\u0092\u008b\n\nBTS from our shoot a few months back w/ @dorphnis \n\u00f0\u009f\u0093\u00b8 @zoeyjsimpson \nEditor @two_hugh",
+        "original_content_owner": "bardvarkk"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "BARDVARKK",
+  "is_still_participant": true,
+  "thread_path": "inbox/bardvarkk_1285654299685364",
+  "magic_words": [
+    
+  ]
+}

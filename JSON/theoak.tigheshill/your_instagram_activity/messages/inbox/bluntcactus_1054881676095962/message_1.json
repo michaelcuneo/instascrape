@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "BluntCactus"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "BluntCactus",
+      "timestamp_ms": 1727441522264,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1727436505832,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3466310963388170546"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "BluntCactus",
+      "timestamp_ms": 1727431779643,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "BluntCactus",
+      "timestamp_ms": 1727406127272,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1727318634581,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3465322303758806598"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "BluntCactus",
+      "timestamp_ms": 1727318425913,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "BluntCactus",
+      "timestamp_ms": 1727318418428,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1727302179826,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "BluntCactus",
+  "is_still_participant": true,
+  "thread_path": "inbox/bluntcactus_1054881676095962",
+  "magic_words": [
+    
+  ]
+}

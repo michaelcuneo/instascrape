@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Rebekah Serenata Parkes"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1729729772527,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3485548321211688596"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1729729303550,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3485544317915401299"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rebekah Serenata Parkes",
+      "timestamp_ms": 1729727291066,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rebekah Serenata Parkes",
+  "is_still_participant": true,
+  "thread_path": "inbox/rebekahserenataparkes_1075081917409271",
+  "magic_words": [
+    
+  ]
+}

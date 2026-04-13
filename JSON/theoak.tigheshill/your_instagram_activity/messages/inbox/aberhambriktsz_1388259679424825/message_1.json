@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "aberhambriktsz"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "aberhambriktsz",
+      "timestamp_ms": 1766216763827,
+      "content": "Copy that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1766216740563,
+      "content": "5pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "aberhambriktsz",
+      "timestamp_ms": 1766216725766,
+      "content": "What time you guys close on Boxing Day?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "aberhambriktsz",
+  "is_still_participant": true,
+  "thread_path": "inbox/aberhambriktsz_1388259679424825",
+  "magic_words": [
+    
+  ]
+}

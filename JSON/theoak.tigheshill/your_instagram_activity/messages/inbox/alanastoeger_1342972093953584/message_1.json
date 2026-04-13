@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "Alana Stoeger"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1761450949474,
+      "share": {
+        "link": "https://www.instagram.com/stories/theoak.tigheshill/3751644903592029863"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alana Stoeger",
+      "timestamp_ms": 1761450143161,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alana Stoeger",
+      "timestamp_ms": 1761377388859,
+      "content": "Amazing.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Oak Tighes Hill"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alana Stoeger",
+      "timestamp_ms": 1761377384153,
+      "share": {
+        "link": "https://media1.giphy.com/media/v1.Y2lkPTQyMzA0NmQwcmJtdmFyMW9sZnIzY2pqcGM4NmV3Y2NqdjR6ejE0eWhrZ3RicjRlZyZlcD12MV9naWZzX2dpZklkJmN0PWc/3xz2BCe5jn2j4OM9ZS/200.gif"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1761377344402,
+      "content": "Lunch kicks off at 1pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alana Stoeger",
+      "timestamp_ms": 1761377341489,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1761377130164,
+      "content": "Hey alana, no you already have your 4 spots booked! Congratulations again!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alana Stoeger"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alana Stoeger",
+      "timestamp_ms": 1761377007662,
+      "content": "Hey just checking if I need to book for tomorrow?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alana Stoeger",
+      "timestamp_ms": 1761244592537,
+      "content": "Hahah this is great \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Oak Tighes Hill",
+      "timestamp_ms": 1761210196482,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alana Stoeger",
+  "is_still_participant": true,
+  "thread_path": "inbox/alanastoeger_1342972093953584",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Ben Lee"
+    },
+    {
+      "name": "The Oak Tighes Hill"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ben Lee",
+      "timestamp_ms": 1771237098605,
+      "share": {
+        "link": "https://www.instagram.com/stories/benn.lee/3833736998344102547"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ben Lee",
+  "is_still_participant": true,
+  "thread_path": "inbox/benlee_1433770731540386",
+  "magic_words": [
+    
+  ]
+}
