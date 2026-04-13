@@ -80,6 +80,7 @@ EXPORT_ROOT = Path(EXPORT_ROOT_ENV) if EXPORT_ROOT_ENV else None
 ACTIVE_EXPORT_ROOT: Path | None = EXPORT_ROOT
 # Persists which posts have already been uploaded
 PROGRESS_FILE = _env_path("PROGRESS_FILE", f"progress_{ACCOUNT_SLUG}.json")
+SESSION_FILE = _env_path("SESSION_FILE", f"session_{ACCOUNT_SLUG}.json")
 
 POSTS_PER_DAY = int(os.getenv("POSTS_PER_DAY", "25"))
 # Posting window in 24-h local time  (default 08:00 – 22:00)
@@ -158,9 +159,29 @@ def login_user() -> Client | None:
     if not USERNAME or not PASSWORD:
         logging.error("Missing INSTAGRAM_USERNAME or INSTAGRAM_PASSWORD in .env")
         return None
+
     client = Client()
+    session_path = Path(SESSION_FILE)
+
+    # Prefer restoring a previously trusted session to avoid unnecessary challenges.
+    if session_path.exists():
+        try:
+            client.load_settings(str(session_path))
+            client.login(USERNAME, PASSWORD)
+            client.get_timeline_feed()
+            logging.info("Logged in using saved session settings.")
+            return client
+        except Exception as e:
+            logging.warning(f"Saved session login failed, falling back to fresh login: {e}")
+
     try:
         client.login(USERNAME, PASSWORD)
+        try:
+            session_path.parent.mkdir(parents=True, exist_ok=True)
+            client.dump_settings(str(session_path))
+            logging.info(f"Session settings saved to {session_path}.")
+        except Exception as session_err:
+            logging.warning(f"Could not save session settings: {session_err}")
         logging.info("Logged in successfully.")
         return client
     except Exception as e:
@@ -242,7 +263,10 @@ def _normalise_entry(raw: dict[str, Any], export_root: Path) -> dict[str, Any] |
       }
     Returns None if the entry has no usable media.
     """
+
+    # Reverse media list to prefer the most recent item for caption/timestamp if there's a mismatch
     media_items: list[dict] = raw.get("media", [])
+    media_items.reverse()
     if not media_items:
         return None
 
