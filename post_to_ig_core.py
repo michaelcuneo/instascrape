@@ -775,6 +775,60 @@ def upload_post(client: Client, post: dict[str, Any]) -> None:
 
     logging.info(f"Uploaded [{media_type}] → media pk {media.pk}")
 
+    # Best effort: if Instagram sets uploaded media as hidden/off-grid, try to make it visible.
+    try:
+        raw_info = client.private_request(f"media/{media.pk}/info/")
+        item = (raw_info.get("items") or [{}])[0]
+        visibility = item.get("visibility")
+        in_grid = item.get("is_in_profile_grid")
+
+        if visibility == "only_me" or in_grid is False:
+            logging.warning(
+                "Uploaded media %s hidden (visibility=%s, is_in_profile_grid=%s). Trying to make visible...",
+                media.pk,
+                visibility,
+                in_grid,
+            )
+
+            # Step 1: undo "only me" when present.
+            try:
+                client.media_unarchive(str(media.pk))
+            except Exception as unarchive_err:
+                logging.warning("Undo-only-me failed for media %s: %s", media.pk, unarchive_err)
+
+            # Step 2: nudge visibility/profile-grid flags via edit endpoint.
+            try:
+                client.private_request(
+                    f"media/{media.pk}/edit_media/",
+                    data={
+                        "caption_text": caption,
+                        "show_in_feed": "1",
+                        "is_in_profile_grid": "1",
+                        "_uid": str(client.user_id),
+                        "_uuid": client.uuid,
+                        "device_id": client.android_device_id,
+                    },
+                )
+            except Exception as edit_err:
+                logging.warning("Visibility edit failed for media %s: %s", media.pk, edit_err)
+
+            # Re-check state and continue either way (do not block progress).
+            raw_info_2 = client.private_request(f"media/{media.pk}/info/")
+            item_2 = (raw_info_2.get("items") or [{}])[0]
+            visibility_2 = item_2.get("visibility")
+            in_grid_2 = item_2.get("is_in_profile_grid")
+            if visibility_2 == "only_me" or in_grid_2 is False:
+                logging.warning(
+                    "Media %s still hidden after remediation (visibility=%s, is_in_profile_grid=%s).",
+                    media.pk,
+                    visibility_2,
+                    in_grid_2,
+                )
+            else:
+                logging.info("Media %s is now visible in profile/public context.", media.pk)
+    except Exception as visibility_err:
+        logging.warning("Could not verify or remediate visibility for media %s: %s", media.pk, visibility_err)
+
     if REPLAY_COMMENTS:
         restored_comments = post.get("restored_comments", [])
         for comment in restored_comments:
